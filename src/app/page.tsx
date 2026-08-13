@@ -229,9 +229,11 @@ export default function Home() {
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <a
                 href="#mobil-uygulama"
-                className="inline-flex min-h-13 items-center justify-center rounded-2xl bg-white px-6 text-[12px] font-black text-black transition-transform duration-200 hover:-translate-y-0.5"
+                className="button-primary"
               >
-                Mobil Uygulamayı Keşfet
+                <span>
+                  Mobil Uygulamayı Keşfet
+                </span>
 
                 <span className="ml-3 text-[16px]">
                   →
@@ -239,8 +241,8 @@ export default function Home() {
               </a>
 
               <a
-                href="#gelecek"
-                className="inline-flex min-h-13 items-center justify-center rounded-2xl border border-[#343434] bg-[#101010] px-6 text-[12px] font-extrabold text-[#d5d7da] transition-colors duration-200 hover:border-[#505050] hover:text-white"
+                href="/gelecek"
+                className="button-secondary"
               >
                 Gelecek Özellikler
               </a>

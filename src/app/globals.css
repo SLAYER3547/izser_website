@@ -116,6 +116,107 @@ select {
   padding-block: 112px;
 }
 
+/*
+ * Ana beyaz CTA butonu.
+ *
+ * Beyaz arka plan üzerinde metin rengini
+ * yalnızca Tailwind text-black sınıfına
+ * bırakmıyoruz.
+ *
+ * Böylece global link renkleri, browser
+ * state'leri veya ileride eklenecek component
+ * stilleri buton yazısını görünmez yapamaz.
+ */
+.button-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 52px;
+
+  padding-inline: 24px;
+
+  border: 1px solid #ffffff;
+  border-radius: 16px;
+
+  background: #ffffff !important;
+  color: #000000 !important;
+
+  font-size: 12px;
+  font-weight: 900;
+
+  transition:
+    transform 180ms ease,
+    background-color 180ms ease,
+    border-color 180ms ease;
+}
+
+.button-primary,
+.button-primary:link,
+.button-primary:visited,
+.button-primary:hover,
+.button-primary:active,
+.button-primary:focus {
+  color: #000000 !important;
+}
+
+.button-primary * {
+  color: #000000 !important;
+}
+
+.button-primary:hover {
+  transform: translateY(-2px);
+  background: #eeeeee !important;
+  border-color: #eeeeee;
+}
+
+.button-primary:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 3px;
+}
+
+.button-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 52px;
+
+  padding-inline: 24px;
+
+  border: 1px solid #343434;
+  border-radius: 16px;
+
+  background: #101010;
+  color: #d5d7da !important;
+
+  font-size: 12px;
+  font-weight: 800;
+
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease,
+    background-color 180ms ease;
+}
+
+.button-secondary,
+.button-secondary:link,
+.button-secondary:visited {
+  color: #d5d7da !important;
+}
+
+.button-secondary:hover {
+  transform: translateY(-2px);
+  border-color: #505050;
+  background: #161616;
+  color: #ffffff !important;
+}
+
+.button-secondary * {
+  color: inherit !important;
+}
+
 .surface-card {
   background:
     linear-gradient(
@@ -368,6 +469,19 @@ select {
   background: #171717;
 }
 
+.store-card {
+  transition:
+    transform 200ms ease,
+    border-color 200ms ease,
+    background-color 200ms ease;
+}
+
+.store-card:hover {
+  transform: translateY(-3px);
+  border-color: #484848;
+  background: #151515;
+}
+
 @media (max-width: 1024px) {
   .section-padding {
     padding-block: 92px;
@@ -409,6 +523,11 @@ select {
 
   .section-padding {
     padding-block: 64px;
+  }
+
+  .button-primary,
+  .button-secondary {
+    width: 100%;
   }
 }
 

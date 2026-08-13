@@ -21,23 +21,17 @@ export function SiteFooter() {
             </Link>
 
             <p className="mt-5 max-w-[430px] text-[12px] leading-6 font-medium text-[#888c91]">
-              Servis taşımacılığı
-              sektöründeki şoförleri,
-              araç sahiplerini ve
-              işverenleri dijital
-              süreçlerde bir araya
-              getiren teknoloji
+              Servis taşımacılığı sektöründeki şoförleri,
+              araç sahiplerini ve işverenleri dijital
+              süreçlerde bir araya getiren teknoloji
               platformu.
             </p>
 
             <div className="mt-6 rounded-xl border border-[#292929] bg-[#0d0d0d] px-4 py-3">
               <p className="text-[10px] leading-5 font-medium text-[#777b80]">
-                İZSER taşıma hizmeti
-                sağlayıcısı değildir.
-                Platform, sektör
-                paydaşlarının dijital
-                ortamda birbirlerini
-                bulmasına ve süreçlerini
+                İZSER taşıma hizmeti sağlayıcısı değildir.
+                Platform, sektör paydaşlarının dijital ortamda
+                birbirlerini bulmasına ve süreçlerini
                 yönetmesine yardımcı olur.
               </p>
             </div>
@@ -49,6 +43,10 @@ export function SiteFooter() {
             </FooterTitle>
 
             <div className="mt-5 flex flex-col gap-3">
+              <FooterLink href="/hakkimizda">
+                Hakkımızda
+              </FooterLink>
+
               <FooterLink href="/#roller">
                 Kimler İçin?
               </FooterLink>
@@ -61,8 +59,8 @@ export function SiteFooter() {
                 Özellikler
               </FooterLink>
 
-              <FooterLink href="/#gelecek">
-                Gelecek Özellikler
+              <FooterLink href="/gelecek">
+                Gelecek Vizyonu
               </FooterLink>
 
               <FooterLink href="/iletisim">
@@ -131,15 +129,12 @@ export function SiteFooter() {
 
         <div className="mt-12 flex flex-col gap-4 border-t border-[#202020] pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-[9px] font-medium text-[#62666b]">
-            © {new Date().getFullYear()}{" "}
-            İZSER Teknoloji Ulaşım
-            Hizmetleri Ticaret Limited
-            Şirketi.
+            © {new Date().getFullYear()} İZSER Teknoloji
+            Ulaşım Hizmetleri Ticaret Limited Şirketi.
           </p>
 
           <p className="text-[9px] font-medium text-[#4f5357]">
-            Servis taşımacılığının
-            dijital çalışma ağı.
+            Servis taşımacılığının dijital çalışma ağı.
           </p>
         </div>
       </div>

@@ -14,8 +14,12 @@ const navigationItems = [
     href: "/#ozellikler",
   },
   {
+    label: "Hakkımızda",
+    href: "/hakkimizda",
+  },
+  {
     label: "Gelecek",
-    href: "/#gelecek",
+    href: "/gelecek",
   },
   {
     label: "İletişim",
@@ -44,7 +48,7 @@ export function SiteHeader() {
         </Link>
 
         <nav
-          className="hidden items-center gap-7 lg:flex"
+          className="hidden items-center gap-6 lg:flex"
           aria-label="Ana navigasyon"
         >
           {navigationItems.map(
@@ -52,7 +56,7 @@ export function SiteHeader() {
               <Link
                 key={item.href}
                 href={item.href}
-                className="text-[12px] font-semibold text-[#a5a8ac] transition-colors duration-200 hover:text-white"
+                className="text-[11px] font-semibold text-[#a5a8ac] transition-colors duration-200 hover:text-white"
               >
                 {item.label}
               </Link>
@@ -70,7 +74,7 @@ export function SiteHeader() {
 
           <Link
             href="/#mobil-uygulama"
-            className="rounded-xl bg-white px-5 py-2.5 text-[11px] font-black text-black transition-transform duration-200 hover:-translate-y-0.5"
+            className="button-primary min-h-[42px] rounded-xl px-5 py-2.5 text-[11px]"
           >
             Mobil Uygulama
           </Link>
@@ -87,7 +91,7 @@ export function SiteHeader() {
             </span>
           </summary>
 
-          <div className="absolute top-12 right-0 w-[260px] overflow-hidden rounded-2xl border border-[#2b2b2b] bg-[#0d0d0d] p-2 shadow-2xl shadow-black/60">
+          <div className="absolute top-12 right-0 w-[275px] overflow-hidden rounded-2xl border border-[#2b2b2b] bg-[#0d0d0d] p-2 shadow-2xl shadow-black/60">
             <nav
               className="flex flex-col"
               aria-label="Mobil navigasyon"
@@ -108,7 +112,7 @@ export function SiteHeader() {
 
               <Link
                 href="/#mobil-uygulama"
-                className="rounded-xl bg-white px-4 py-3 text-center text-[12px] font-black text-black"
+                className="button-primary min-h-[44px] rounded-xl px-4 text-[12px]"
               >
                 Mobil Uygulamayı Keşfet
               </Link>

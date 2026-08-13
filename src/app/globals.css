@@ -32,23 +32,43 @@
 
 html {
   min-width: 320px;
+
   scroll-behavior: smooth;
-  background: var(--background);
+
+  scroll-padding-top:
+    calc(
+      var(--header-height) + 24px
+    );
+
+  overflow-x: clip;
+
+  background:
+    var(--background);
 }
 
 body {
+  min-width: 320px;
   min-height: 100vh;
+
   margin: 0;
+
+  overflow-x: clip;
 
   background:
     radial-gradient(
       circle at 50% -20%,
-      rgba(255, 255, 255, 0.07),
+      rgba(
+        255,
+        255,
+        255,
+        0.07
+      ),
       transparent 32%
     ),
     #000000;
 
-  color: var(--text-primary);
+  color:
+    var(--text-primary);
 
   font-family:
     Inter,
@@ -59,17 +79,40 @@ body {
     "Segoe UI",
     sans-serif;
 
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
+  text-rendering:
+    optimizeLegibility;
+
+  -webkit-font-smoothing:
+    antialiased;
+}
+
+main:focus {
+  outline: none;
+}
+
+[id] {
+  scroll-margin-top:
+    calc(
+      var(--header-height) + 24px
+    );
+}
+
+img {
+  max-width: 100%;
 }
 
 button,
 a {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color:
+    transparent;
+
+  touch-action:
+    manipulation;
 }
 
 a {
   color: inherit;
+
   text-decoration: none;
 }
 
@@ -80,8 +123,38 @@ select {
   font: inherit;
 }
 
+button {
+  cursor: pointer;
+}
+
+:where(
+  a,
+  button,
+  input,
+  textarea,
+  select,
+  summary
+):focus-visible {
+  outline: 2px solid
+    rgba(
+      255,
+      255,
+      255,
+      0.95
+    );
+
+  outline-offset: 3px;
+}
+
 ::selection {
-  background: rgba(255, 255, 255, 0.92);
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.92
+    );
+
   color: #000000;
 }
 
@@ -95,7 +168,10 @@ select {
 
 ::-webkit-scrollbar-thumb {
   background: #323232;
-  border: 2px solid #080808;
+
+  border: 2px solid
+    #080808;
+
   border-radius: 999px;
 }
 
@@ -104,10 +180,13 @@ select {
 }
 
 .site-container {
-  width: min(
-    calc(100% - 40px),
-    var(--container)
-  );
+  width:
+    min(
+      calc(
+        100% - 40px
+      ),
+      var(--container)
+    );
 
   margin-inline: auto;
 }
@@ -116,19 +195,9 @@ select {
   padding-block: 112px;
 }
 
-/*
- * Ana beyaz CTA butonu.
- *
- * Beyaz arka plan üzerinde metin rengini
- * yalnızca Tailwind text-black sınıfına
- * bırakmıyoruz.
- *
- * Böylece global link renkleri, browser
- * state'leri veya ileride eklenecek component
- * stilleri buton yazısını görünmez yapamaz.
- */
 .button-primary {
   display: inline-flex;
+
   align-items: center;
   justify-content: center;
 
@@ -136,13 +205,19 @@ select {
 
   padding-inline: 24px;
 
-  border: 1px solid #ffffff;
+  border: 1px solid
+    #ffffff;
+
   border-radius: 16px;
 
-  background: #ffffff !important;
-  color: #000000 !important;
+  background:
+    #ffffff !important;
+
+  color:
+    #000000 !important;
 
   font-size: 12px;
+
   font-weight: 900;
 
   transition:
@@ -157,26 +232,37 @@ select {
 .button-primary:hover,
 .button-primary:active,
 .button-primary:focus {
-  color: #000000 !important;
+  color:
+    #000000 !important;
 }
 
 .button-primary * {
-  color: #000000 !important;
+  color:
+    #000000 !important;
 }
 
 .button-primary:hover {
-  transform: translateY(-2px);
-  background: #eeeeee !important;
-  border-color: #eeeeee;
+  transform:
+    translateY(-2px);
+
+  background:
+    #eeeeee !important;
+
+  border-color:
+    #eeeeee;
 }
 
 .button-primary:focus-visible {
-  outline: 2px solid #ffffff;
-  outline-offset: 3px;
+  outline:
+    2px solid #ffffff;
+
+  outline-offset:
+    3px;
 }
 
 .button-secondary {
   display: inline-flex;
+
   align-items: center;
   justify-content: center;
 
@@ -184,13 +270,19 @@ select {
 
   padding-inline: 24px;
 
-  border: 1px solid #343434;
+  border: 1px solid
+    #343434;
+
   border-radius: 16px;
 
-  background: #101010;
-  color: #d5d7da !important;
+  background:
+    #101010;
+
+  color:
+    #d5d7da !important;
 
   font-size: 12px;
+
   font-weight: 800;
 
   transition:
@@ -203,14 +295,22 @@ select {
 .button-secondary,
 .button-secondary:link,
 .button-secondary:visited {
-  color: #d5d7da !important;
+  color:
+    #d5d7da !important;
 }
 
 .button-secondary:hover {
-  transform: translateY(-2px);
-  border-color: #505050;
-  background: #161616;
-  color: #ffffff !important;
+  transform:
+    translateY(-2px);
+
+  border-color:
+    #505050;
+
+  background:
+    #161616;
+
+  color:
+    #ffffff !important;
 }
 
 .button-secondary * {
@@ -221,36 +321,62 @@ select {
   background:
     linear-gradient(
       145deg,
-      rgba(255, 255, 255, 0.025),
+      rgba(
+        255,
+        255,
+        255,
+        0.025
+      ),
       transparent 45%
     ),
     var(--surface);
 
-  border: 1px solid var(--border);
+  border: 1px solid
+    var(--border);
 }
 
 .hero-grid {
   position: absolute;
+
   inset: 0;
 
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.034) 1px,
+      rgba(
+        255,
+        255,
+        255,
+        0.034
+      )
+        1px,
       transparent 1px
     ),
     linear-gradient(
       90deg,
-      rgba(255, 255, 255, 0.034) 1px,
+      rgba(
+        255,
+        255,
+        255,
+        0.034
+      )
+        1px,
       transparent 1px
     );
 
-  background-size: 62px 62px;
+  background-size:
+    62px 62px;
 
-  mask-image: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.95),
-    transparent 88%
-  );
+  mask-image:
+    linear-gradient(
+      to bottom,
+      rgba(
+        0,
+        0,
+        0,
+        0.95
+      ),
+      transparent 88%
+    );
 
   pointer-events: none;
 }
@@ -263,9 +389,16 @@ select {
 
   border-radius: 999px;
 
-  background: rgba(59, 130, 246, 0.11);
+  background:
+    rgba(
+      59,
+      130,
+      246,
+      0.11
+    );
 
-  filter: blur(100px);
+  filter:
+    blur(100px);
 
   pointer-events: none;
 }
@@ -278,9 +411,16 @@ select {
 
   border-radius: 999px;
 
-  background: rgba(139, 92, 246, 0.09);
+  background:
+    rgba(
+      139,
+      92,
+      246,
+      0.09
+    );
 
-  filter: blur(110px);
+  filter:
+    blur(110px);
 
   pointer-events: none;
 }
@@ -293,23 +433,34 @@ select {
 
   border-radius: 999px;
 
-  background: rgba(20, 184, 166, 0.075);
+  background:
+    rgba(
+      20,
+      184,
+      166,
+      0.075
+    );
 
-  filter: blur(110px);
+  filter:
+    blur(110px);
 
   pointer-events: none;
 }
 
 .text-gradient {
-  background: linear-gradient(
-    100deg,
-    #ffffff 0%,
-    #ffffff 45%,
-    #9ca3af 100%
-  );
+  background:
+    linear-gradient(
+      100deg,
+      #ffffff 0%,
+      #ffffff 45%,
+      #9ca3af 100%
+    );
 
-  -webkit-background-clip: text;
-  background-clip: text;
+  -webkit-background-clip:
+    text;
+
+  background-clip:
+    text;
 
   color: transparent;
 }
@@ -317,13 +468,19 @@ select {
 .phone-frame {
   position: relative;
 
-  width: min(100%, 324px);
+  width:
+    min(
+      100%,
+      324px
+    );
 
   margin-inline: auto;
 
   padding: 10px;
 
-  border: 1px solid #3a3a3a;
+  border: 1px solid
+    #3a3a3a;
+
   border-radius: 48px;
 
   background:
@@ -336,9 +493,27 @@ select {
     );
 
   box-shadow:
-    0 45px 90px rgba(0, 0, 0, 0.55),
-    0 0 0 1px rgba(255, 255, 255, 0.04),
-    inset 0 0 0 1px rgba(255, 255, 255, 0.07);
+    0 45px 90px
+      rgba(
+        0,
+        0,
+        0,
+        0.55
+      ),
+    0 0 0 1px
+      rgba(
+        255,
+        255,
+        255,
+        0.04
+      ),
+    inset 0 0 0 1px
+      rgba(
+        255,
+        255,
+        255,
+        0.07
+      );
 }
 
 .phone-screen {
@@ -352,26 +527,32 @@ select {
 
   background: #000000;
 
-  border: 1px solid #222222;
+  border: 1px solid
+    #222222;
 }
 
 .phone-island {
   position: absolute;
+
   z-index: 5;
 
   top: 13px;
+
   left: 50%;
 
   width: 92px;
   height: 25px;
 
-  transform: translateX(-50%);
+  transform:
+    translateX(-50%);
 
   border-radius: 999px;
 
   background: #000000;
 
-  box-shadow: 0 0 0 1px #1d1d1d;
+  box-shadow:
+    0 0 0 1px
+      #1d1d1d;
 }
 
 .role-card {
@@ -382,7 +563,8 @@ select {
 }
 
 .role-card:hover {
-  transform: translateY(-5px);
+  transform:
+    translateY(-5px);
 }
 
 .feature-card {
@@ -392,8 +574,11 @@ select {
 }
 
 .feature-card:hover {
-  transform: translateY(-4px);
-  border-color: #444444;
+  transform:
+    translateY(-4px);
+
+  border-color:
+    #444444;
 }
 
 .future-card {
@@ -404,6 +589,7 @@ select {
 
 .future-card::before {
   position: absolute;
+
   content: "";
 
   width: 220px;
@@ -414,9 +600,16 @@ select {
 
   border-radius: 999px;
 
-  background: rgba(255, 255, 255, 0.045);
+  background:
+    rgba(
+      255,
+      255,
+      255,
+      0.045
+    );
 
-  filter: blur(20px);
+  filter:
+    blur(20px);
 }
 
 .platform-line {
@@ -428,32 +621,40 @@ select {
 
   height: 1px;
 
-  background: linear-gradient(
-    90deg,
-    transparent,
-    #363636,
-    transparent
-  );
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      #363636,
+      transparent
+    );
 }
 
-.mobile-menu summary {
-  list-style: none;
+.mobile-nav-panel {
+  transform-origin:
+    top right;
+
+  animation:
+    mobile-nav-enter
+    180ms ease-out;
 }
 
-.mobile-menu summary::-webkit-details-marker {
-  display: none;
-}
+@keyframes mobile-nav-enter {
+  from {
+    opacity: 0;
 
-.mobile-menu[open] summary .mobile-menu-line:first-child {
-  transform: translateY(3px) rotate(45deg);
-}
+    transform:
+      translateY(-8px)
+      scale(0.98);
+  }
 
-.mobile-menu[open] summary .mobile-menu-line:last-child {
-  transform: translateY(-3px) rotate(-45deg);
-}
+  to {
+    opacity: 1;
 
-.mobile-menu-line {
-  transition: transform 180ms ease;
+    transform:
+      translateY(0)
+      scale(1);
+  }
 }
 
 .contact-link {
@@ -464,9 +665,14 @@ select {
 }
 
 .contact-link:hover {
-  transform: translateY(-2px);
-  border-color: #505050;
-  background: #171717;
+  transform:
+    translateY(-2px);
+
+  border-color:
+    #505050;
+
+  background:
+    #171717;
 }
 
 .store-card {
@@ -477,27 +683,39 @@ select {
 }
 
 .store-card:hover {
-  transform: translateY(-3px);
-  border-color: #484848;
-  background: #151515;
+  transform:
+    translateY(-3px);
+
+  border-color:
+    #484848;
+
+  background:
+    #151515;
 }
 
-@media (max-width: 1024px) {
+@media (
+  max-width: 1024px
+) {
   .section-padding {
     padding-block: 92px;
   }
 }
 
-@media (max-width: 768px) {
+@media (
+  max-width: 768px
+) {
   :root {
     --header-height: 68px;
   }
 
   .site-container {
-    width: min(
-      calc(100% - 28px),
-      var(--container)
-    );
+    width:
+      min(
+        calc(
+          100% - 28px
+        ),
+        var(--container)
+      );
   }
 
   .section-padding {
@@ -505,20 +723,30 @@ select {
   }
 
   .hero-grid {
-    background-size: 42px 42px;
+    background-size:
+      42px 42px;
   }
 
   .phone-frame {
-    width: min(88vw, 320px);
+    width:
+      min(
+        88vw,
+        320px
+      );
   }
 }
 
-@media (max-width: 480px) {
+@media (
+  max-width: 480px
+) {
   .site-container {
-    width: min(
-      calc(100% - 22px),
-      var(--container)
-    );
+    width:
+      min(
+        calc(
+          100% - 22px
+        ),
+        var(--container)
+      );
   }
 
   .section-padding {
@@ -531,7 +759,10 @@ select {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
+@media (
+  prefers-reduced-motion:
+    reduce
+) {
   html {
     scroll-behavior: auto;
   }
@@ -539,10 +770,16 @@ select {
   *,
   *::before,
   *::after {
-    scroll-behavior: auto !important;
+    scroll-behavior:
+      auto !important;
 
-    transition-duration: 0.01ms !important;
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
+    transition-duration:
+      0.01ms !important;
+
+    animation-duration:
+      0.01ms !important;
+
+    animation-iteration-count:
+      1 !important;
   }
 }

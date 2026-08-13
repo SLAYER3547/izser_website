@@ -1,0 +1,3141 @@
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+KİŞİSEL VERİLERİN KORUNMASI KANUNU KAPSAMINDA AYDINLATMA METNİ
+
+Doküman Kodu: KVKK-AM-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026
+
+Revizyon Tarihi: -
+
+Hazırlayan: İZSER Hukuk Birimi
+
+İÇİNDEKİLER
+
+Amaç ve Kapsam
+
+Veri Sorumlusu
+
+Tanımlar
+
+Kişisel Verilerin İşlenme İlkeleri
+
+İşlenen Kişisel Veri Kategorileri
+
+Kişisel Verilerin İşlenme Amaçları
+
+Kişisel Verilerin İşlenmesinin Hukuki Sebepleri
+
+Kişisel Verilerin Toplanma Yöntemi
+
+Kişisel Verilerin Aktarılması
+
+Yurt Dışına Veri Aktarımı
+
+Kişisel Verilerin Saklanması
+
+Teknik ve İdari Tedbirler
+
+İlgili Kişinin Hakları
+
+Veri Sorumlusuna Başvuru
+
+Güncelleme
+
+Yürürlük
+
+Ekler
+
+1. AMAÇ VE KAPSAM
+
+1.1 Amaç
+
+İşbu Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni (”Aydınlatma Metni”), 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) 10 uncu maddesi uyarınca, veri sorumlusu sıfatıyla hareket eden İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi (”İZSER” veya “Şirket”) tarafından işlenen kişisel verilere ilişkin olarak ilgili kişilerin aydınlatılması amacıyla hazırlanmıştır.
+
+İZSER; personel servis taşımacılığı sektöründe faaliyet gösteren araç sahipleri, şoförler ve kurumsal hizmet alıcılarını dijital ortamda bir araya getiren; fiyat teklif toplama, dijital evrak doğrulama, üyelik yönetimi, platform içi iletişim ve ilgili dijital hizmetlerin sunulmasına yönelik bir teknoloji platformudur. Platformun bu temel işlevleri, daha önce hazırlanan proje dokümanında da aynı çerçevede tanımlanmıştır.
+
+Bu Aydınlatma Metni ile İZSER;
+
+hangi kişisel verileri işlediğini,
+
+kişisel verileri hangi hukuki sebeplere dayanarak işlediğini,
+
+kişisel verileri hangi amaçlarla kullandığını,
+
+kişisel verilerin kimlere ve hangi durumlarda aktarılabileceğini,
+
+kişisel verilerin ne kadar süre saklandığını,
+
+ilgili kişilerin KVKK kapsamındaki haklarını,
+
+veri sorumlusuna başvuru usullerini,
+
+ilgili kişilere açık, anlaşılır ve şeffaf bir şekilde açıklamaktadır.
+
+1.2 Kapsam
+
+İşbu Aydınlatma Metni, İZSER tarafından sunulan mobil uygulama, internet sitesi, yönetim paneli ve bunlarla bağlantılı tüm dijital hizmetlerin kullanımı sırasında kişisel verileri işlenen aşağıdaki kişi gruplarını kapsar:
+
+Platforma üye olan gerçek kişiler,
+
+Şoför kullanıcılar,
+
+Araç sahibi kullanıcılar,
+
+Kurumsal üye temsilcileri,
+
+Platform üzerinden fiyat teklifi veren veya fiyat teklif talebi oluşturan kullanıcılar,
+
+Platform üzerinden mesajlaşma hizmetini kullanan kullanıcılar,
+
+Doğrulanmış Üye sürecine katılan kullanıcılar,
+
+Destek talebi oluşturan kullanıcılar,
+
+İnternet sitesini veya mobil uygulamayı ziyaret eden kişiler.
+
+İZSER tarafından sunulan hizmetlerin niteliğine göre, kişisel verilerin işlenme kapsamı kullanıcı türüne, kullanılan hizmete ve yürürlükteki mevzuata göre farklılık gösterebilir.
+
+1.3 Hukuki Dayanak
+
+Bu Aydınlatma Metni başta;
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu,
+
+Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ,
+
+Kişisel Verileri Koruma Kurulu ilke kararları ve rehberleri,
+
+kişisel verilerin korunmasına ilişkin yürürlükte bulunan diğer ilgili mevzuat
+
+esas alınarak hazırlanmıştır.
+
+İZSER, kişisel verilerin işlenmesi sırasında yalnızca KVKK hükümlerine değil; hukuka ve dürüstlük kurallarına uygunluk, amaçla bağlantılılık, veri minimizasyonu ve hesap verebilirlik ilkelerine de uygun hareket etmeyi taahhüt eder.
+
+2. VERİ SORUMLUSU
+
+2.1 Veri Sorumlusunun Kimliği
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, işbu Aydınlatma Metni’nde belirtilen kişisel verileriniz aşağıda bilgileri yer alan veri sorumlusu tarafından işlenmektedir.
+
+Ticaret Unvanı
+
+İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi
+
+MERSİS No
+
+0483158643300001
+
+Ticaret Sicil No
+
+275113
+
+Vergi Dairesi
+
+Şirinyer Vergi Dairesi
+
+Vergi Kimlik No
+
+4831586433
+
+Merkez Adresi
+
+Buca Koop Mahallesi 220/70 Sokak
+
+İşkent Sitesi C Blok No:16 İç Kapı No:14
+
+Buca / İZMİR
+
+E-posta Adresi
+
+kvkk@izser.com (alan adının aktif edilmesiyle kullanılacaktır.)
+
+KEP Adresi
+
+Şirket tarafından temin edilmesini müteakip internet sitesi üzerinden ilan edilecektir.
+
+2.2 Veri Sorumlusu Sıfatı
+
+İZSER, mobil uygulaması, internet sitesi ve diğer dijital platformları aracılığıyla yürüttüğü faaliyetler kapsamında elde ettiği kişisel verileri, 6698 sayılı Kanun’un 3 üncü maddesi anlamında “Veri Sorumlusu” sıfatıyla işlemektedir.
+
+Veri sorumlusu olarak İZSER;
+
+kişisel verilerin hukuka uygun şekilde işlenmesini,
+
+kişisel verilerin güvenliğinin sağlanmasını,
+
+veri işleme faaliyetlerinin belirli, açık ve meşru amaçlarla yürütülmesini,
+
+ilgili kişilerin haklarının korunmasını,
+
+veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmasını
+
+sağlamakla yükümlüdür.
+
+2.3 Veri Sorumlusunun Faaliyet Alanı
+
+İZSER;
+
+personel servis taşımacılığı sektöründe faaliyet gösteren araç sahipleri ile hizmet talep eden kurumsal kullanıcıları dijital ortamda buluşturan,
+
+fiyat teklif toplama süreçlerini yöneten,
+
+dijital evrak doğrulama süreçlerini yürüten,
+
+üyelik ve kullanıcı doğrulama hizmetleri sunan,
+
+platform içi iletişim altyapısını sağlayan,
+
+kullanıcılar arasında teklif süreçlerinin güvenli biçimde yürütülmesini kolaylaştıran
+
+bir teknoloji platformudur.
+
+İZSER, kullanıcılar arasında kurulabilecek taşıma, hizmet veya ticari ilişkilere taraf değildir. Platformun görevi; kullanıcıların ilan oluşturmasına, fiyat teklifi vermesine, tekliflerin değerlendirilmesine ve tarafların güvenli biçimde iletişim kurmasına imkân sağlayan dijital altyapıyı sunmaktır.
+
+2.4 Veri Sorumlusunun Sorumlulukları
+
+İZSER, veri sorumlusu sıfatıyla;
+
+kişisel verileri yalnızca hukuka uygun amaçlarla işler,
+
+işlenen kişisel verilerin doğruluğunu ve güncelliğini makul ölçüde sağlamaya çalışır,
+
+kişisel verileri yalnızca gerekli olduğu süre boyunca muhafaza eder,
+
+kişisel verilerin yetkisiz kişiler tarafından erişilmesini önlemeye yönelik gerekli teknik ve idari tedbirleri alır,
+
+kişisel verilerin hukuka aykırı olarak işlenmesini ve aktarılmasını önlemek için gerekli organizasyonu oluşturur,
+
+ilgili kişilerin başvurularını yürürlükteki mevzuat çerçevesinde değerlendirir ve sonuçlandırır.
+
+2.5 İletişim ve Başvuru Kanalları
+
+İlgili kişiler, kişisel verilerine ilişkin her türlü talep, soru, öneri veya başvurularını aşağıdaki iletişim kanallarını kullanarak İZSER’e iletebilir:
+
+Posta Adresi
+
+İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi
+
+Buca Koop Mahallesi 220/70 Sokak
+
+İşkent Sitesi C Blok No:16 İç Kapı No:14
+
+Buca / İZMİR
+
+Elektronik Posta
+
+kvkk@izser.com (aktif edildiğinde)
+
+KEP Adresi
+
+Şirket tarafından ilan edilecektir.
+
+Başvurular, KVKK’nın 13 üncü maddesi ile Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ hükümlerine uygun olarak değerlendirilir.
+
+3. TANIMLAR
+
+İşbu Aydınlatma Metni’nde geçen aşağıdaki ifadeler, aksine açıkça belirtilmedikçe karşılarında yazılı anlamları ifade eder.
+
+3.1 Açık Rıza
+
+Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan onayı ifade eder.
+
+3.2 Admin
+
+İZSER tarafından yetkilendirilen; kullanıcı üyeliklerini, dijital evrak doğrulama süreçlerini, ilanları, teklif süreçlerini ve platformun güvenliğini yönetmek üzere görevlendirilen gerçek kişileri ifade eder.
+
+3.3 Araç Sahibi
+
+Platforma kayıtlı servis aracının maliki, işleteni veya ilgili mevzuat uyarınca aracı kullanma ve yönetme yetkisine sahip gerçek kişi ya da tüzel kişi temsilcisini ifade eder.
+
+3.4 Aydınlatma Metni
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10 uncu maddesi uyarınca hazırlanan işbu İZSER Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metnini ifade eder.
+
+3.5 Dijital Evrak
+
+Platform üzerinden elektronik ortamda yüklenen;
+
+ruhsat,
+
+sürücü belgesi,
+
+SRC Belgesi,
+
+Psikoteknik Belgesi,
+
+Mesleki Yeterlilik Belgesi (MYK),
+
+taşıt kartı,
+
+sigorta poliçesi,
+
+vergi levhası,
+
+faaliyet belgesi,
+
+yetki belgesi
+
+ve benzeri tüm belge ve kayıtları ifade eder.
+
+3.6 Dijital Evrak Doğrulama
+
+Platforma yüklenen dijital evrakların okunabilirliği, geçerlilik tarihi ve platform üyelik şartlarına uygunluğunun İZSER tarafından kontrol edilmesi sürecini ifade eder.
+
+Bu kontrol, ilgili belgenin kamu kurumları adına resmî olarak onaylandığı veya doğrulandığı anlamına gelmez.
+
+3.7 Doğrulanmış Üye
+
+İZSER tarafından talep edilen belgeleri eksiksiz yükleyen ve dijital evrak kontrol sürecini başarıyla tamamlayan kullanıcıyı ifade eder.
+
+Doğrulanmış Üye statüsü, kullanıcının ilgili mevzuat bakımından tüm şartları taşıdığı yönünde resmî bir garanti oluşturmaz.
+
+3.8 Fiyat Teklifi
+
+Araç sahibi veya yetkilendirilmiş kullanıcı tarafından, kurumsal üye tarafından oluşturulan fiyat teklif toplama talebine ilişkin olarak elektronik ortamda sunulan fiyat önerisini ifade eder.
+
+3.9 Fiyat Teklif Toplama Talebi
+
+Kurumsal kullanıcı tarafından;
+
+güzergâh,
+
+araç tipi,
+
+araç sayısı,
+
+çalışma günleri,
+
+servis başlangıç tarihi,
+
+diğer hizmet koşulları
+
+belirtilerek oluşturulan ve araç sahiplerinden teklif alınmasını sağlayan elektronik süreci ifade eder.
+
+3.10 İlgili Kişi
+
+Kişisel verisi İZSER tarafından işlenen kimliği belirli veya belirlenebilir gerçek kişiyi ifade eder.
+
+3.11 İZSER
+
+İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi’ni ifade eder.
+
+3.12 Kanun / KVKK
+
+24/03/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu’nu ifade eder.
+
+3.13 Kişisel Veri
+
+Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi ifade eder.
+
+3.14 Kurumsal Üye
+
+Platform üzerinden personel servis taşımacılığı hizmeti talep eden veya bu hizmetin organizasyonunu yürüten gerçek kişi tacir, tüzel kişi, şirket, kamu kurumu veya diğer kuruluşların yetkili temsilcisini ifade eder.
+
+3.15 Kullanıcı
+
+Platforma üye olan ve platform hizmetlerinden yararlanan gerçek kişiyi ifade eder.
+
+Kullanıcı kavramı; şoför, araç sahibi ve kurumsal üye temsilcilerini de kapsar.
+
+3.16 Log Kaydı
+
+Platformun güvenliğinin sağlanması amacıyla oluşturulan;
+
+giriş-çıkış kayıtlarını,
+
+IP adresi kayıtlarını,
+
+cihaz bilgilerini,
+
+işlem geçmişini,
+
+zaman damgalarını,
+
+sistem olay kayıtlarını
+
+ifade eder.
+
+3.17 Mesajlaşma Hizmeti
+
+Platform üzerinden kullanıcıların birbirleriyle elektronik ortamda iletişim kurmasını sağlayan sistemi ifade eder.
+
+3.18 Platform
+
+İZSER’e ait;
+
+mobil uygulamayı,
+
+internet sitesini,
+
+yönetim panelini,
+
+API servislerini,
+
+elektronik iletişim altyapılarını,
+
+gelecekte geliştirilecek diğer dijital hizmetleri
+
+ifade eder.
+
+3.19 Şoför
+
+Platform üzerinden servis taşımacılığı hizmeti sunan veya sunmak amacıyla üyelik oluşturan gerçek kişiyi ifade eder.
+
+3.20 Teklif Süreci
+
+Kurumsal kullanıcı tarafından oluşturulan fiyat teklif toplama talebinin yayımlanması, araç sahiplerinin teklif sunması, tekliflerin değerlendirilmesi, kabul veya reddedilmesi ve kabul edilen teklif sonrasında tarafların iletişim kurmasına kadar devam eden elektronik süreci ifade eder.
+
+3.21 Veri Sorumlusu
+
+6698 sayılı Kanun kapsamında kişisel verilerin işlenme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketini ifade eder.
+
+4. KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN TEMEL İLKELER
+
+4.1 Genel İlke
+
+İZSER, kişisel verilerin işlenmesi faaliyetlerini, başta 6698 sayılı Kişisel Verilerin Korunması Kanunu olmak üzere yürürlükte bulunan ilgili tüm mevzuata uygun olarak yürütür.
+
+İZSER tarafından gerçekleştirilen tüm veri işleme faaliyetlerinde;
+
+hukuka ve dürüstlük kurallarına uygun hareket edilmesi,
+
+kişisel verilerin doğru ve gerektiğinde güncel tutulması,
+
+kişisel verilerin belirli, açık ve meşru amaçlarla işlenmesi,
+
+işlenen verilerin amaçla bağlantılı, sınırlı ve ölçülü olması,
+
+kişisel verilerin yalnızca gerekli olan süre kadar muhafaza edilmesi
+
+ilkeleri esas alınmaktadır.
+
+4.2 Hukuka ve Dürüstlük Kurallarına Uygun İşleme
+
+İZSER, kişisel verileri yalnızca yürürlükte bulunan mevzuatın izin verdiği kapsamda ve kullanıcıların makul beklentileri doğrultusunda işler.
+
+Platform kullanıcılarından elde edilen hiçbir kişisel veri;
+
+hukuka aykırı amaçlarla,
+
+ayrımcılık oluşturacak şekilde,
+
+kullanıcı aleyhine haksız sonuç doğuracak biçimde
+
+işlenmez.
+
+4.3 Doğruluk ve Güncellik İlkesi
+
+İZSER, işlediği kişisel verilerin doğru ve güncel olmasına makul ölçüde önem verir.
+
+Bu kapsamda;
+
+kullanıcılar hesap bilgilerinin güncellenmesinden,
+
+araç sahipleri araç bilgilerinin güncellenmesinden,
+
+şoförler mesleki belgelerinin güncelliğinden,
+
+kurumsal üyeler şirket bilgilerinin doğruluğundan
+
+sorumludur.
+
+İZSER, gerekli gördüğü hâllerde kullanıcıdan bilgi ve belge güncellemesi talep edebilir.
+
+4.4 Belirli, Açık ve Meşru Amaçlarla İşleme
+
+İZSER kişisel verileri yalnızca aşağıdaki faaliyetlerin yürütülmesi amacıyla işler:
+
+üyelik işlemlerinin gerçekleştirilmesi,
+
+kullanıcı doğrulama süreçlerinin yürütülmesi,
+
+dijital evrak doğrulama,
+
+fiyat teklif toplama süreçlerinin işletilmesi,
+
+tekliflerin değerlendirilmesi,
+
+tarafların iletişiminin sağlanması,
+
+platform güvenliğinin sağlanması,
+
+teknik destek hizmetlerinin sunulması,
+
+hukuki yükümlülüklerin yerine getirilmesi,
+
+bilgi güvenliği süreçlerinin yürütülmesi.
+
+Bu amaçlar dışında kişisel veriler işlenmez.
+
+4.5 Ölçülülük İlkesi
+
+İZSER, kullanıcıdan yalnızca sunulan hizmet bakımından gerekli olan kişisel verileri talep eder.
+
+Örneğin;
+
+Şoförlerden;
+
+sürücü belgesi,
+
+SRC Belgesi,
+
+Psikoteknik Belgesi,
+
+MYK Belgesi,
+
+talep edilirken;
+
+Kurumsal üyelerden;
+
+şirket bilgileri,
+
+vergi bilgileri,
+
+yetkili kişi bilgileri,
+
+talep edilmektedir.
+
+Her kullanıcı grubundan aynı veriler talep edilmez.
+
+4.6 Veri Minimizasyonu
+
+İZSER, platformun çalışması için gerekli olmayan hiçbir kişisel veriyi istememeyi ilke edinmiştir.
+
+Bu kapsamda;
+
+gereksiz belge talep edilmez,
+
+gereksiz kimlik bilgisi istenmez,
+
+gereksiz konum verisi toplanmaz,
+
+gereksiz iletişim bilgisi işlenmez.
+
+4.7 Saklama Süresi İlkesi
+
+Kişisel veriler;
+
+işleme amacının ortadan kalkması,
+
+saklama süresinin sona ermesi,
+
+ilgili mevzuatta öngörülen sürenin dolması
+
+hâllerinde silinir, yok edilir veya anonim hâle getirilir.
+
+4.8 Gizlilik İlkesi
+
+İZSER çalışanları, yöneticileri, danışmanları ve hizmet sağlayıcıları;
+
+kişisel verilerin gizliliğini korumakla yükümlüdür.
+
+Kişisel verilere yalnızca görev tanımı gereği erişmesi gereken kişiler erişebilir.
+
+4.9 Hesap Verebilirlik İlkesi
+
+İZSER;
+
+kişisel veri işleme faaliyetlerini kayıt altına alır,
+
+veri güvenliği tedbirlerini düzenli olarak gözden geçirir,
+
+gerekli hâllerde iç denetim gerçekleştirir,
+
+kişisel veri ihlallerine karşı müdahale süreçleri oluşturur.
+
+4.10 Şeffaflık İlkesi
+
+İZSER, kişisel verilerin işlenmesine ilişkin süreçleri kullanıcıların kolayca anlayabileceği açık ve sade bir dille açıklamayı ilke edinmiştir.
+
+Kullanıcılar;
+
+hangi verilerinin işlendiğini,
+
+hangi amaçlarla işlendiğini,
+
+hangi hukuki sebeplere dayanıldığını,
+
+kimlerle paylaşılabileceğini,
+
+ne kadar süre saklandığını
+
+her zaman öğrenebilir.
+
+5. İŞLENEN KİŞİSEL VERİ KATEGORİLERİ
+
+5.1 Genel Açıklama
+
+İZSER, sunduğu hizmetlerin niteliğine göre kullanıcılarından yalnızca hizmetin sunulması için gerekli olan kişisel verileri işlemektedir.
+
+İşlenen kişisel veriler; kullanıcının platformdaki rolüne (Şoför, Araç Sahibi, Kurumsal Üye vb.), kullanılan hizmete ve ilgili mevzuattan doğan yükümlülüklere göre farklılık gösterebilir.
+
+İZSER, kişisel verileri veri minimizasyonu ilkesi gereğince yalnızca gerekli olduğu ölçüde toplar ve işler.
+
+5.2 Kimlik Bilgileri
+
+İşlenen Veriler
+
+Ad
+
+Soyad
+
+T.C. Kimlik Numarası (yalnızca gerekli olduğu hâllerde)
+
+Doğum Tarihi
+
+İmza (fiziki başvuru hâlinde)
+
+Veri Sahibi
+
+Şoför
+
+Araç Sahibi
+
+Kurumsal Üye Yetkilisi
+
+İşleme Amaçları
+
+Üyelik oluşturulması
+
+Kimlik doğrulama
+
+Hesap güvenliğinin sağlanması
+
+Hukuki yükümlülüklerin yerine getirilmesi
+
+Hukuki Sebep
+
+KVKK m.5/2-c
+
+KVKK m.5/2-ç
+
+5.3 İletişim Bilgileri
+
+İşlenen Veriler
+
+Cep telefonu
+
+E-posta adresi
+
+Adres bilgisi
+
+İşleme Amaçları
+
+Hesap doğrulama
+
+SMS doğrulaması
+
+Bildirim gönderimi
+
+Kullanıcı iletişimi
+
+Teknik destek
+
+Veri Sahibi
+
+Tüm kullanıcılar
+
+5.4 Kullanıcı Hesap Bilgileri
+
+İşlenen Veriler
+
+Kullanıcı ID
+
+Kullanıcı adı
+
+Üyelik tarihi
+
+Hesap durumu
+
+Son giriş tarihi
+
+İşleme Amaçları
+
+Hesap yönetimi
+
+Üyelik süreçleri
+
+Güvenlik kontrolleri
+
+5.5 Araç Bilgileri
+
+İZSER tarafından araç sahiplerinden aşağıdaki bilgiler işlenebilir.
+
+İşlenen Veriler
+
+Plaka
+
+Araç Markası
+
+Modeli
+
+Model Yılı
+
+Koltuk Kapasitesi
+
+Ruhsat Bilgileri
+
+Taşıt Kartı
+
+Yetki Belgeleri
+
+Zorunlu Trafik Sigortası Bilgileri
+
+İşleme Amaçları
+
+Araç doğrulama
+
+İlanlara katılım
+
+Teklif verebilme
+
+Dijital evrak doğrulama
+
+Veri Sahibi
+
+Araç Sahibi
+
+5.6 Şoför Belgeleri
+
+Platform kapsamında şoförlerden aşağıdaki kişisel veriler işlenebilir.
+
+İşlenen Belgeler
+
+Sürücü Belgesi
+
+SRC Belgesi
+
+Psikoteknik Belgesi
+
+MYK Belgesi
+
+Tanıtım Kartı
+
+Adli Sicil Kaydı (mevzuatın izin verdiği ölçüde)
+
+İkametgâh Belgesi (gerektiğinde)
+
+İşleme Amaçları
+
+Şoför doğrulama
+
+Mesleki yeterliliğin değerlendirilmesi
+
+Platform güvenliği
+
+Doğrulanmış Üye Sistemi
+
+5.7 Kurumsal Üye Bilgileri
+
+Kurumsal üyeler bakımından aşağıdaki bilgiler işlenebilir.
+
+İşlenen Veriler
+
+Şirket Unvanı
+
+Vergi Levhası
+
+Vergi Kimlik Numarası
+
+Ticaret Sicil Bilgileri
+
+Yetkili Kişi Bilgileri
+
+Fatura Bilgileri
+
+İşleme Amaçları
+
+Kurumsal üyelik
+
+İlan oluşturulması
+
+Faturalandırma
+
+Mali yükümlülüklerin yerine getirilmesi
+
+5.8 Görsel Veriler
+
+Platform kapsamında aşağıdaki görsel veriler işlenebilir.
+
+Profil Fotoğrafı
+
+Araç Fotoğrafları
+
+Evrak Görselleri
+
+İşleme Amaçları
+
+Kullanıcı profili oluşturulması
+
+Dijital evrak doğrulama
+
+Güvenlik
+
+5.9 Konum Verileri
+
+Kullanıcının açık rızası bulunması hâlinde;
+
+Anlık Konum
+
+Yaklaşık Konum
+
+işlenebilir.
+
+İşleme Amaçları
+
+Yakındaki ilanların gösterilmesi
+
+Harita hizmetleri
+
+Konuma göre filtreleme
+
+Kullanıcı deneyiminin geliştirilmesi
+
+Konum verileri yalnızca açık rızaya dayanılarak işlenir.
+
+5.10 Finansal Veriler
+
+Platform kapsamında;
+
+Fatura Bilgileri
+
+Tahsilat Bilgileri
+
+Ödeme Kayıtları
+
+işlenebilir.
+
+İZSER, ödeme kartı bilgilerinin saklanmasını hedeflememektedir. Ödeme işlemleri, kullanılacak ödeme kuruluşunun altyapısı üzerinden yürütülür ve bu süreç ayrıca ilgili hizmet sağlayıcının koşullarına tabidir.
+
+5.11 İşlem Güvenliği Verileri
+
+Platform güvenliğinin sağlanması amacıyla;
+
+IP Adresi
+
+Cihaz Kimliği
+
+İşletim Sistemi
+
+Tarayıcı Bilgileri
+
+Uygulama Sürümü
+
+Log Kayıtları
+
+Oturum Bilgileri
+
+işlenebilir.
+
+5.12 Kullanım Verileri
+
+Platform kullanımına ilişkin aşağıdaki kayıtlar işlenebilir.
+
+İlan Geçmişi
+
+Teklif Geçmişi
+
+Mesajlaşma Geçmişi
+
+Bildirim Tercihleri
+
+Giriş-Çıkış Hareketleri
+
+Destek Talepleri
+
+5.13 Hukuki İşlem Bilgileri
+
+Uyuşmazlık çıkması hâlinde;
+
+İhtarlar
+
+Başvurular
+
+Mahkeme Yazışmaları
+
+Arabuluculuk Belgeleri
+
+İcra Takip Bilgileri
+
+işlenebilir.
+
+5.14 Özel Nitelikli Kişisel Veriler
+
+İZSER, kural olarak özel nitelikli kişisel veri işlememeyi esas alır.
+
+Ancak yürürlükteki mevzuatın izin verdiği veya zorunlu kıldığı hâllerde; örneğin adli sicil belgesinin kullanıcı tarafından platforma yüklenmesi gibi durumlarda, bu veriler yalnızca ilgili mevzuat hükümleri çerçevesinde ve gerekli teknik ve idari tedbirler alınarak işlenebilir.
+
+6. KİŞİSEL VERİLERİN İŞLENME AMAÇLARI
+
+6.1 Genel Açıklama
+
+İZSER, kişisel verileri yalnızca yürürlükte bulunan mevzuata uygun olarak, belirli, açık ve meşru amaçlarla işlemektedir. İşlenen kişisel veriler, hizmetin sunulması için gerekli olduğu ölçüde kullanılmakta olup, işleme amacı dışında kullanılmamaktadır.
+
+Kişisel verilerin işlenme amaçları; kullanıcının platform üzerindeki rolüne, yararlandığı hizmetlere ve İZSER’in kanuni yükümlülüklerine göre farklılık gösterebilir.
+
+6.2 Üyelik Süreçlerinin Yürütülmesi
+
+İZSER, kullanıcıların platforma güvenli şekilde kayıt olabilmesi ve üyeliklerinin yönetilebilmesi amacıyla kişisel verilerini işler.
+
+Bu kapsamda;
+
+üyelik başvurularının alınması,
+
+kullanıcı hesabının oluşturulması,
+
+hesap bilgilerinin güncellenmesi,
+
+kimlik doğrulama işlemlerinin gerçekleştirilmesi,
+
+kullanıcı hesabının güvenliğinin sağlanması,
+
+hesapların askıya alınması veya sonlandırılması,
+
+amaçlarıyla kişisel veriler işlenmektedir.
+
+6.3 Şoför Doğrulama Süreçleri
+
+Platforma kayıt olan şoför kullanıcıların mesleki yeterliliklerinin ve platform üyelik şartlarının değerlendirilmesi amacıyla;
+
+sürücü belgesi,
+
+SRC Belgesi,
+
+Psikoteknik Belgesi,
+
+MYK Belgesi,
+
+tanıtım kartı,
+
+gerekli görülen diğer belgeler
+
+işlenebilmektedir.
+
+İZSER tarafından yapılan doğrulama işlemleri yalnızca platform üyeliği kapsamında değerlendirme niteliğinde olup resmî kurumlar adına bir onay veya yetkilendirme anlamına gelmez.
+
+6.4 Araç Sahibi Doğrulama Süreçleri
+
+Araç sahiplerinden alınan bilgiler;
+
+araç bilgilerinin doğrulanması,
+
+servis aracının platform şartlarını taşıyıp taşımadığının değerlendirilmesi,
+
+dijital evrak doğrulama işlemlerinin yürütülmesi,
+
+platform güvenliğinin sağlanması
+
+amaçlarıyla işlenmektedir.
+
+6.5 Kurumsal Üyelik Süreçleri
+
+Kurumsal üyelere ait kişisel veriler;
+
+kurumsal hesap oluşturulması,
+
+ilan yayınlanması,
+
+teklif süreçlerinin yürütülmesi,
+
+sözleşmesel yükümlülüklerin yerine getirilmesi,
+
+faturalandırma işlemleri,
+
+amaçlarıyla işlenmektedir.
+
+6.6 Fiyat Teklif Toplama Süreçlerinin Yönetimi
+
+İZSER’in temel faaliyetlerinden biri, kurumsal üyeler tarafından oluşturulan fiyat teklif toplama taleplerinin dijital ortamda yönetilmesidir.
+
+Bu kapsamda;
+
+ilan bilgilerinin oluşturulması,
+
+araç sahiplerinin teklif sunabilmesi,
+
+tekliflerin kayıt altına alınması,
+
+tekliflerin değerlendirilmesi,
+
+teklif kabul veya ret işlemlerinin gerçekleştirilmesi,
+
+teklif sürecinin raporlanması,
+
+amaçlarıyla kişisel veriler işlenmektedir.
+
+İZSER, teklif süreçlerinin adil ve güvenli şekilde yürütülmesini sağlamak amacıyla gerekli teknik ve idari tedbirleri alır.
+
+6.7 Teklif Kabulü Sonrası İletişim Bilgilerinin Paylaşılması
+
+Platformun çalışma modeli gereği, kurumsal üye tarafından bir fiyat teklifinin kabul edilmesi hâlinde, hizmet ilişkisinin kurulabilmesi amacıyla ilgili tarafların iletişim bilgileri karşılıklı olarak erişime açılabilir.
+
+Bu veri paylaşımı;
+
+yalnızca teklifin kabul edilmesi hâlinde,
+
+hizmet ilişkisinin kurulabilmesi amacıyla,
+
+gerekli olduğu ölçüde
+
+gerçekleştirilir.
+
+Teklif reddedildiği veya sonuçlandırılmadığı durumlarda kullanıcıların iletişim bilgileri diğer kullanıcılar tarafından görüntülenemez.
+
+6.8 Platform İçi Mesajlaşma Hizmetleri
+
+İZSER, kullanıcıların platform üzerinden güvenli şekilde iletişim kurabilmesini sağlamak amacıyla mesajlaşma hizmeti sunabilir.
+
+Mesajlaşma kayıtları;
+
+teknik destek süreçlerinin yürütülmesi,
+
+uyuşmazlıkların çözümlenmesi,
+
+platform güvenliğinin sağlanması,
+
+kötüye kullanımın önlenmesi,
+
+amaçlarıyla işlenebilir.
+
+İZSER, mesaj içeriklerini kullanıcıların izni veya kanuni yükümlülük bulunmaksızın ticari amaçlarla kullanmaz.
+
+6.9 Dijital Evrak Doğrulama
+
+Platforma yüklenen belgeler;
+
+okunabilirlik,
+
+belge bütünlüğü,
+
+geçerlilik tarihi,
+
+üyelik şartlarına uygunluk
+
+bakımından kontrol edilebilir.
+
+Bu süreç yalnızca platform güvenliği ve üyelik yönetimi amacıyla yürütülür.
+
+6.10 Doğrulanmış Üye Sistemi
+
+İZSER tarafından belgeleri kontrol edilen kullanıcılar, platform içerisinde “Doğrulanmış Üye” olarak işaretlenebilir.
+
+Belge geçerlilik süresinin sona ermesi veya üyelik şartlarının kaybedilmesi hâlinde doğrulanmış üye statüsü kaldırılabilir.
+
+6.11 Platform Güvenliği ve Dolandırıcılığın Önlenmesi
+
+İZSER;
+
+sahte hesapların tespiti,
+
+çoklu üyeliklerin önlenmesi,
+
+sahte belge kullanımının engellenmesi,
+
+kötü niyetli kullanıcı hareketlerinin tespiti,
+
+sistem güvenliğinin sağlanması
+
+amacıyla kişisel verileri işleyebilir.
+
+Bu kapsamda log kayıtları, cihaz bilgileri ve işlem güvenliği verileri kullanılabilir.
+
+6.12 Hukuki Yükümlülüklerin Yerine Getirilmesi
+
+İZSER, yürürlükteki mevzuattan doğan yükümlülüklerini yerine getirmek amacıyla kişisel verileri işleyebilir.
+
+Bu kapsamda;
+
+yetkili kamu kurumlarının taleplerinin karşılanması,
+
+mahkeme ve icra mercilerine bilgi sunulması,
+
+hukuki uyuşmazlıklarda delil oluşturulması,
+
+muhasebe ve vergi yükümlülüklerinin yerine getirilmesi
+
+amaçlarıyla veri işlenebilir.
+
+6.13 Hizmet Kalitesinin Geliştirilmesi
+
+Platformun geliştirilmesi amacıyla;
+
+kullanıcı deneyiminin analiz edilmesi,
+
+teknik hataların giderilmesi,
+
+performans analizlerinin yapılması,
+
+yeni hizmetlerin geliştirilmesi,
+
+amacıyla kişisel veriler, mümkün olduğunca anonimleştirilmiş veya toplulaştırılmış şekilde analiz edilebilir.
+
+7. KİŞİSEL VERİLERİN İŞLENMESİNİN HUKUKİ SEBEPLERİ
+
+7.1 Genel Esas
+
+İZSER, kişisel verileri yalnızca 6698 sayılı Kişisel Verilerin Korunması Kanunu’nda öngörülen veri işleme şartlarından en az birinin varlığı hâlinde işler.
+
+Kişisel veriler, veri işleme amacına uygun olmayan veya hukuki dayanağı bulunmayan hiçbir faaliyet kapsamında işlenmez.
+
+İZSER tarafından gerçekleştirilen her veri işleme faaliyeti, ilgili hukuki sebebe dayandırılır ve işleme amacıyla sınırlı olarak yürütülür.
+
+7.2 Kanunlarda Açıkça Öngörülmesi
+
+KVKK’nın 5 inci maddesinin ikinci fıkrasının (a) bendi uyarınca, ilgili mevzuatta açıkça öngörülmesi hâlinde kişisel veriler açık rıza aranmaksızın işlenebilir.
+
+Bu kapsamda İZSER;
+
+vergi mevzuatı,
+
+ticaret mevzuatı,
+
+elektronik ticaret mevzuatı,
+
+adli ve idari mercilerin talepleri,
+
+diğer kanuni yükümlülükler
+
+çerçevesinde veri işleyebilir.
+
+7.3 Sözleşmenin Kurulması veya İfası
+
+İlgili kişinin taraf olduğu sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması hâlinde kişisel veriler işlenebilir.
+
+Bu kapsamda;
+
+kullanıcı üyeliğinin oluşturulması,
+
+hesap yönetimi,
+
+fiyat tekliflerinin alınması,
+
+tekliflerin değerlendirilmesi,
+
+kullanıcılar arasında iletişimin sağlanması,
+
+platform hizmetlerinin sunulması,
+
+amacıyla kişisel veriler işlenmektedir.
+
+Bu veri işleme faaliyetleri için ayrıca açık rıza alınmasına gerek bulunmamaktadır.
+
+7.4 Veri Sorumlusunun Hukuki Yükümlülüğünü Yerine Getirmesi
+
+İZSER, yürürlükte bulunan mevzuattan doğan yükümlülüklerini yerine getirebilmek amacıyla kişisel veri işleyebilir.
+
+Bu kapsamda;
+
+muhasebe kayıtlarının tutulması,
+
+fatura düzenlenmesi,
+
+resmî kurum taleplerinin karşılanması,
+
+yargı mercilerine bilgi verilmesi,
+
+denetim yükümlülüklerinin yerine getirilmesi,
+
+amacıyla kişisel veriler işlenebilir.
+
+7.5 Bir Hakkın Tesisi, Kullanılması veya Korunması
+
+İZSER;
+
+dava,
+
+arabuluculuk,
+
+icra takibi,
+
+idari başvurular,
+
+hukuki danışmanlık süreçleri,
+
+kapsamında kişisel veri işleyebilir.
+
+Platform üzerinden gerçekleştirilen;
+
+teklif kayıtları,
+
+mesajlaşmalar,
+
+sistem kayıtları,
+
+log kayıtları
+
+olası uyuşmazlıklarda delil olarak kullanılabilir.
+
+7.6 Veri Sorumlusunun Meşru Menfaati
+
+İZSER’in meşru menfaatlerinin korunması amacıyla;
+
+platform güvenliğinin sağlanması,
+
+dolandırıcılığın önlenmesi,
+
+sahte hesapların tespit edilmesi,
+
+çoklu hesap kullanımının engellenmesi,
+
+bilgi güvenliği süreçlerinin yürütülmesi,
+
+sistem performansının ölçülmesi,
+
+hizmet kalitesinin geliştirilmesi
+
+amacıyla kişisel veriler işlenebilir.
+
+Bu veri işleme faaliyetleri yürütülürken ilgili kişinin temel hak ve özgürlükleri gözetilir.
+
+7.7 Açık Rızaya Dayalı Veri İşleme
+
+Kanunda öngörülen diğer veri işleme şartlarının bulunmadığı durumlarda kişisel veriler yalnızca ilgili kişinin açık rızası alınarak işlenir.
+
+İZSER tarafından aşağıdaki veri işleme faaliyetleri, gerekli olduğu ölçüde açık rızaya dayanabilir:
+
+konum bilgisinin işlenmesi,
+
+profil fotoğrafının platformda gösterilmesi,
+
+ticari elektronik ileti gönderilmesi,
+
+kişiselleştirilmiş bildirimlerin sunulması,
+
+pazarlama ve kampanya faaliyetleri.
+
+İlgili kişi, verdiği açık rızayı dilediği zaman geri alma hakkına sahiptir.
+
+7.8 Özel Nitelikli Kişisel Verilerin İşlenmesi
+
+İZSER, özel nitelikli kişisel verilerin işlenmesinde KVKK’nın 6 ncı maddesi hükümlerine uygun hareket eder.
+
+Kural olarak özel nitelikli kişisel veri işlenmemesi esastır.
+
+Ancak ilgili mevzuatın izin verdiği hâllerde veya ilgili kişinin gerekli belgeyi platforma yüklemesi durumunda, yalnızca hizmetin yürütülmesi için zorunlu olduğu ölçüde işlem yapılabilir.
+
+Özel nitelikli kişisel veriler için gerekli teknik ve idari güvenlik tedbirleri ayrıca uygulanır.
+
+7.9 Açık Rıza ile Kanuni İşleme Şartlarının Ayrılığı
+
+İZSER, açık rıza gerektiren veri işleme faaliyetlerini; kanundan kaynaklanan veri işleme faaliyetlerinden ayrı yürütür.
+
+İlgili kişinin açık rıza vermemesi;
+
+üyelik sözleşmesinin ifası için zorunlu olmayan,
+
+yalnızca açık rızaya dayanan
+
+işlemler dışında, platformun temel hizmetlerinden yararlanmasına tek başına engel teşkil etmez.
+
+7.10 Hukuki Sebeplerin Güncellenmesi
+
+İZSER, mevzuatta meydana gelebilecek değişiklikler veya platform hizmetlerinin kapsamının genişlemesi hâlinde veri işleme faaliyetlerinin hukuki sebeplerini güncelleyebilir.
+
+Yapılan değişiklikler, güncellenen Aydınlatma Metni aracılığıyla ilgili kişilerin bilgisine sunulur.
+
+8. KİŞİSEL VERİLERİN TOPLANMA YÖNTEMLERİ
+
+8.1 Genel Esas
+
+İZSER, kişisel verileri yalnızca sunduğu hizmetlerin sunulabilmesi, hukuki yükümlülüklerin yerine getirilmesi, platform güvenliğinin sağlanması ve kullanıcı deneyiminin geliştirilmesi amacıyla toplar.
+
+Kişisel veriler; otomatik, kısmen otomatik veya veri kayıt sisteminin bir parçası olmak kaydıyla otomatik olmayan yöntemlerle elde edilebilir.
+
+İZSER tarafından gerçekleştirilen veri toplama faaliyetleri, veri minimizasyonu ve ölçülülük ilkelerine uygun olarak yürütülmektedir.
+
+8.2 Kullanıcı Tarafından Sağlanan Veriler
+
+Kişisel veriler, kullanıcı tarafından doğrudan sağlanabilir.
+
+Bu kapsamda;
+
+üyelik oluşturulurken girilen bilgiler,
+
+profil bilgilerinin güncellenmesi,
+
+ilan oluşturulması,
+
+fiyat teklifi verilmesi,
+
+dijital evrak yüklenmesi,
+
+destek talebi oluşturulması,
+
+platform içi mesajlaşmalar
+
+kullanıcı tarafından sağlanan veri niteliğindedir.
+
+Kullanıcı, platforma yüklediği kişisel verilerin doğru, güncel ve kendisine ait olduğunu kabul eder.
+
+8.3 Otomatik Olarak Toplanan Veriler
+
+Platformun kullanımı sırasında bazı kişisel veriler bilgi sistemleri tarafından otomatik olarak oluşturulabilir.
+
+Bunlar;
+
+IP adresi,
+
+cihaz modeli,
+
+işletim sistemi,
+
+uygulama sürümü,
+
+giriş ve çıkış kayıtları,
+
+oturum bilgileri,
+
+hata kayıtları,
+
+güvenlik logları,
+
+tarih ve saat bilgileri
+
+gibi işlem güvenliğine ilişkin verilerdir.
+
+Bu veriler, platformun güvenliğinin sağlanması ve teknik problemlerin giderilmesi amacıyla işlenmektedir.
+
+8.4 Mobil Uygulama Üzerinden Toplanan Veriler
+
+Mobil uygulamanın kullanılması sırasında, kullanıcının verdiği izinlere bağlı olarak aşağıdaki verilere erişilebilir:
+
+Kamera
+
+Kullanıcı tarafından;
+
+profil fotoğrafı yüklenmesi,
+
+ruhsat yüklenmesi,
+
+SRC belgesi yüklenmesi,
+
+psikoteknik belgesi yüklenmesi,
+
+araç fotoğrafı yüklenmesi,
+
+diğer dijital evrakların sisteme aktarılması
+
+amacıyla kamera erişim izni talep edilebilir.
+
+Fotoğraf Galerisi
+
+Kullanıcının cihazında bulunan belge ve görselleri platforma yükleyebilmesi amacıyla fotoğraf galerisine erişim izni talep edilebilir.
+
+Konum Bilgisi
+
+Kullanıcının açık rızası bulunması hâlinde;
+
+yakın çevredeki ilanların gösterilmesi,
+
+uygun servis güzergâhlarının belirlenmesi,
+
+harita hizmetlerinin sunulması
+
+amacıyla konum verileri işlenebilir.
+
+Konum erişimi, kullanıcının cihaz ayarlarından her zaman devre dışı bırakılabilir.
+
+Bildirim İzni
+
+Kullanıcıya;
+
+sistem duyuruları,
+
+teklif bildirimleri,
+
+üyelik bildirimleri,
+
+güvenlik bildirimleri,
+
+uygulama güncellemeleri
+
+gönderilebilmesi amacıyla bildirim izni talep edilebilir.
+
+8.5 Dijital Evraklardan Elde Edilen Veriler
+
+Platforma yüklenen belgelerden;
+
+plaka bilgisi,
+
+araç bilgileri,
+
+belge geçerlilik tarihi,
+
+belge numarası,
+
+mesleki yeterlilik bilgileri
+
+gibi kişisel veriler elde edilebilir.
+
+Bu bilgiler yalnızca üyelik doğrulama süreçlerinde kullanılmaktadır.
+
+8.6 Üçüncü Kişilerden Elde Edilen Veriler
+
+İZSER, kural olarak kişisel verileri doğrudan ilgili kişiden temin etmektedir.
+
+Ancak aşağıdaki hâllerde üçüncü kişilerden bilgi elde edilebilir:
+
+yetkili kamu kurumlarının bildirimleri,
+
+mahkeme kararları,
+
+icra müdürlükleri,
+
+kolluk kuvvetleri,
+
+kullanıcının yetkilendirdiği temsilciler,
+
+hukuken yetkili merciler.
+
+Bu kapsamda elde edilen veriler yalnızca ilgili hukuki süreç kapsamında kullanılmaktadır.
+
+8.7 Çerezler ve Benzeri Teknolojiler
+
+İZSER’in internet sitesi ve mobil uygulaması, kullanıcı deneyiminin geliştirilmesi ve platformun güvenliğinin sağlanması amacıyla çerezler ve benzeri teknolojiler kullanabilir.
+
+Bu kapsamda;
+
+oturum yönetimi,
+
+kullanıcı tercihleri,
+
+performans analizi,
+
+hata tespiti,
+
+güvenlik kontrolleri
+
+amacıyla teknik veriler işlenebilir.
+
+Çerezlere ilişkin ayrıntılı bilgiler ayrıca yayımlanacak Çerez Politikası’nda düzenlenmektedir.
+
+8.8 Destek ve İletişim Kanalları
+
+Kullanıcıların;
+
+çağrı merkezi,
+
+e-posta,
+
+iletişim formu,
+
+canlı destek,
+
+platform içi destek sistemi
+
+üzerinden ilettikleri bilgiler, talebin değerlendirilmesi ve çözüm süreçlerinin yürütülmesi amacıyla işlenebilir.
+
+8.9 Veri Toplamada Şeffaflık İlkesi
+
+İZSER, kişisel verilerin hangi yöntemlerle toplandığını ve hangi amaçlarla işlendiğini kullanıcılarına açık ve anlaşılır şekilde bildirir.
+
+Kullanıcılar, kişisel verilerinin işlenmesine ilişkin güncel bilgilere her zaman bu Aydınlatma Metni üzerinden erişebilir.
+
+9. KİŞİSEL VERİLERİN AKTARILMASI
+
+9.1 Genel Esaslar
+
+İZSER, kişisel verileri yalnızca yürürlükte bulunan mevzuata uygun olarak, işlenme amacıyla bağlantılı, sınırlı ve ölçülü şekilde aktarır.
+
+Kişisel veriler;
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu,
+
+ilgili ikincil mevzuat,
+
+Kişisel Verileri Koruma Kurulu kararları
+
+çerçevesinde ve gerekli güvenlik tedbirleri alınarak aktarılmaktadır.
+
+İZSER, kişisel verileri hiçbir şekilde ticari amaçla üçüncü kişilere satmaz, kiralamaz veya pazarlamaz.
+
+9.2 Yetkili Kamu Kurum ve Kuruluşlarına Aktarım
+
+İZSER;
+
+Mahkemeler,
+
+Cumhuriyet Başsavcılıkları,
+
+İcra Müdürlükleri,
+
+Kolluk Kuvvetleri,
+
+Bakanlıklar,
+
+Düzenleyici ve denetleyici kurumlar,
+
+Vergi idareleri,
+
+Kanunen bilgi istemeye yetkili diğer kamu kurum ve kuruluşları
+
+tarafından usulüne uygun olarak talep edilmesi hâlinde kişisel verileri ilgili mevzuat kapsamında paylaşabilir.
+
+Bu aktarım yalnızca talep edilen veri ile sınırlı olarak gerçekleştirilir.
+
+9.3 Hizmet Sağlayıcılarına Aktarım
+
+İZSER, platformun teknik olarak işletilebilmesi amacıyla hizmet aldığı üçüncü kişilerle sınırlı ölçüde kişisel veri paylaşabilir.
+
+Bu kapsamda veri aktarımı yapılabilecek hizmet sağlayıcıları şunlardır:
+
+Sunucu ve barındırma hizmeti sağlayıcıları
+
+Bulut bilişim hizmet sağlayıcıları
+
+SMS doğrulama hizmeti sağlayıcıları
+
+Elektronik posta hizmet sağlayıcıları
+
+Teknik destek hizmeti sağlayıcıları
+
+Yazılım bakım ve geliştirme hizmeti sağlayıcıları
+
+Siber güvenlik hizmeti sağlayıcıları
+
+Bu hizmet sağlayıcıları, yalnızca İZSER’in talimatları doğrultusunda ve veri işleme amacıyla sınırlı olarak hareket eder.
+
+9.4 Ödeme Hizmeti Sağlayıcılarına Aktarım
+
+Platform üzerinden ücretli hizmetlerin sunulması hâlinde;
+
+ödeme işlemlerinin gerçekleştirilmesi,
+
+tahsilat süreçlerinin yürütülmesi,
+
+muhasebe işlemlerinin yerine getirilmesi
+
+amacıyla gerekli kişisel veriler ödeme kuruluşları ve finansal hizmet sağlayıcıları ile paylaşılabilir.
+
+İZSER, ödeme kartı bilgilerini kendi sistemlerinde saklamamayı esas alır.
+
+9.5 Teklif Kabulü Sonrası Veri Paylaşımı
+
+İZSER’in iş modeli gereği;
+
+Kurumsal Üye tarafından verilen bir teklifin kabul edilmesi hâlinde;
+
+ilgili Araç Sahibi ile Kurumsal Üye’nin hizmet ilişkisini kurabilmeleri amacıyla;
+
+ad-soyad,
+
+telefon numarası,
+
+elektronik posta adresi
+
+gibi iletişim bilgileri karşılıklı olarak erişime açılabilir.
+
+Bu paylaşım;
+
+yalnızca teklif kabul edilmesi hâlinde,
+
+hizmet ilişkisinin kurulması amacıyla,
+
+gerekli olduğu ölçüde
+
+gerçekleştirilmektedir.
+
+Teklif kabul edilmediği sürece kullanıcıların iletişim bilgileri diğer kullanıcılar tarafından görüntülenemez.
+
+9.6 Hukuki Süreçlerde Veri Paylaşımı
+
+İZSER;
+
+dava,
+
+arabuluculuk,
+
+icra takibi,
+
+idari soruşturma,
+
+resmî denetim
+
+gibi hukuki süreçlerde gerekli olması hâlinde kişisel verileri ilgili mercilere aktarabilir.
+
+9.7 Danışmanlara Aktarım
+
+İZSER;
+
+avukatlar,
+
+mali müşavirler,
+
+bağımsız denetçiler,
+
+bilgi güvenliği danışmanları,
+
+bilişim uzmanları
+
+ile çalışması hâlinde, yalnızca hizmetin gerektirdiği ölçüde kişisel veri paylaşabilir.
+
+Bu kişiler, gizlilik yükümlülüğü altında faaliyet gösterir.
+
+9.8 Grup Şirketleri ve İş Ortakları
+
+İZSER’in ilerleyen dönemlerde iştirakleri, bağlı ortaklıkları veya grup şirketlerinin bulunması hâlinde;
+
+kişisel veriler, yalnızca;
+
+ortak operasyonların yürütülmesi,
+
+bilgi sistemlerinin yönetilmesi,
+
+hukuki yükümlülüklerin yerine getirilmesi
+
+amacıyla ve KVKK hükümlerine uygun olarak paylaşılabilir.
+
+9.9 Aktarımda Güvenlik Tedbirleri
+
+Kişisel verilerin aktarılması sırasında;
+
+şifreleme yöntemleri,
+
+güvenli veri iletim protokolleri,
+
+erişim kontrol sistemleri,
+
+yetkilendirme mekanizmaları
+
+kullanılır.
+
+Aktarım yapılan üçüncü kişilerden de kişisel verilerin korunmasına yönelik gerekli teknik ve idari tedbirleri almaları beklenir.
+
+9.10 Ticari Amaçla Aktarmama İlkesi
+
+İZSER;
+
+kullanıcı verilerini satmaz,
+
+kullanıcı verilerini kiralamaz,
+
+kullanıcı verilerini pazarlama amacıyla üçüncü kişilere devretmez,
+
+kullanıcı listelerini ticari kazanç elde etmek amacıyla paylaşmaz.
+
+Kanundan kaynaklanan yükümlülükler saklıdır.
+
+9.11 Veri Aktarımına İlişkin Güncellemeler
+
+İZSER tarafından veri aktarım süreçlerinde değişiklik yapılması hâlinde, işbu Aydınlatma Metni güncellenerek kullanıcıların bilgisine sunulur.
+
+10. KİŞİSEL VERİLERİN YURT DIŞINA AKTARILMASI
+
+10.1 Genel Esas
+
+İZSER, kişisel verilerin yurt dışına aktarılması konusunda 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 9 uncu maddesi ile ilgili ikincil mevzuat hükümlerine uygun hareket eder.
+
+Kişisel veriler, yurt dışına ancak;
+
+yürürlükte bulunan mevzuatta öngörülen şartların sağlanması,
+
+gerekli güvenlik tedbirlerinin alınması,
+
+aktarımın veri işleme amacıyla sınırlı olması
+
+hâllerinde aktarılabilir.
+
+10.2 Teknik Hizmet Sağlayıcıları
+
+İZSER tarafından kullanılan bazı teknik altyapılar;
+
+bulut bilişim,
+
+veri depolama,
+
+mobil bildirim,
+
+elektronik posta,
+
+harita servisleri,
+
+hata raporlama,
+
+performans analizi
+
+gibi hizmetlerin sunulması amacıyla yurt dışında bulunan sunucular veya hizmet sağlayıcılar üzerinden çalışabilir.
+
+Bu durumda kişisel veriler, yalnızca hizmetin yerine getirilebilmesi için gerekli olduğu ölçüde işlenebilir.
+
+10.3 Mobil Uygulama Hizmetleri
+
+Mobil uygulamanın çalışması kapsamında;
+
+Apple Push Notification Service (APNs),
+
+Google Firebase Cloud Messaging (FCM),
+
+Google Maps Platform,
+
+Apple Maps,
+
+benzeri mobil servisler
+
+kullanılması hâlinde ilgili teknik veriler bu servislerin altyapısı üzerinden işlenebilir.
+
+İZSER, bu hizmetleri kullanırken yürürlükteki veri koruma mevzuatına uygun hareket eder.
+
+10.4 Açık Rıza Gerektiren Durumlar
+
+Mevzuat uyarınca açık rıza gerektiren hâllerde, kişisel veriler ilgili kişinin açık rızası alınmaksızın yurt dışına aktarılmaz.
+
+Açık rıza alınması gereken veri işleme faaliyetleri ayrıca düzenlenir ve ilgili kişiye özgür iradesiyle seçim yapma imkânı tanınır.
+
+10.5 Veri Güvenliği
+
+Yurt dışına veri aktarımı gerçekleştirilen durumlarda İZSER;
+
+aktarımın güvenliğini sağlar,
+
+uygun teknik ve idari tedbirleri alır,
+
+veri işleyenlerle gerekli sözleşmeleri yapar,
+
+erişim yetkilerini sınırlandırır,
+
+veri güvenliği ihlallerine karşı gerekli organizasyonu oluşturur.
+
+10.6 Gelecekte Kullanılabilecek Hizmetler
+
+İZSER, platformun gelişimine bağlı olarak;
+
+yapay zekâ hizmetleri,
+
+bulut bilişim çözümleri,
+
+analiz platformları,
+
+güvenlik servisleri,
+
+müşteri destek sistemleri
+
+gibi yeni teknolojilerden yararlanabilir.
+
+Bu hizmetlerin yurt dışından sağlanması hâlinde kişisel verilerin korunmasına ilişkin yürürlükte bulunan mevzuata uygun hareket edilir.
+
+10.7 Kullanıcıların Bilgilendirilmesi
+
+Yurt dışına veri aktarımı süreçlerinde meydana gelebilecek önemli değişiklikler, güncellenen Aydınlatma Metni veya diğer bilgilendirme yöntemleri aracılığıyla kullanıcılara duyurulur.
+
+11. KİŞİSEL VERİLERİN SAKLANMASI, SİLİNMESİ, YOK EDİLMESİ VE ANONİM HALE GETİRİLMESİ
+
+11.1 Genel İlke
+
+İZSER, kişisel verileri yalnızca işlenme amacı için gerekli olan süre boyunca ve ilgili mevzuatta öngörülen saklama süreleri kadar muhafaza eder.
+
+İşleme amacının ortadan kalkması veya ilgili mevzuatta öngörülen saklama süresinin sona ermesi hâlinde kişisel veriler, 6698 sayılı Kanun ve ilgili mevzuat hükümlerine uygun olarak silinir, yok edilir veya anonim hâle getirilir.
+
+11.2 Saklama Sürelerinin Belirlenmesi
+
+Saklama süreleri belirlenirken aşağıdaki hususlar dikkate alınır:
+
+KVKK ve ilgili mevzuat,
+
+Türk Borçlar Kanunu,
+
+Türk Ticaret Kanunu,
+
+Vergi Usul Kanunu,
+
+Elektronik Ticaret mevzuatı,
+
+zamanaşımı süreleri,
+
+olası hukuki uyuşmazlıklar.
+
+11.3 Saklama Süresi Dolan Veriler
+
+Saklama süresi sona eren kişisel veriler;
+
+güvenli silme,
+
+fiziksel imha,
+
+elektronik imha,
+
+anonimleştirme
+
+yöntemlerinden uygun olanı kullanılarak işlenemez hâle getirilir.
+
+11.4 Anonim Hale Getirme
+
+İstatistiksel analiz, raporlama ve hizmet geliştirme amacıyla kullanılacak veriler, mümkün olduğu ölçüde kimliği belirli veya belirlenebilir bir kişiyle ilişkilendirilemeyecek şekilde anonim hâle getirilebilir.
+
+Anonim hâle getirilen veriler, KVKK kapsamında kişisel veri olarak değerlendirilmez.
+
+11.5 Veri Saklama ve İmha Politikası
+
+İZSER, kişisel verilerin saklanması ve imhasına ilişkin usul ve esasları ayrıca hazırlanan Veri Saklama ve İmha Politikası ile düzenler.
+
+Bu politika; saklama sürelerini, imha yöntemlerini, sorumlulukları ve periyodik imha süreçlerini ayrıntılı olarak belirler.
+
+12. TEKNİK VE İDARİ TEDBİRLER
+
+12.1 Genel Esas
+
+İZSER, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 12 nci maddesi uyarınca, işlediği kişisel verilerin;
+
+hukuka aykırı olarak işlenmesini önlemek,
+
+kişisel verilere hukuka aykırı erişilmesini engellemek,
+
+kişisel verilerin muhafazasını sağlamak,
+
+kişisel verilerin bütünlüğünü, gizliliğini ve erişilebilirliğini korumak
+
+amacıyla, teknolojik gelişmeler ve uygulama maliyetleri dikkate alınarak uygun teknik ve idari tedbirleri almaktadır.
+
+İZSER, veri güvenliğinin sağlanmasını sürekli iyileştirilmesi gereken bir süreç olarak kabul eder ve gerekli tedbirleri düzenli olarak gözden geçirir.
+
+12.2 Teknik Tedbirler
+
+Kişisel verilerin güvenliğinin sağlanması amacıyla aşağıdaki teknik tedbirler uygulanabilir:
+
+a) Güvenli Veri İletimi
+
+Platform üzerinden gerçekleştirilen veri aktarımında güncel güvenlik standartlarına uygun şifreleme teknolojileri (SSL/TLS veya eşdeğer güvenli iletişim protokolleri) kullanılabilir.
+
+b) Yetkilendirme ve Erişim Kontrolü
+
+Kişisel verilere erişim;
+
+görev tanımı,
+
+yetki seviyesi,
+
+işin gerekliliği
+
+esas alınarak sınırlandırılır.
+
+Her kullanıcı yalnızca yetkisi kapsamında bulunan verilere erişebilir.
+
+c) Kimlik Doğrulama
+
+Yönetim paneline ve kritik sistemlere erişimlerde güçlü parola politikaları uygulanır. Gerektiğinde çok faktörlü kimlik doğrulama (MFA) gibi ek güvenlik yöntemleri kullanılabilir.
+
+d) Log Kayıtları
+
+Bilgi sistemlerinde gerçekleştirilen önemli işlemler kayıt altına alınabilir.
+
+Bu kapsamda;
+
+giriş ve çıkış kayıtları,
+
+IP adresleri,
+
+cihaz bilgileri,
+
+işlem tarihleri,
+
+sistem hareketleri
+
+gibi işlem güvenliği verileri oluşturulabilir ve saklanabilir.
+
+Log kayıtları yalnızca bilgi güvenliğinin sağlanması, sistem denetimi ve hukuki yükümlülüklerin yerine getirilmesi amacıyla kullanılır.
+
+e) Yedekleme
+
+Kişisel verilerin kaybolmasını önlemek amacıyla uygun görülen sistemlerde düzenli veri yedekleme işlemleri yapılabilir.
+
+Yedekler de asıl veriler gibi gerekli güvenlik tedbirlerine tabi tutulur.
+
+f) Güncelleme ve Güvenlik Yamaları
+
+Platformda kullanılan yazılım bileşenleri düzenli olarak güncellenir ve bilinen güvenlik açıklarının giderilmesine yönelik gerekli çalışmalar yapılır.
+
+g) Zararlı Yazılımlara Karşı Koruma
+
+Bilgi sistemlerinin zararlı yazılımlardan korunması amacıyla uygun güvenlik çözümleri kullanılabilir.
+
+h) Ağ Güvenliği
+
+Sunucular, ağ cihazları ve yönetim panelleri uygun güvenlik önlemleri ile korunur.
+
+Yetkisiz erişim girişimleri izlenebilir ve kayıt altına alınabilir.
+
+12.3 İdari Tedbirler
+
+İZSER, teknik tedbirlerin yanında aşağıdaki idari tedbirleri de uygular.
+
+a) Gizlilik Yükümlülüğü
+
+Çalışanlar, yöneticiler, danışmanlar ve hizmet alınan üçüncü kişiler kişisel verilerin gizliliğini korumakla yükümlüdür.
+
+Gerekli görülen durumlarda gizlilik taahhütnameleri ve sözleşmeler düzenlenebilir.
+
+b) Yetki Matrisi
+
+Kişisel verilere erişim yetkileri görev tanımlarına göre belirlenir.
+
+Görev değişikliği veya iş ilişkisinin sona ermesi hâlinde erişim yetkileri gecikmeksizin güncellenir veya kaldırılır.
+
+c) Eğitim ve Farkındalık
+
+Çalışanlara, kişisel verilerin korunması, bilgi güvenliği ve gizlilik konularında gerekli bilgilendirme ve eğitimler verilebilir.
+
+d) İç Denetim
+
+Kişisel veri işleme faaliyetleri ve bilgi güvenliği süreçleri, ihtiyaç duyulması hâlinde iç denetime tabi tutulabilir.
+
+Tespit edilen eksikliklerin giderilmesine yönelik gerekli iyileştirme çalışmaları yürütülür.
+
+e) Hizmet Sağlayıcılarının Denetlenmesi
+
+İZSER adına kişisel veri işleyen hizmet sağlayıcılarının, veri güvenliğine ilişkin yükümlülüklere uygun hareket etmesi beklenir.
+
+Gerekli hâllerde sözleşmelere kişisel verilerin korunmasına ilişkin hükümler eklenebilir.
+
+12.4 Kişisel Veri İhlali Yönetimi
+
+İZSER, kişisel veri güvenliğini etkileyebilecek olayların tespit edilmesi hâlinde gerekli teknik ve idari müdahaleleri gerçekleştirir.
+
+Veri ihlalinin KVKK ve ilgili mevzuat kapsamında bildirim yükümlülüğü doğurması durumunda, yetkili mercilere ve gerekli hâllerde ilgili kişilere mevzuata uygun şekilde bildirim yapılır.
+
+12.5 Sürekli İyileştirme
+
+Bilgi güvenliği ve kişisel veri koruma süreçleri;
+
+teknolojik gelişmeler,
+
+mevzuat değişiklikleri,
+
+siber güvenlik riskleri,
+
+uygulama ihtiyaçları
+
+doğrultusunda düzenli olarak gözden geçirilir ve gerekli görülen iyileştirmeler yapılır.
+
+12.6 Bilgi Güvenliği Politikası ile İlişki
+
+İşbu Aydınlatma Metni’nde yer alan teknik ve idari tedbirlere ilişkin genel açıklamalar, İZSER tarafından ayrıca hazırlanacak Bilgi Güvenliği Politikası, Veri Saklama ve İmha Politikası, Erişim Yetkilendirme Prosedürü ve diğer iç politika ve prosedürlerle desteklenebilir.
+
+Bu dokümanlar, veri güvenliğine ilişkin uygulama esaslarını daha ayrıntılı şekilde düzenler.
+
+13. İLGİLİ KİŞİNİN HAKLARI
+
+13.1 Genel Esas
+
+İZSER tarafından kişisel verileri işlenen gerçek kişiler (“İlgili Kişi”), 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 11 inci maddesi kapsamında aşağıda belirtilen haklara sahiptir.
+
+İZSER, ilgili kişilerin başvurularını, yürürlükte bulunan mevzuat hükümleri çerçevesinde değerlendirir ve sonuçlandırır.
+
+13.2 Kişisel Veri İşlenip İşlenmediğini Öğrenme Hakkı
+
+İlgili kişi;
+
+İZSER tarafından kendisine ait kişisel verilerin işlenip işlenmediğini öğrenme hakkına sahiptir.
+
+Bu kapsamda kullanıcı;
+
+sistemde hangi verilerinin bulunduğunu,
+
+hangi veri kategorilerinin işlendiğini,
+
+veri işlenip işlenmediğini
+
+öğrenebilir.
+
+13.3 İşlenen Kişisel Verilere İlişkin Bilgi Talep Etme Hakkı
+
+İlgili kişi;
+
+kişisel verileri işlenmiş ise;
+
+hangi verilerin işlendiğini,
+
+işleme amaçlarını,
+
+hukuki sebeplerini,
+
+veri kategorilerini
+
+öğrenebilir.
+
+İZSER, talep üzerine ilgili kişiyi makul süre içerisinde bilgilendirir.
+
+13.4 İşleme Amacını Öğrenme Hakkı
+
+İlgili kişi;
+
+kişisel verilerinin;
+
+hangi amaçlarla işlendiğini,
+
+işlenme amacına uygun kullanılıp kullanılmadığını
+
+öğrenme hakkına sahiptir.
+
+⸻
+
+13.5 Aktarım Yapılan Üçüncü Kişileri Öğrenme Hakkı
+
+İlgili kişi;
+
+kişisel verilerinin;
+
+yurt içinde,
+
+yurt dışında
+
+aktarıldığı üçüncü kişi grupları hakkında bilgi talep edebilir.
+
+Bu bilgi, ticari sır niteliğindeki bilgiler hariç olmak üzere yürürlükteki mevzuata uygun şekilde sağlanır.
+
+13.6 Eksik veya Yanlış Verilerin Düzeltilmesini İsteme Hakkı
+
+İlgili kişi;
+
+kişisel verilerinin eksik veya yanlış işlendiğini düşünmesi hâlinde bunların düzeltilmesini talep edebilir.
+
+İZSER, talebin haklı bulunması hâlinde gerekli düzeltmeleri yapar veya ilgili kayıtların güncellenmesini sağlar.
+
+Kullanıcılar ayrıca profil sayfaları üzerinden güncelleyebilecekleri bilgileri kendileri de değiştirebilir.
+
+13.7 Silme, Yok Etme veya Anonim Hâle Getirilmesini Talep Etme Hakkı
+
+İlgili kişi;
+
+KVKK’nın 7 nci maddesinde belirtilen şartların oluşması hâlinde;
+
+kişisel verilerinin;
+
+silinmesini,
+
+yok edilmesini,
+
+anonim hâle getirilmesini
+
+talep edebilir.
+
+İZSER, ilgili talebi yürürlükte bulunan mevzuat kapsamında değerlendirir.
+
+Kanuni saklama yükümlülükleri bulunan veriler bakımından bu hak, ilgili mevzuat çerçevesinde uygulanır.
+
+13.8 Düzeltme ve Silme İşlemlerinin Bildirilmesini Talep Etme Hakkı
+
+İlgili kişi;
+
+kişisel verilerinde yapılan;
+
+düzeltme,
+
+silme,
+
+yok etme,
+
+anonimleştirme
+
+işlemlerinin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini talep edebilir.
+
+İZSER, mevzuatın öngördüğü ölçüde gerekli bildirimleri gerçekleştirir.
+
+13.9 Otomatik Sistemlere İtiraz Hakkı
+
+İlgili kişi;
+
+kişisel verilerinin münhasıran otomatik sistemler aracılığıyla analiz edilmesi sonucu ortaya çıkan ve kendisi aleyhine bir sonucun doğmasına itiraz edebilir.
+
+İZSER tarafından yalnızca otomatik işlemeye dayalı ve hukuki sonuç doğuran kararlar alınması hâlinde ilgili kişi bu hakkını kullanabilir.
+
+13.10 Zararın Giderilmesini Talep Etme Hakkı
+
+İlgili kişi;
+
+kişisel verilerinin Kanuna aykırı olarak işlenmesi nedeniyle zarara uğraması hâlinde, zararın giderilmesini talep etme hakkına sahiptir.
+
+Bu hak, ilgili mevzuat hükümleri çerçevesinde kullanılabilir.
+
+13.11 Başvuru Hakkının Kullanılması
+
+İlgili kişi;
+
+işbu maddede belirtilen haklarını kullanmak amacıyla İZSER’e başvuruda bulunabilir.
+
+Başvurular;
+
+yazılı olarak,
+
+kayıtlı elektronik posta (KEP) adresi aracılığıyla,
+
+güvenli elektronik imza veya mobil imza kullanılarak,
+
+İZSER tarafından ileride belirlenebilecek diğer başvuru yöntemleriyle
+
+gerçekleştirilebilir.
+
+Başvuru usulüne ilişkin ayrıntılı açıklamalar bu Aydınlatma Metni’nin 14 üncü maddesinde yer almaktadır.
+
+13.12 Hakkın Kötüye Kullanılmaması
+
+İlgili kişi, KVKK kapsamındaki haklarını dürüstlük kuralına uygun şekilde kullanacağını kabul eder.
+
+İZSER, açıkça dayanaktan yoksun, kötü niyetli, aşırı tekrar niteliğinde veya mevzuata aykırı başvuruları ilgili mevzuat çerçevesinde değerlendirme hakkını saklı tutar.
+
+13.13 Hakların Kullanılmasına İlişkin Sınırlamalar
+
+İlgili kişinin hakları, KVKK’nın 28 inci maddesinde düzenlenen istisnalar saklı kalmak üzere kullanılabilir.
+
+Kanun gereği istisna kapsamında kalan veri işleme faaliyetleri bakımından ilgili kişinin talepleri, ilgili mevzuat hükümleri doğrultusunda değerlendirilir.
+
+14. VERİ SORUMLUSUNA BAŞVURU USULÜ
+
+14.1 Başvuru Hakkı
+
+İlgili kişiler, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 13 üncü maddesi uyarınca, kişisel verilerine ilişkin taleplerini veri sorumlusu sıfatıyla hareket eden İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi’ne iletebilir.
+
+Başvurular, işbu Aydınlatma Metni’nin 13 üncü maddesinde belirtilen hakların kullanılması amacıyla yapılabilir.
+
+14.2 Başvuru Kanalları
+
+İlgili kişiler başvurularını aşağıdaki yöntemlerden biriyle iletebilir:
+
+a) Yazılı Başvuru
+
+İmzalı başvuru dilekçesi;
+
+İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi
+
+Buca Koop Mahallesi 220/70 Sokak
+
+İşkent Sitesi C Blok No:16 İç Kapı No:14
+
+Buca / İZMİR
+
+adresine bizzat teslim edilebilir veya noter aracılığıyla gönderilebilir.
+
+b) Kayıtlı Elektronik Posta (KEP)
+
+İlgili kişi, güvenli elektronik imza veya kayıtlı elektronik posta (KEP) kullanarak başvurusunu şirketin ilan edilen KEP adresine iletebilir.
+
+(Şirket KEP adresi oluşturulduktan sonra bu metin güncellenecektir.)
+
+c) Elektronik Posta
+
+İlgili kişi, daha önce İZSER sistemine kayıtlı bulunan elektronik posta adresi üzerinden veya kimliğini doğrulamaya elverişli yöntemlerle başvurusunu;
+
+kvkk@izser.com
+
+adresine iletebilir.
+
+(Bu e-posta adresi şirket tarafından aktif hâle getirildikten sonra kullanılacaktır.)
+
+d) Mobil Uygulama veya İnternet Sitesi
+
+İZSER, ilerleyen dönemlerde mobil uygulama veya internet sitesi üzerinden kimliği doğrulanmış kullanıcıların KVKK başvurularını elektronik ortamda iletebileceği bir başvuru modülü oluşturabilir.
+
+Bu yöntemin kullanıma sunulması hâlinde kullanıcılar ayrıca bilgilendirilecektir.
+
+14.3 Başvuruda Bulunması Gereken Bilgiler
+
+Başvuruda aşağıdaki bilgilerin bulunması önerilir:
+
+Adı ve soyadı,
+
+T.C. Kimlik Numarası (yabancılar için pasaport numarası veya kimlik bilgisi),
+
+Tebligata esas adres,
+
+Elektronik posta adresi,
+
+Telefon numarası (varsa),
+
+Talep konusu,
+
+Başvuruya ilişkin bilgi ve belgeler.
+
+İZSER, başvurunun değerlendirilmesi amacıyla gerekli olması hâlinde kimlik doğrulaması talep edebilir.
+
+14.4 Başvuruların Değerlendirilmesi
+
+İZSER, başvuruları yürürlükte bulunan mevzuat çerçevesinde değerlendirir.
+
+Başvurular;
+
+mümkün olan en kısa sürede,
+
+en geç mevzuatta öngörülen süre içerisinde
+
+sonuçlandırılır.
+
+Başvurunun ayrıca bir maliyet gerektirmesi hâlinde, ilgili mevzuatın izin verdiği ölçüde ücret talep edilebilir.
+
+14.5 Başvurunun Reddedilebileceği Hâller
+
+İZSER, aşağıdaki durumlarda başvuruyu tamamen veya kısmen reddedebilir:
+
+Başvurunun KVKK kapsamı dışında kalması,
+
+Başvuru sahibinin ilgili kişi olduğunun doğrulanamaması,
+
+Talebin açıkça dayanaktan yoksun olması,
+
+Aynı konuda makul olmayan sıklıkta tekrar eden başvurular yapılması,
+
+Kanun kapsamında istisna bulunan hâllerin mevcut olması.
+
+Başvurunun reddedilmesi hâlinde gerekçesi ilgili kişiye bildirilir.
+
+14.6 Kimlik Doğrulama
+
+Kişisel verilerin yetkisiz kişilere açıklanmaması amacıyla, İZSER gerekli gördüğü durumlarda başvuru sahibinin kimliğini doğrulayacak ek bilgi ve belge talep edebilir.
+
+Kimlik doğrulaması yapılamayan başvurular sonuçlandırılmayabilir.
+
+14.7 Yetkili Temsilci Aracılığıyla Başvuru
+
+İlgili kişi adına yapılacak başvurularda, temsil yetkisini gösteren noter onaylı vekâletname veya ilgili mevzuatta öngörülen diğer belgelerin ibraz edilmesi gerekebilir.
+
+14.8 Başvuruların Kayıt Altına Alınması
+
+İZSER, kişisel veri başvurularını;
+
+başvuru tarihi,
+
+başvuru konusu,
+
+değerlendirme süreci,
+
+verilen cevap,
+
+sonuç tarihi
+
+bilgileriyle birlikte kayıt altına alabilir.
+
+Bu kayıtlar, yalnızca başvuru süreçlerinin yönetimi ve yasal yükümlülüklerin yerine getirilmesi amacıyla tutulur.
+
+14.9 Kurul’a Şikâyet Hakkı
+
+İlgili kişi, İZSER tarafından verilen cevabı yetersiz bulması veya başvurusunun süresi içinde cevaplandırılmaması hâlinde, KVKK’nın 14 üncü maddesi uyarınca Kişisel Verileri Koruma Kurulu’na şikâyette bulunma hakkına sahiptir.
+
+14.10 Başvuru Formu
+
+İZSER, ilgili kişilerin haklarını kolayca kullanabilmesi amacıyla ayrıca bir “KVKK Başvuru Formu” yayımlayabilir.
+
+Başvuru Formu, işbu Aydınlatma Metni’nin EK-4’ünde örnek olarak yer almaktadır.
+
+15. GÜNCELLEME VE YÜRÜRLÜK
+
+15.1 Güncelleme Hakkı
+
+İZSER, işbu Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni’ni;
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu’nda meydana gelebilecek değişiklikler,
+
+ilgili ikincil mevzuat,
+
+Kişisel Verileri Koruma Kurulu ilke kararları,
+
+yargı kararları,
+
+şirket organizasyonundaki değişiklikler,
+
+platformun teknik altyapısındaki değişiklikler,
+
+sunulan hizmetlerin kapsamının genişlemesi veya değiştirilmesi,
+
+bilgi güvenliği gereklilikleri,
+
+ulusal ve uluslararası veri koruma standartlarındaki gelişmeler
+
+doğrultusunda her zaman güncelleme hakkını saklı tutar.
+
+15.2 Güncellenen Metnin Yayımlanması
+
+Aydınlatma Metni’nin güncellenmesi hâlinde güncel metin;
+
+İZSER internet sitesinde,
+
+mobil uygulamada,
+
+kullanıcı panelinde,
+
+gerekli görülen diğer iletişim kanalları aracılığıyla
+
+ilgili kişilerin erişimine sunulur.
+
+Güncellenen metnin yayımlandığı tarih itibarıyla önceki sürüm yürürlükten kalkar.
+
+15.3 Değişikliklerin Bildirilmesi
+
+Kişisel veri işleme faaliyetlerinde ilgili kişilerin haklarını etkileyebilecek önemli değişikliklerin yapılması hâlinde, İZSER uygun gördüğü yöntemlerle kullanıcıları ayrıca bilgilendirebilir.
+
+Bu bilgilendirme;
+
+uygulama içi bildirim,
+
+elektronik posta,
+
+kısa mesaj (SMS),
+
+internet sitesi duyurusu,
+
+kullanıcı hesabı bildirimi
+
+gibi yöntemlerle yapılabilir.
+
+15.4 Doküman Versiyon Yönetimi
+
+İşbu Aydınlatma Metni, sürüm numarası ile takip edilir.
+
+Her güncellemede;
+
+sürüm numarası,
+
+yürürlük tarihi,
+
+revizyon tarihi,
+
+değişiklik özeti
+
+güncellenir ve gerektiğinde revizyon geçmişi tutulur.
+
+15.5 Diğer Dokümanlarla İlişkisi
+
+İşbu Aydınlatma Metni;
+
+Açık Rıza Metni,
+
+Gizlilik Politikası,
+
+Çerez Politikası,
+
+Kullanıcı Sözleşmesi,
+
+Araç Sahibi Üyelik Sözleşmesi,
+
+Şoför Üyelik Sözleşmesi,
+
+Kurumsal Üyelik Sözleşmesi,
+
+Veri Saklama ve İmha Politikası,
+
+Bilgi Güvenliği Politikası
+
+ile birlikte değerlendirilir.
+
+Bu dokümanlar arasında çelişki bulunması hâlinde, emredici mevzuat hükümleri saklı kalmak kaydıyla, olayın niteliğine göre ilgili özel düzenleme uygulanır.
+
+15.6 Kısmi Geçersizlik
+
+İşbu Aydınlatma Metni’nin herhangi bir hükmünün geçersiz veya uygulanamaz hâle gelmesi, diğer hükümlerin geçerliliğini etkilemez.
+
+Geçersiz hâle gelen hükmün yerine, yürürlükteki mevzuata en uygun düzenleme uygulanır.
+
+15.7 Yürürlük
+
+İşbu İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni, 12/08/2026 tarihinde yürürlüğe girer.
+
+Bu metin, yürürlüğe girdiği tarihten itibaren İZSER tarafından gerçekleştirilen kişisel veri işleme faaliyetleri bakımından uygulanır.
+
+15.8 Yürütme
+
+İşbu Aydınlatma Metni’nin uygulanmasından ve güncel tutulmasından İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi sorumludur.
+
+Şirket, kişisel verilerin korunmasına ilişkin yükümlülüklerin yerine getirilmesi amacıyla gerekli organizasyonu oluşturur ve gerekli gördüğü birimleri veya kişileri görevlendirebilir.
+
+EK-1
+
+KİŞİSEL VERİ SAKLAMA SÜRELERİ TABLOSU
+
+Doküman Kodu: KVKK-EK-001
+
+Doküman Adı: Kişisel Veri Saklama Süreleri Tablosu
+
+Bağlı Doküman: İZSER KVKK Aydınlatma Metni
+
+1. Amaç
+
+Bu Ek’in amacı, İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi tarafından işlenen kişisel verilerin, 6698 sayılı Kişisel Verilerin Korunması Kanunu ile ilgili diğer mevzuat uyarınca hangi sürelerle saklanacağını ve saklama süresi sonunda hangi yöntemlerle silineceğini, yok edileceğini veya anonim hâle getirileceğini belirlemektir.
+
+Saklama süreleri belirlenirken;
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu,
+
+Türk Borçlar Kanunu,
+
+Türk Ticaret Kanunu,
+
+Vergi Usul Kanunu,
+
+Elektronik Ticaretin Düzenlenmesi Hakkında Kanun,
+
+ilgili ikincil mevzuat,
+
+zamanaşımı süreleri,
+
+olası hukuki uyuşmazlıklar
+
+esas alınmaktadır.
+
+2. Kişisel Veri Saklama Süreleri
+
+Veri Kategorisi
+
+İşleme Amacı
+
+Hukuki Sebep
+
+Saklama Süresi
+
+İmha Yöntemi
+
+Kimlik Bilgileri
+
+Üyelik, kimlik doğrulama
+
+KVKK m.5/2-c, m.5/2-ç
+
+Üyeliğin sona ermesinden itibaren 10 yıl
+
+Güvenli silme / anonimleştirme
+
+İletişim Bilgileri
+
+Hesap yönetimi, bildirimler
+
+KVKK m.5/2-c, m.5/2-f
+
+Üyeliğin sona ermesinden itibaren 10 yıl
+
+Güvenli silme
+
+Kullanıcı Hesap Bilgileri
+
+Üyelik yönetimi
+
+KVKK m.5/2-c
+
+Üyeliğin sona ermesinden itibaren 10 yıl
+
+Güvenli silme
+
+Araç Bilgileri
+
+Araç doğrulama, teklif süreçleri
+
+KVKK m.5/2-c
+
+Üyeliğin sona ermesinden itibaren 10 yıl
+
+Güvenli silme
+
+Şoför Belgeleri
+
+Mesleki yeterlilik doğrulaması
+
+KVKK m.5/2-c, m.5/2-ç
+
+Belge geçerliliğinin ve üyeliğin sona ermesinden itibaren 10 yıl
+
+Güvenli silme
+
+Kurumsal Üye Bilgileri
+
+Kurumsal üyelik, faturalandırma
+
+KVKK m.5/2-c, m.5/2-ç
+
+Ticari ilişkinin sona ermesinden itibaren 10 yıl
+
+Güvenli silme
+
+Görsel Veriler
+
+Profil ve evrak doğrulama
+
+KVKK m.5/2-c veya açık rıza
+
+Üyeliğin sona ermesine kadar, gerekli hâllerde 10 yıl
+
+Güvenli silme
+
+Konum Verileri
+
+Harita hizmetleri, ilan filtreleme
+
+Açık rıza (gerektiğinde KVKK m.5/1)
+
+İşleme amacı sona erince veya açık rıza geri alındığında
+
+Güvenli silme
+
+Finansal Veriler
+
+Muhasebe ve faturalandırma
+
+KVKK m.5/2-ç
+
+10 yıl
+
+Güvenli silme
+
+İşlem Güvenliği Verileri
+
+Bilgi güvenliği, sistem güvenliği
+
+KVKK m.5/2-f
+
+2 yıl (veya ilgili mevzuat gereği daha uzun süre)
+
+Güvenli silme
+
+Kullanım Verileri
+
+Hizmet sunumu ve uyuşmazlık yönetimi
+
+KVKK m.5/2-c, m.5/2-f
+
+10 yıl
+
+Güvenli silme
+
+Hukuki İşlem Bilgileri
+
+Hukuki süreçlerin yürütülmesi
+
+KVKK m.5/2-e
+
+Uyuşmazlığın kesin olarak sonuçlanmasından itibaren 10 yıl
+
+Güvenli silme
+
+KVKK Başvuru Kayıtları
+
+Başvuruların sonuçlandırılması
+
+KVKK m.5/2-ç
+
+3 yıl
+
+Güvenli silme
+
+3. Saklama Süresinin Uzaması
+
+Aşağıdaki hâllerde yukarıda belirtilen süreler uzatılabilir:
+
+Devam eden dava, icra veya arabuluculuk süreci bulunması,
+
+Yetkili kamu kurum ve kuruluşlarının talebi,
+
+Kanuni saklama yükümlülüğünün devam etmesi,
+
+Bir hakkın tesisi, kullanılması veya korunması için saklamanın gerekli olması.
+
+Bu durumda veriler, ilgili sürecin tamamlanmasına kadar muhafaza edilir.
+
+4. İmha Esasları
+
+Saklama süresi sona eren kişisel veriler;
+
+silinir,
+
+yok edilir veya
+
+anonim hâle getirilir.
+
+İmha işlemleri, İZSER Veri Saklama ve İmha Politikası ile belirlenen usul ve esaslara uygun olarak gerçekleştirilir.
+
+5. Periyodik Gözden Geçirme
+
+İZSER, saklama sürelerini ve veri kategorilerini düzenli aralıklarla gözden geçirir. Mevzuat değişiklikleri, platformun teknik yapısındaki değişiklikler veya hizmet kapsamının genişlemesi hâlinde bu tablo güncellenebilir.
+
+EK-2
+
+KİŞİSEL VERİ KATEGORİLERİ VE HUKUKİ SEBEP MATRİSİ
+
+Doküman Kodu: KVKK-EK-002
+
+Doküman Adı: Kişisel Veri Kategorileri ve Hukuki Sebep Matrisi
+
+Bağlı Doküman: İZSER KVKK Aydınlatma Metni
+
+1. Amaç
+
+Bu Ek’in amacı, İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi tarafından işlenen kişisel veri kategorilerini, veri sahibi gruplarını, veri işleme amaçlarını, hukuki sebeplerini ve kişisel verilerin aktarılabileceği alıcı gruplarını sistematik olarak ortaya koymaktır.
+
+Bu matris, 6698 sayılı Kişisel Verilerin Korunması Kanunu, ilgili ikincil mevzuat ve Kişisel Verileri Koruma Kurulu kararları dikkate alınarak hazırlanmıştır.
+
+2. Kişisel Veri Kategorileri ve Hukuki Sebep Matrisi
+
+Veri Kategorisi
+
+Veri Sahibi
+
+İşleme Amacı
+
+Hukuki Sebep
+
+Aktarılabileceği Alıcı Grupları
+
+Kimlik Bilgileri
+
+Şoför, Araç Sahibi, Kurumsal Üye Yetkilisi
+
+Üyelik oluşturulması, kimlik doğrulama, hesap güvenliği
+
+KVKK m.5/2-c, m.5/2-ç
+
+Yetkili kamu kurumları, teknik hizmet sağlayıcılar
+
+İletişim Bilgileri
+
+Tüm Kullanıcılar
+
+Üyelik işlemleri, bildirimler, teknik destek, teklif kabulü sonrası iletişim
+
+KVKK m.5/2-c, m.5/2-f
+
+Teklifin kabulü hâlinde ilgili kullanıcı, SMS/e-posta hizmet sağlayıcıları
+
+Kullanıcı Hesap Bilgileri
+
+Tüm Kullanıcılar
+
+Hesap yönetimi, güvenlik, kullanıcı doğrulama
+
+KVKK m.5/2-c
+
+Teknik altyapı sağlayıcıları
+
+Araç Bilgileri
+
+Araç Sahibi
+
+Araç doğrulama, ilanlara katılım, teklif süreçleri
+
+KVKK m.5/2-c
+
+Kurumsal kullanıcı (teklif kabulü sonrası gerekli olduğu ölçüde), yetkili kurumlar
+
+Şoför Belgeleri
+
+Şoför
+
+Mesleki yeterlilik ve doğrulama süreçleri
+
+KVKK m.5/2-c, m.5/2-ç
+
+Yetkili kamu kurumları, doğrulama süreçlerinde görevli personel
+
+Kurumsal Üye Bilgileri
+
+Kurumsal Üye Yetkilisi
+
+Kurumsal üyelik, faturalandırma, teklif süreçleri
+
+KVKK m.5/2-c, m.5/2-ç
+
+Mali müşavir, muhasebe sistemi, yetkili kurumlar
+
+Görsel Veriler
+
+Şoför, Araç Sahibi
+
+Profil oluşturulması, evrak doğrulama
+
+KVKK m.5/2-c veya açık rıza (gerektiğinde)
+
+Teknik hizmet sağlayıcıları
+
+Konum Verileri
+
+Açık rıza veren kullanıcı
+
+Yakındaki ilanların gösterilmesi, harita hizmetleri
+
+KVKK m.5/1 (Açık Rıza)
+
+Harita ve konum hizmeti sağlayıcıları
+
+Finansal Veriler
+
+Kurumsal Üye
+
+Faturalandırma, ödeme ve muhasebe işlemleri
+
+KVKK m.5/2-ç
+
+Ödeme kuruluşları, mali müşavir, yetkili kamu kurumları
+
+İşlem Güvenliği Verileri
+
+Tüm Kullanıcılar
+
+Bilgi güvenliği, sistem güvenliği, log kayıtlarının tutulması
+
+KVKK m.5/2-f
+
+Sunucu sağlayıcıları, siber güvenlik hizmet sağlayıcıları, yetkili merciler
+
+Kullanım Verileri
+
+Tüm Kullanıcılar
+
+Platformun işletilmesi, teknik destek, hizmet geliştirme
+
+KVKK m.5/2-f
+
+Yazılım geliştirme ve analiz hizmet sağlayıcıları
+
+Mesajlaşma Kayıtları
+
+Teklif sürecindeki kullanıcılar
+
+Platform içi iletişim, uyuşmazlık çözümü, güvenlik
+
+KVKK m.5/2-c, m.5/2-f
+
+Yetkili merciler (gerektiğinde)
+
+Hukuki İşlem Bilgileri
+
+İlgili Kullanıcı
+
+Dava, arabuluculuk, icra ve hukuki süreçlerin yürütülmesi
+
+KVKK m.5/2-e
+
+Mahkemeler, icra müdürlükleri, avukatlar, yetkili kurumlar
+
+Özel Nitelikli Kişisel Veriler (gerektiğinde)
+
+Şoför
+
+Mevzuatın gerektirdiği doğrulama süreçleri
+
+KVKK m.6
+
+Yetkili kamu kurumları ve kanunen yetkili merciler
+
+3. Hukuki Sebeplere İlişkin Açıklama
+
+Bu matriste yer alan veri işleme faaliyetleri aşağıdaki hukuki sebeplere dayanmaktadır:
+
+KVKK m.5/1: İlgili kişinin açık rızasının bulunması.
+
+KVKK m.5/2-c: Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması.
+
+KVKK m.5/2-ç: Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması.
+
+KVKK m.5/2-e: Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.
+
+KVKK m.5/2-f: Veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması.
+
+KVKK m.6: Özel nitelikli kişisel verilerin işlenmesine ilişkin kanuni şartların bulunması.
+
+4. Güncelleme
+
+Bu matris, İZSER tarafından sunulan hizmetlerde meydana gelebilecek değişiklikler, yeni veri kategorilerinin eklenmesi veya mevzuatta yapılan değişiklikler doğrultusunda güncellenebilir.
+
+EK-3
+
+KİŞİSEL VERİ AKTARIM TABLOSU
+
+Doküman Kodu: KVKK-EK-003
+
+Doküman Adı: Kişisel Veri Aktarım Tablosu
+
+Bağlı Doküman: İZSER KVKK Aydınlatma Metni
+
+1. Amaç
+
+Bu Ek’in amacı, İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi tarafından işlenen kişisel verilerin, hangi alıcı gruplarına, hangi amaçlarla, hangi hukuki sebeplere dayanılarak ve yurt içinde veya yurt dışında aktarılabileceğini açıklamaktır.
+
+İZSER, kişisel verilerin aktarılmasında 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 8 ve 9 uncu maddeleri, ilgili ikincil mevzuat ve Kişisel Verileri Koruma Kurulu kararlarına uygun hareket eder.
+
+2. Kişisel Veri Aktarım Tablosu
+
+Aktarılan Veri
+
+Alıcı Grubu
+
+Aktarım Amacı
+
+Hukuki Sebep
+
+Aktarım Yeri
+
+Kimlik Bilgileri
+
+Yetkili kamu kurum ve kuruluşları
+
+Kanuni yükümlülüklerin yerine getirilmesi
+
+KVKK m.5/2-ç, m.8
+
+Yurt İçi
+
+Kimlik Bilgileri
+
+Mahkemeler, Cumhuriyet Başsavcılıkları, İcra Müdürlükleri
+
+Hukuki süreçlerin yürütülmesi
+
+KVKK m.5/2-e, m.8
+
+Yurt İçi
+
+İletişim Bilgileri
+
+Teklifi kabul edilen kullanıcı
+
+Hizmet ilişkisinin kurulması
+
+KVKK m.5/2-c, m.8
+
+Yurt İçi
+
+İletişim Bilgileri
+
+SMS doğrulama hizmet sağlayıcısı
+
+SMS doğrulama kodlarının gönderilmesi
+
+KVKK m.5/2-c
+
+Yurt İçi / Kullanılan altyapıya göre Yurt Dışı
+
+E-posta Adresi
+
+E-posta hizmet sağlayıcısı
+
+Sistem bildirimlerinin gönderilmesi
+
+KVKK m.5/2-c
+
+Yurt İçi / Kullanılan altyapıya göre Yurt Dışı
+
+Araç Bilgileri
+
+Teklifi kabul eden kurumsal üye
+
+Hizmet ilişkisinin kurulması
+
+KVKK m.5/2-c
+
+Yurt İçi
+
+Şoför Belgeleri
+
+Yetkili kamu kurumları (kanunen gerekli hâllerde)
+
+Kanuni yükümlülüklerin yerine getirilmesi
+
+KVKK m.5/2-ç
+
+Yurt İçi
+
+Finansal Veriler
+
+Ödeme kuruluşları ve bankalar
+
+Ödeme ve tahsilat işlemlerinin yürütülmesi
+
+KVKK m.5/2-c, m.5/2-ç
+
+Yurt İçi
+
+Fatura Bilgileri
+
+Mali müşavir, muhasebe hizmet sağlayıcısı
+
+Muhasebe ve vergi yükümlülüklerinin yerine getirilmesi
+
+KVKK m.5/2-ç
+
+Yurt İçi
+
+İşlem Güvenliği Verileri
+
+Sunucu ve barındırma hizmet sağlayıcıları
+
+Platformun işletilmesi ve bilgi güvenliğinin sağlanması
+
+KVKK m.5/2-f
+
+Yurt İçi / Kullanılan altyapıya göre Yurt Dışı
+
+Log Kayıtları
+
+Siber güvenlik hizmet sağlayıcıları
+
+Güvenlik olaylarının tespiti ve önlenmesi
+
+KVKK m.5/2-f
+
+Yurt İçi
+
+Kullanım Verileri
+
+Yazılım geliştirme ve teknik destek hizmet sağlayıcıları
+
+Hata giderme, bakım ve geliştirme faaliyetleri
+
+KVKK m.5/2-f
+
+Yurt İçi / Kullanılan altyapıya göre Yurt Dışı
+
+Konum Verileri (açık rıza varsa)
+
+Harita ve konum hizmeti sağlayıcıları
+
+Harita hizmetlerinin sunulması
+
+KVKK m.5/1, m.9
+
+Kullanılan hizmete göre Yurt İçi / Yurt Dışı
+
+Bildirim Bilgileri
+
+Mobil bildirim hizmet sağlayıcıları
+
+Push bildirimlerinin gönderilmesi
+
+KVKK m.5/2-c
+
+Kullanılan hizmete göre Yurt Dışı
+
+Hukuki İşlem Bilgileri
+
+Avukatlar, arabulucular ve yetkili merciler
+
+Bir hakkın tesisi, kullanılması veya korunması
+
+KVKK m.5/2-e
+
+Yurt İçi
+
+3. Aktarım İlkeleri
+
+İZSER;
+
+kişisel verileri yalnızca işlenme amacıyla bağlantılı, sınırlı ve ölçülü şekilde aktarır,
+
+gerekli olmayan hiçbir kişisel veriyi üçüncü kişilerle paylaşmaz,
+
+veri aktarımı sırasında uygun teknik ve idari güvenlik tedbirlerini uygular,
+
+veri aktarılan üçüncü kişilerin de kişisel verilerin korunmasına ilişkin yükümlülüklere uygun hareket etmesini bekler.
+
+4. Yurt Dışına Veri Aktarımı
+
+Yurt dışına veri aktarılması gereken durumlarda İZSER, KVKK’nın 9 uncu maddesi ile ilgili ikincil mevzuatta öngörülen şartlara uygun hareket eder.
+
+Yurt dışında bulunan hizmet sağlayıcılarından yararlanılması hâlinde veri aktarımı;
+
+yeterlilik kararı bulunması,
+
+uygun güvencelerin sağlanması,
+
+kanunda öngörülen diğer aktarım şartlarının gerçekleşmesi
+
+durumlarında ve gerekli olduğu ölçüde yapılır.
+
+5. Güncelleme
+
+Bu tablo, İZSER’in hizmet aldığı üçüncü kişilerde, teknik altyapısında veya veri aktarım süreçlerinde meydana gelebilecek değişikliklere bağlı olarak güncellenebilir.
+
+EK-4
+
+KİŞİSEL VERİLERİN KORUNMASI KANUNU KAPSAMINDA BAŞVURU FORMU
+
+Doküman Kodu: KVKK-EK-004
+
+Doküman Adı: KVKK Başvuru Formu
+
+Bağlı Doküman: İZSER KVKK Aydınlatma Metni
+
+1. Başvuru Hakkında Bilgilendirme
+
+Bu Başvuru Formu, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) 11 ve 13 üncü maddeleri ile Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ kapsamında, ilgili kişilerin kişisel verilerine ilişkin haklarını kullanabilmeleri amacıyla hazırlanmıştır.
+
+Başvurular, eksiksiz doldurulan bu form ile birlikte kimlik doğrulamasına elverişli bilgi ve belgelerin sunulması suretiyle İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi’ne iletilmelidir.
+
+2. Başvuru Sahibine Ait Bilgiler
+
+Adı Soyadı
+
+…………………………………………………………..
+
+T.C. Kimlik Numarası
+
+(Yabancı uyruklular için Pasaport No / Kimlik No)
+
+…………………………………………………………..
+
+Doğum Tarihi
+
+…………………………………………………………..
+
+Tebligata Esas Adres
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+Cep Telefonu
+
+…………………………………………………………..
+
+E-Posta Adresi
+
+…………………………………………………………..
+
+İZSER Kullanıcı ID (Varsa)
+
+…………………………………………………………..
+
+3. Başvuru Sahibi Sıfatı
+
+Lütfen uygun kutucuğu işaretleyiniz.
+
+☐ Şoför
+
+☐ Araç Sahibi
+
+☐ Kurumsal Üye Yetkilisi
+
+☐ Platform Kullanıcısı
+
+☐ İnternet Sitesi Ziyaretçisi
+
+☐ Diğer
+
+…………………………………………….
+
+4. Talep Konusu
+
+KVKK’nın 11 inci maddesi kapsamında kullanmak istediğiniz hakkı işaretleyiniz.
+
+☐ Kişisel verilerimin işlenip işlenmediğini öğrenmek istiyorum.
+
+☐ İşlenmişse buna ilişkin bilgi talep ediyorum.
+
+☐ İşleme amacını öğrenmek istiyorum.
+
+☐ Verilerimin aktarıldığı üçüncü kişileri öğrenmek istiyorum.
+
+☐ Eksik veya yanlış işlenen verilerimin düzeltilmesini talep ediyorum.
+
+☐ Kişisel verilerimin silinmesini talep ediyorum.
+
+☐ Kişisel verilerimin yok edilmesini talep ediyorum.
+
+☐ Kişisel verilerimin anonim hâle getirilmesini talep ediyorum.
+
+☐ Yapılan düzeltme veya silme işleminin üçüncü kişilere bildirilmesini talep ediyorum.
+
+☐ Münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhime doğan sonuca itiraz ediyorum.
+
+☐ Kanuna aykırı veri işlenmesi nedeniyle uğradığım zararın giderilmesini talep ediyorum.
+
+☐ Diğer
+
+…………………………………………….
+
+5. Talebin Açıklaması
+
+Lütfen talebinizi ayrıntılı şekilde açıklayınız.
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+6. İlgili Belgeler
+
+Başvurunuzun değerlendirilmesini kolaylaştıracak belgeleri belirtiniz.
+
+☐ Kimlik Fotokopisi
+
+☐ Vekâletname
+
+☐ Mahkeme Kararı
+
+☐ Yazışmalar
+
+☐ Ekran Görüntüleri
+
+☐ Diğer
+
+…………………………………………….
+
+7. Başvurunun Yapılacağı Kanal
+
+☐ Yazılı Başvuru
+
+☐ Noter
+
+☐ KEP
+
+☐ Kayıtlı E-Posta
+
+☐ Mobil Uygulama (kullanıma sunulduğunda)
+
+☐ İnternet Sitesi Başvuru Modülü (kullanıma sunulduğunda)
+
+8. Başvuru Sahibinin Beyanı
+
+Başvuru Formu kapsamında vermiş olduğum bilgi ve belgelerin doğru olduğunu, başvurunun tarafıma ait olduğunu, gerçeğe aykırı beyanda bulunmam hâlinde doğabilecek hukuki sorumluluğun tarafıma ait olacağını kabul ve beyan ederim.
+
+Başvuru Tarihi
+
+…… / …… / ………
+
+Adı Soyadı
+
+………………………………………………………
+
+İmza
+
+………………………………………………………
+
+9. İZSER Tarafından Doldurulacaktır
+
+Başvuru Kayıt No
+
+……………………………………..
+
+Başvuru Tarihi
+
+……………………………………..
+
+Kimlik Doğrulandı
+
+☐ Evet
+
+☐ Hayır
+
+Başvuruyu Alan Personel
+
+……………………………………..
+
+Başvurunun Sonuçlandırıldığı Tarih
+
+……………………………………..
+
+Verilen Cevap
+
+☐ Kabul
+
+☐ Kısmen Kabul
+
+☐ Red
+
+Açıklama
+
+…………………………………………………………..
+
+…………………………………………………………..
+
+…………………………………………………………..

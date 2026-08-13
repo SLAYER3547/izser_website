@@ -1,0 +1,407 @@
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN AÇIK RIZA METNİ
+
+Doküman Kodu: KVKK-AR-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026
+
+Hazırlayan: İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi
+
+1. AMAÇ
+
+İşbu Açık Rıza Metni, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) uyarınca, İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi (“İZSER” veya “Şirket”) tarafından, açık rıza alınmasını gerektiren kişisel veri işleme faaliyetleri hakkında ilgili kişilerin bilgilendirilmesi ve gerekli hallerde açık rızalarının alınması amacıyla hazırlanmıştır.
+
+Şirket tarafından kişisel verilerinizin önemli bir bölümü KVKK’nın 5 inci maddesinin ikinci fıkrasında yer alan hukuki sebeplere dayanılarak işlenmektedir. Ancak aşağıda belirtilen veri işleme faaliyetleri bakımından kanunen açık rıza alınması gerektiğinden, işbu metin düzenlenmiştir.
+
+Bu metin yalnızca açık rızaya dayalı veri işleme faaliyetlerini kapsamaktadır. Diğer veri işleme faaliyetleri hakkında ayrıntılı bilgiye KVKK Aydınlatma Metni’nden ulaşabilirsiniz.
+
+2. KAPSAM
+
+Bu Açık Rıza Metni;
+
+• Mobil uygulama kullanıcılarını,
+
+• Servis hizmeti sunan gerçek kişileri,
+
+• Firma yetkililerini,
+
+• Bireysel üyeleri,
+
+• Potansiyel kullanıcıları,
+
+• Hizmet sağlayıcılarını,
+
+• İş ortaklarını,
+
+• Uygulamaya üye olan diğer gerçek kişileri kapsamaktadır.
+
+3. HUKUKİ DAYANAK
+
+İşbu Açık Rıza Metni;
+
+• 6698 sayılı Kişisel Verilerin Korunması Kanunu,
+
+• Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik, • Veri Sorumluları Sicili Hakkında Yönetmelik,
+
+• Ticari İletişim ve Ticari Elektronik İletiler Hakkında Yönetmelik,
+
+• Elektronik Ticaretin Düzenlenmesi Hakkında Kanun hükümleri
+
+dikkate alınarak hazırlanmıştır.
+
+4. TANIMLAR
+
+Bu metinde geçen;
+
+Açık Rıza: Belirli bir konuya ilişkin, bilgilendirmeye dayanan ve özgür iradeyle açıklanan onayı,
+
+İlgili Kişi: Kişisel verisi işlenen gerçek kişiyi,
+
+Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+
+Veri Sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketini,
+
+Mobil Uygulama: İZSER isimli mobil platformu, ifade eder.
+
+5. AÇIK RIZA GEREKTİREN KİŞİSEL VERİLER
+
+Açık rızanız kapsamında aşağıdaki kişisel verileriniz işlenebilecektir:
+
+Kimlik Bilgileri
+
+• Ad
+
+• Soyad
+
+İletişim Bilgileri
+
+• Telefon numarası
+
+• E-posta adresi Profil Bilgileri
+
+• Profil fotoğrafı
+
+• Kullanıcı adı
+
+• Firma bilgileri
+
+• Meslek bilgileri
+
+• Hizmet verilen bölgeler
+
+• Tanıtım bilgileri
+
+Araç Bilgileri
+
+• Araç markası
+
+• Modeli
+
+• Kapasitesi
+
+• Plaka bilgisi (gerekli olduğu ölçüde)
+
+Konum Bilgileri
+
+• GPS verileri
+
+• Yaklaşık konum
+
+• Harita konumu
+
+Kullanım Bilgileri
+
+• Giriş kayıtları
+
+• IP adresi
+
+• Cihaz bilgileri
+
+• İşletim sistemi
+
+• Uygulama kullanım hareketleri
+
+• İşlem kayıtları
+
+• Log kayıtları
+
+İletişim İçerikleri
+
+• Mesajlaşma kayıtları
+
+• Destek talepleri
+
+• Bildirim tercihleri
+
+6. AÇIK RIZANIN KONUSU
+
+Aşağıda belirtilen veri işleme faaliyetleri, kanuni bir veri işleme şartına dayanmadığı ölçüde yalnızca açık rızanız bulunması halinde gerçekleştirilecektir.
+
+Açık rıza vermemeniz, kanunen açık rıza gerektirmeyen temel hizmetlerin sunulmasını tek başına engellemez. Ancak açık rıza gerektiren bazı özelliklerden yararlanmanız mümkün olmayabilir.
+
+Şirket, açık rızayı herhangi bir hizmetin sunulmasının ön şartı haline getirmemeyi ve açık rızayı her zaman özgür iradeye dayalı olarak almayı taahhüt eder.
+
+7. AÇIK RIZAYA DAYALI VERİ İŞLEME FAALİYETLERİ
+
+İlgili kişi olarak aşağıda belirtilen faaliyetler bakımından açık rıza vermeniz halinde kişisel verileriniz işlenebilecektir.
+
+7.1 Ticari Elektronik İleti Gönderimi Kampanya, promosyon, indirim, duyuru, tanıtım, anket ve memnuniyet araştırmalarının;
+
+• SMS,
+
+• E-posta,
+
+• Telefon araması,
+
+• Mobil bildirim,
+
+• Uygulama içi bildirim yoluyla tarafıma gönderilmesini kabul ediyorum.
+
+7.2 Konum Verisinin Kullanılması
+
+Konum bilgilerimin;
+
+• Yakınımdaki iş ilanlarının gösterilmesi,
+
+• Harita hizmetlerinin sunulması,
+
+• Servis eşleştirmelerinin yapılması,
+
+• Mesafe hesaplanması,
+
+• Bölgesel hizmet önerilerinin oluşturulması, amaçlarıyla işlenmesini kabul ediyorum.
+
+KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN AÇIK RIZA METNİ
+
+7.3 Profil Bilgilerinin Görüntülenmesi
+
+İZSER mobil uygulamasının temel amacı, servis hizmeti sunan kişiler ile hizmet talebinde bulunan kişi veya firmaların güvenli şekilde bir araya getirilmesini sağlamaktır.
+
+Bu kapsamda açık rızanız bulunması halinde aşağıdaki profil bilgileriniz, uygulama içerisinde diğer kullanıcılar tarafından görüntülenebilecektir:
+
+• Ad ve soyad (veya ticaret unvanı)
+
+• Profil fotoğrafı
+
+• Meslek veya faaliyet bilgisi
+
+• Hizmet verilen il ve ilçeler
+
+• Araç bilgileri • Hakkımda/Tanıtım yazısı
+
+• Hizmet verdiğim kategoriler
+
+• Diğer tarafların değerlendirmesine yardımcı olacak profil bilgileri Taraflar arasında bir teklifin kabul edilmesi veya eşleşmenin gerçekleşmesi halinde, hizmetin kurulabilmesi amacıyla iletişim bilgilerinin karşılıklı olarak paylaşılmasına açık rıza verdiğimi kabul ederim.
+
+7.4 Uygulama İçi Mesajlaşma Hizmeti
+
+İZSER mobil uygulamasında yer alan mesajlaşma sistemi aracılığıyla kullanıcılar arasında gerçekleştirilen yazışmalara ilişkin;
+
+• mesaj içerikleri,
+
+• gönderim tarihleri,
+
+• alıcı ve gönderici bilgileri,
+
+• sistem kayıtları,
+
+• teknik log kayıtları,
+
+hizmetin güvenliğinin sağlanması, uyuşmazlıkların çözümlenmesi, kötüye kullanımın önlenmesi, teknik destek sağlanması ve bilgi güvenliği süreçlerinin yürütülmesi amacıyla işlenmesine açık rıza veriyorum.
+
+7.5 Kullanım Analizleri ve Hizmet Geliştirme
+
+İZSER tarafından;
+
+• uygulama kullanım sıklığımın,
+
+• uygulama içerisinde gerçekleştirdiğim işlemlerin,
+
+• ziyaret ettiğim ekranların,
+
+• tıklama hareketlerinin,
+
+• uygulama performans bilgilerinin,
+
+• hata kayıtlarının,
+
+• cihaz bilgilerinin,
+
+• kullanım istatistiklerinin, hizmet kalitesinin artırılması, yeni özelliklerin geliştirilmesi, kullanıcı deneyiminin iyileştirilmesi ve istatistiksel analizlerin yapılması amacıyla işlenmesine açık rıza veriyorum.
+
+7.6 Kişiselleştirilmiş Bildirimler
+
+İZSER tarafından;
+
+• yeni iş ilanları,
+
+• bölgesel iş fırsatları,
+
+• sistem duyuruları,
+
+• kampanyalar,
+
+• uygulama güncellemeleri,
+
+• güvenlik bildirimleri,
+
+• hatırlatmalar,
+
+• kişiselleştirilmiş öneriler, hakkında tarafıma mobil bildirim, uygulama içi bildirim, SMS veya e-posta gönderilmesine açık rıza veriyorum.
+
+7.7 Çerezler ve Benzeri Teknolojiler
+
+Mobil uygulama ve buna bağlı internet sitesi üzerinden;
+
+• oturum bilgilerinin tutulması,
+
+• kullanıcı tercihlerinin hatırlanması,
+
+• uygulama performansının ölçülmesi,
+
+• istatistik oluşturulması,
+
+• hata analizlerinin yapılması,
+
+• güvenlik kontrollerinin sağlanması, amacıyla çerezler, SDK’lar ve benzeri teknolojilerin kullanılmasına açık rıza veriyorum.
+
+7.8 Üçüncü Taraf Hizmet Sağlayıcıları
+
+İZSER’in kullandığı teknik altyapının sağlanabilmesi amacıyla kişisel verilerimin;
+
+• bulut bilişim hizmeti sağlayıcılarına,
+
+• veri barındırma hizmeti sunan kuruluşlara,
+
+• SMS gönderim hizmeti sağlayıcılarına,
+
+• e-posta hizmeti sağlayıcılarına,
+
+• harita ve konum hizmeti sağlayıcılarına,
+
+• mobil uygulama altyapısı sağlayıcılarına,
+
+• teknik destek hizmeti sunan iş ortaklarına, yalnızca hizmetin yerine getirilebilmesi amacıyla ve gerekli güvenlik tedbirleri alınarak aktarılabileceğini biliyor ve bu kapsamda açık rıza veriyorum.
+
+7.9 Yurt Dışına Veri Aktarımı
+
+İZSER mobil uygulamasında kullanılan bazı teknik altyapı hizmetlerinin yurt dışında bulunan sunucular veya hizmet sağlayıcılar tarafından sağlanması halinde, kişisel verilerimin KVKK’nın ilgili hükümleri doğrultusunda ve gerekli güvenlik tedbirleri alınarak yurt dışına aktarılmasına açık rıza veriyorum.
+
+7.10 Güvenlik ve Denetim Amaçlı İşleme
+
+Bilgi güvenliğinin sağlanması, sistemlerin korunması, siber saldırıların önlenmesi, usulsüz kullanımın tespiti, dolandırıcılık faaliyetlerinin önlenmesi ve hukuki süreçlerde delil oluşturulması amacıyla;
+
+• IP adresi,
+
+• cihaz bilgileri,
+
+• oturum kayıtları,
+
+• log kayıtları,
+
+• işlem geçmişi,
+
+• güvenlik kayıtları, işlenmesine açık rıza veriyorum.
+
+8. Açık Rızanın Niteliği
+
+Tarafımca verilen açık rızanın;
+
+• belirli bir konuya ilişkin olduğunu,
+
+• yeterli bilgilendirmeye dayandığını,
+
+• özgür irademle verildiğini,
+
+• herhangi bir baskı altında kalmaksızın açıklandığını,
+
+• dilediğim zaman geri alınabileceğini, bildiğimi ve kabul ettiğimi beyan ederim.
+
+KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN AÇIK RIZA METNİ
+
+9. Açık Rızanın Geri Alınması
+
+İlgili kişi olarak, işbu Açık Rıza Metni kapsamında vermiş olduğum açık rızayı, herhangi bir gerekçe göstermeksizin dilediğim zaman tamamen veya kısmen geri alabileceğimi biliyorum.
+
+Açık rızanın geri alınması, geri alma tarihinden önce açık rızaya dayanılarak gerçekleştirilen veri işleme faaliyetlerinin hukuka uygunluğunu etkilemez.
+
+Açık rızanın geri alınması, İZSER mobil uygulaması içerisindeki ilgili ayarlar menüsü, Şirket tarafından belirlenen iletişim kanalları veya 6698 sayılı Kanun kapsamında yapılacak yazılı başvuru yoluyla gerçekleştirilebilir.
+
+Şirket, açık rızanın geri alınmasına ilişkin talepleri, yürürlükteki mevzuat hükümleri çerçevesinde sonuçlandıracaktır.
+
+10. Kişisel Verilerin Saklanması
+
+Açık rızaya dayanılarak işlenen kişisel veriler, ilgili veri işleme amacının gerektirdiği süre boyunca veya yürürlükte bulunan mevzuatta öngörülen saklama süreleri boyunca muhafaza edilir.
+
+İşleme amacının ortadan kalkması, açık rızanın geri alınması veya mevzuatta öngörülen saklama sürelerinin sona ermesi hâlinde kişisel veriler; KVKK, ilgili ikincil düzenlemeler ve İZSER Kişisel Veri Saklama ve İmha Politikası doğrultusunda silinir, yok edilir veya anonim hâle getirilir.
+
+Kanunlardan kaynaklanan saklama yükümlülükleri saklıdır.
+
+11. İlgili Kişinin Hakları
+
+6698 sayılı Kanun’un 11 inci maddesi kapsamında ilgili kişi olarak aşağıdaki haklara sahip olduğumu biliyorum:
+
+• Kişisel verilerimin işlenip işlenmediğini öğrenme,
+
+• İşlenmişse buna ilişkin bilgi talep etme,
+
+• İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme,
+
+• Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri öğrenme,
+
+• Eksik veya yanlış işlenmiş kişisel verilerin düzeltilmesini isteme,
+
+• KVKK’nın 7 nci maddesi kapsamında kişisel verilerin silinmesini veya yok edilmesini isteme, • Düzeltme, silme veya yok etme işlemlerinin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+
+• Münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhime bir sonucun ortaya çıkmasına itiraz etme,
+
+• Kanuna aykırı veri işlenmesi nedeniyle zarara uğramam hâlinde zararımın giderilmesini talep etme. Bu haklarımı kullanmak amacıyla İZSER tarafından yayımlanan “İlgili Kişi Başvuru Formu”nu kullanarak başvuruda bulunabileceğim konusunda bilgilendirildim.
+
+12. Beyan ve Onay
+
+İşbu Açık Rıza Metni’ni baştan sona okuduğumu, içeriğini anladığımı, gerekli bilgilendirmenin tarafıma yapıldığını, açık rızamı herhangi bir baskı, zorlama, hata, hile veya yanıltma olmaksızın tamamen özgür irademle verdiğimi kabul ve beyan ederim.
+
+Açık rızanın, yalnızca bu metinde belirtilen veri işleme faaliyetleri bakımından geçerli olduğunu, açık rızamı dilediğim zaman geri alabileceğimi ve geri alma işleminin geçmişe etkili olmayacağını bildiğimi kabul ederim.
+
+Ayrıca, işbu Açık Rıza Metni’nin, KVKK Aydınlatma Metni’nin yerine geçmediğini; yalnızca açık rıza gerektiren veri işleme faaliyetlerine ilişkin onayımı içerdiğini bildiğimi beyan ederim.
+
+13. Onay
+
+Aşağıdaki kutucuklar, kullanıcı tarafından ayrı ayrı işaretlenerek onaylanır:
+
+☐ KVKK Aydınlatma Metni’ni okudum ve anladım.
+
+☐ Kişisel Verilerin İşlenmesine İlişkin Açık Rıza Metni’ni okudum ve kabul ediyorum.
+
+☐ Tarafıma SMS, e-posta, telefon ve mobil bildirim yoluyla ticari elektronik ileti gönderilmesini kabul ediyorum.
+
+☐ Konum bilgilerimin, uygulamanın sunduğu konum tabanlı hizmetlerin sağlanması amacıyla işlenmesini kabul ediyorum.
+
+☐ Profil bilgilerimin ve teklif kabulü sonrasında iletişim bilgilerimin, hizmetin kurulabilmesi amacıyla ilgili diğer kullanıcı ile paylaşılmasını kabul ediyorum.
+
+☐ Uygulamanın geliştirilmesi amacıyla kullanım verilerimin analiz edilmesini kabul ediyorum.
+
+14. Son Hükümler
+
+İZSER, işbu Açık Rıza Metni’ni yürürlükteki mevzuat hükümlerine uygun olmak kaydıyla güncelleme hakkını saklı tutar.
+
+Mevzuat değişiklikleri veya uygulamada meydana gelebilecek zorunlu değişiklikler nedeniyle metinde güncelleme yapılması hâlinde, güncel metin mobil uygulama ve/veya internet sitesi üzerinden kullanıcıların erişimine sunulur.
+
+Açık rızaya konu veri işleme faaliyetlerinde esaslı değişiklik yapılması hâlinde, gerekli olması durumunda yeniden açık rıza talep edilir.
+
+İLGİLİ KİŞİ Adı Soyadı : ……………………………………………………
+
+Tarih : ……/……/……….
+
+İmza (gerekiyorsa) : …………………………………………….
+
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+Doküman Kodu: KVKK-AR-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026

@@ -1,0 +1,277 @@
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+ÇEREZ POLİTİKASI
+
+Doküman Kodu: KVKK-ÇP-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026
+
+Revizyon Tarihi: -
+
+Hazırlayan: İZSER Hukuk Birimi
+
+İÇİNDEKİLER
+
+1. Amaç ve Kapsam
+
+2. Veri Sorumlusu
+
+3. Çerez Nedir?
+
+4. Kullanılan Çerez Türleri
+
+5. Çerezlerin Kullanım Amaçları
+
+6. Hukuki Sebepler
+
+7. Üçüncü Taraf Çerezleri
+
+8. Çerezler Yoluyla İşlenen Kişisel Veriler
+
+9. Çerezlerin Saklanma Süreleri
+
+10. Çerez Tercihlerinin Yönetimi
+
+11. İlgili Kişinin Hakları
+
+12. Politika Değişiklikleri
+
+1. AMAÇ VE KAPSAM
+
+Bu Çerez Politikası (“Politika”), İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi (“İZSER” veya “Şirket”) tarafından işletilen internet sitesi, mobil uygulama ve bağlantılı dijital platformlarda kullanılan çerezler ile benzeri teknolojiler hakkında kullanıcıları bilgilendirmek amacıyla hazırlanmıştır.
+
+Bu Politika, 6698 sayılı Kişisel Verilerin Korunması Kanunu, ilgili ikincil mevzuat ve Kişisel Verileri Koruma Kurulu kararları doğrultusunda hazırlanmıştır. İZSER, kullanıcı deneyiminin geliştirilmesi, platform güvenliğinin sağlanması ve hizmetlerin kesintisiz sunulabilmesi amacıyla çerezlerden yararlanmaktadır.
+
+2. VERİ SORUMLUSU
+
+Bu Politika kapsamında işlenen kişisel verilere ilişkin veri sorumlusu; İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi’dir. Kişisel verilerin işlenmesine ilişkin ayrıntılı bilgiler Aydınlatma Metni’nde yer almaktadır.
+
+3. ÇEREZ NEDİR?
+
+Çerezler (Cookies), internet siteleri veya mobil uygulamalar tarafından kullanıcı cihazına kaydedilen küçük metin dosyalarıdır.
+
+Çerezler;
+
+• kullanıcı tercihlerini hatırlamak,
+
+• oturum yönetimini sağlamak,
+
+• güvenliği artırmak,
+
+• teknik hataları tespit etmek,
+
+• hizmetlerin geliştirilmesine katkı sağlamak,
+
+amacıyla kullanılabilir.
+
+Mobil uygulamalarda kullanılan SDK’lar, cihaz tanımlayıcıları ve benzeri teknolojiler de bu Politika kapsamında çerez benzeri teknolojiler olarak değerlendirilmektedir.
+
+4. KULLANILAN ÇEREZ TÜRLERİ
+
+4.1 Zorunlu Çerezler
+
+Platformun güvenli ve doğru şekilde çalışabilmesi için gerekli çerezlerdir.
+
+Bu çerezler olmaksızın;
+
+• kullanıcı girişi,
+
+• oturum yönetimi,
+
+• güvenlik doğrulamaları,
+
+• kimlik doğrulama işlemleri, sağlıklı şekilde gerçekleştirilemez.
+
+Bu çerezler kullanıcının açık rızasına tabi değildir.
+
+4.2 İşlevsel Çerezler
+
+Kullanıcının tercihlerini hatırlayan çerezlerdir.
+
+Örneğin;
+
+• dil tercihi,
+
+• bildirim tercihleri,
+
+• oturum bilgilerinin hatırlanması,
+
+• kullanıcı ayarları.
+
+4.3 Performans ve Analitik Çerezleri
+
+Platformun kullanımının analiz edilmesi amacıyla kullanılabilir.
+
+Bu kapsamda;
+
+• ziyaret sayıları,
+
+• görüntülenen sayfalar,
+
+• uygulama performansı,
+
+• hata kayıtları,
+
+• kullanım yoğunluğu, ölçülebilir.
+
+Bu çerezler mümkün olduğunca anonim veya toplulaştırılmış veriler üzerinden çalıştırılır.
+
+Açık rıza gerektiren durumlarda ilgili kişinin onayı alınır.
+
+4.4 Reklam ve Pazarlama Çerezleri
+
+İZSER tarafından pazarlama veya reklam amaçlı çerezler yalnızca ilgili kişinin açık rızasının bulunması hâlinde kullanılabilir.
+
+Bu çerezler;
+
+• kampanya gösterimi,
+
+• kişiselleştirilmiş içerik,
+
+• pazarlama analizleri amacıyla kullanılabilir.
+
+5. ÇEREZLERİN KULLANIM AMAÇLARI
+
+Çerezler aşağıdaki amaçlarla kullanılabilir:
+
+• Platformun güvenliğinin sağlanması
+
+• Kullanıcı oturumlarının yönetilmesi
+
+• Dolandırıcılık faaliyetlerinin önlenmesi
+
+• Sistem performansının artırılması
+
+• Teknik hataların tespit edilmesi
+
+• Hizmet kalitesinin geliştirilmesi
+
+• İstatistiksel analizlerin yapılması
+
+• Kullanıcı tercihlerinin hatırlanması
+
+• Bildirim tercihlerinin saklanması
+
+• Bilgi güvenliği süreçlerinin yürütülmesi
+
+6. HUKUKİ SEBEPLER
+
+Çerezler yoluyla gerçekleştirilen kişisel veri işleme faaliyetleri;
+
+• KVKK m.5/2-c (Sözleşmenin kurulması veya ifası),
+
+• KVKK m.5/2-ç (Veri sorumlusunun hukuki yükümlülüğü),
+
+• KVKK m.5/2-f (Veri sorumlusunun meşru menfaati)
+
+hukuki sebeplerine dayanılarak gerçekleştirilebilir.
+
+Reklam, pazarlama ve kişiselleştirme amacıyla kullanılan çerezler ise yalnızca ilgili kişinin açık rızası bulunması hâlinde kullanılacaktır.
+
+7. ÜÇÜNCÜ TARAF HİZMETLERİ
+
+İZSER, platformun teknik altyapısının işletilmesi amacıyla aşağıdaki türde üçüncü taraf hizmetlerinden yararlanabilir:
+
+• Google Firebase
+
+• Apple Push Notification Service (APNs)
+
+• Google Maps Platform
+
+• Apple Maps • Bulut bilişim hizmetleri
+
+• Sunucu ve barındırma hizmetleri
+
+• Hata raporlama sistemleri
+
+• Performans analiz araçları
+
+Bu hizmetlerin kullanılması hâlinde kişisel veriler yalnızca hizmetin sunulması amacıyla ve yürürlükteki mevzuata uygun şekilde işlenir.
+
+Yurt dışına veri aktarımı söz konusu olduğunda İZSER, KVKK’nın yürürlükteki hükümlerine uygun aktarım mekanizmalarını uygular.
+
+8. ÇEREZLER YOLUYLA İŞLENEN KİŞİSEL VERİLER
+
+Çerezler aracılığıyla aşağıdaki kişisel veriler işlenebilir:
+
+• IP adresi
+
+• Oturum bilgileri
+
+• Tarayıcı bilgileri
+
+• İşletim sistemi bilgisi
+
+• Cihaz modeli
+
+• Uygulama sürümü
+
+• Tercih bilgileri
+
+• Dil bilgisi
+
+• Çerez kimliği
+
+• Kullanım zamanı
+
+• Sayfa ziyaret bilgileri
+
+• Hata kayıtları
+
+• Güvenlik logları
+
+İZSER, bu verileri yalnızca işleme amacıyla bağlantılı, sınırlı ve ölçülü şekilde işler.
+
+9. ÇEREZLERİN SAKLANMA SÜRELERİ
+
+Çerezlerin saklama süresi türüne göre değişmektedir.
+
+• Oturum çerezleri: Oturum sona erdiğinde silinir.
+
+• Kalıcı çerezler: Belirlenen süre sonunda veya kullanıcı tarafından silindiğinde sona erer.
+
+• Analitik çerezler: İlgili hizmet sağlayıcının belirlediği teknik süre boyunca saklanabilir.
+
+• Güvenlik çerezleri: Bilgi güvenliğinin sağlanması amacıyla gerekli süre boyunca muhafaza edilir.
+
+Çerezlerden elde edilen kişisel veriler, Veri Saklama ve İmha Politikası’nda belirtilen süreler boyunca saklanır.
+
+10. ÇEREZ TERCİHLERİNİN YÖNETİLMESİ
+
+Kullanıcılar;
+
+• internet tarayıcılarının ayarları,
+
+• mobil cihaz ayarları,
+
+• uygulama izinleri,
+
+• çerez tercih paneli (kullanıma sunulduğunda)
+
+üzerinden çerez tercihlerini değiştirebilir, silebilir veya engelleyebilir. Zorunlu çerezlerin devre dışı bırakılması hâlinde platformun bazı işlevleri beklenen şekilde çalışmayabilir.
+
+11. İLGİLİ KİŞİNİN HAKLARI
+
+İlgili kişiler, 6698 sayılı Kanun’un 11 inci maddesi kapsamında;
+
+• kişisel verilerinin işlenip işlenmediğini öğrenme,
+
+• işlenen verilere ilişkin bilgi talep etme,
+
+• eksik veya yanlış işlenen verilerin düzeltilmesini isteme,
+
+• silinmesini veya yok edilmesini talep etme,
+
+• veri aktarımının öğrenilmesini isteme,
+
+• kanuni şartların oluşması hâlinde itiraz etme,
+
+• zararın giderilmesini talep etme haklarına sahiptir.
+
+Başvurular, Aydınlatma Metni’nde belirtilen usul ve esaslar çerçevesinde İZSER’e iletilebilir. ⸻
+
+12. POLİTİKA DEĞİŞİKLİKLERİ
+
+İZSER, işbu Çerez Politikası’nı yürürlükteki mevzuat, Kişisel Verileri Koruma Kurulu kararları veya platform hizmetlerinde meydana gelen değişiklikler doğrultusunda güncelleyebilir. Güncellenen Politika, internet sitesi veya mobil uygulama üzerinden yayımlandığı tarihte yürürlüğe girer.

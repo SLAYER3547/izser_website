@@ -1,0 +1,289 @@
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+GİZLİLİK POLİTİKASI
+
+Doküman Kodu: GP-001
+
+Sürüm No: 1.0
+
+Yürürlük Tarihi: 12/08/2026
+
+1. AMAÇ
+
+İşbu Gizlilik Politikası, İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi (“İZSER” veya “Şirket”) tarafından geliştirilen İZSER mobil uygulamasını kullanan gerçek kişilerin kişisel verilerinin ve diğer kullanıcı bilgilerinin gizliliğinin korunmasına ilişkin esasları belirlemek amacıyla hazırlanmıştır.
+
+İZSER, kullanıcılarının özel hayatına ve kişisel verilerine saygı göstermeyi temel ilke olarak benimsemekte olup, kişisel verilerin işlenmesi sırasında 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”), ilgili ikincil mevzuat ve diğer yürürlükteki hukuki düzenlemelere uygun hareket etmektedir.
+
+2. KAPSAM
+
+Bu Politika;
+
+• Mobil uygulama kullanıcılarını,
+
+• Servis hizmeti sunan kullanıcıları,
+
+• Hizmet talebinde bulunan kullanıcıları,
+
+• Firma hesaplarını,
+
+• Ziyaretçileri,
+
+• Destek hizmetlerinden yararlanan kişileri, kapsamaktadır.
+
+3. VERİ SORUMLUSU
+
+Bu Politika kapsamında veri sorumlusu; İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ olup, kişisel verileriniz ilgili mevzuata uygun şekilde işlenmektedir.
+
+4. TOPLANAN BİLGİLER
+
+İZSER tarafından, hizmetin sunulabilmesi amacıyla aşağıdaki veri kategorileri işlenebilir: Kimlik Bilgileri
+
+• Ad
+
+• Soyad
+
+İletişim Bilgileri
+
+• Cep telefonu
+
+• E-posta adresi
+
+Hesap Bilgileri
+
+• Kullanıcı kimliği
+
+• Şifre (şifrelenmiş olarak)
+
+• Üyelik bilgileri
+
+Profil Bilgileri
+
+• Profil fotoğrafı
+
+• Firma bilgileri
+
+• Hizmet verilen bölgeler
+
+• Araç bilgileri
+
+• Meslek bilgileri
+
+• Tanıtım yazıları
+
+Konum Bilgileri
+
+Kullanıcının izin vermesi hâlinde GPS ve konum verileri.
+
+Teknik Veriler
+
+• IP adresi
+
+• Cihaz modeli
+
+• İşletim sistemi
+
+• Uygulama sürümü
+
+• Dil bilgisi
+
+• Oturum kayıtları
+
+• Hata kayıtları (log)
+
+Kullanım Verileri
+
+• Yayınlanan ilanlar
+
+• Verilen teklifler
+
+• Kabul edilen teklifler
+
+• Mesajlaşma kayıtları
+
+• Bildirim tercihleri
+
+• Uygulama kullanım istatistikleri
+
+5. KİŞİSEL VERİLERİN KULLANIM AMAÇLARI
+
+Toplanan bilgiler aşağıdaki amaçlarla kullanılabilir:
+
+• Üyelik oluşturulması ve yönetilmesi,
+
+• Kullanıcı kimliğinin doğrulanması,
+
+• İş ilanlarının yayınlanması,
+
+• Servis sağlayıcılar ile hizmet alanların eşleştirilmesi,
+
+• Teklif oluşturulması ve yönetilmesi,
+
+• Kullanıcılar arasında iletişimin sağlanması,
+
+• Güvenlik kontrollerinin yapılması,
+
+• Dolandırıcılık ve kötüye kullanımın önlenmesi,
+
+• Müşteri destek hizmetlerinin yürütülmesi,
+
+• Mevzuattan kaynaklanan yükümlülüklerin yerine getirilmesi,
+
+• Uygulamanın geliştirilmesi ve performansının artırılması,
+
+• İstatistiksel analizlerin yapılması,
+
+• Bilgi güvenliği süreçlerinin yürütülmesi.
+
+6. VERİ GÜVENLİĞİ
+
+İZSER, kişisel verilerin hukuka aykırı olarak işlenmesini, yetkisiz kişiler tarafından erişilmesini, değiştirilmesini, açıklanmasını veya kaybolmasını önlemek amacıyla gerekli teknik ve idari tedbirleri uygular.
+
+Bu kapsamda;
+
+• Güçlü kimlik doğrulama yöntemleri,
+
+• Şifreleme teknolojileri,
+
+• Yetkilendirme mekanizmaları,
+
+• Güvenlik duvarları,
+
+• Erişim kayıtları,
+
+• Düzenli güvenlik güncellemeleri,
+
+• Loglama ve izleme sistemleri kullanılmaktadır.
+
+7. ÜÇÜNCÜ TARAF HİZMETLER
+
+İZSER, hizmetin sunulabilmesi amacıyla teknik altyapı sağlayıcıları, bildirim servisleri, harita servisleri, bulut hizmetleri ve benzeri çözüm ortaklarından yararlanabilir.
+
+Bu hizmet sağlayıcıları yalnızca hizmetin sunulması amacıyla ve gerekli güvenlik yükümlülükleri altında kişisel verilere erişebilir.
+
+8. KULLANICININ YÜKÜMLÜLÜKLERİ
+
+Kullanıcı;
+
+• Hesap bilgilerinin güvenliğini sağlamak,
+
+• Şifresini üçüncü kişilerle paylaşmamak,
+
+• Doğru ve güncel bilgi vermek,
+
+• Başkalarına ait kişisel verileri hukuka aykırı şekilde paylaşmamak,
+
+• Uygulamayı hukuka ve kullanım koşullarına uygun kullanmakla yükümlüdür.
+
+GİZLİLİK POLİTİKASI
+
+9. Çerezler ve Benzeri Teknolojiler
+
+İZSER mobil uygulaması ve buna bağlı internet sitesi, hizmetin güvenli, verimli ve kullanıcı dostu şekilde sunulabilmesi amacıyla çerezler, yerel depolama alanları, SDK’lar ve benzeri teknolojilerden yararlanabilir.
+
+Bu teknolojiler aşağıdaki amaçlarla kullanılabilir:
+
+• Oturum yönetiminin sağlanması,
+
+• Kullanıcı tercihlerinin hatırlanması,
+
+• Bilgi güvenliğinin sağlanması,
+
+• Performans analizlerinin yapılması,
+
+• Teknik hataların tespit edilmesi,
+
+• Hizmet kalitesinin artırılması.
+
+Zorunlu olmayan teknolojilerin kullanılması hâlinde, yürürlükteki mevzuat uyarınca gerekli olduğu durumlarda kullanıcıdan ayrıca açık rıza alınır.
+
+10. Üçüncü Taraf Hizmet Sağlayıcıları
+
+İZSER, hizmetlerini sunarken teknik altyapı sağlayıcıları, veri barındırma hizmeti sunan kuruluşlar, elektronik haberleşme hizmet sağlayıcıları, ödeme hizmeti kuruluşları (kullanılması hâlinde), harita hizmetleri sağlayıcıları ve benzeri çözüm ortaklarından destek alabilir.
+
+Bu hizmet sağlayıcılarına yapılacak veri aktarımları;
+
+• yalnızca hizmetin yerine getirilebilmesi amacıyla,
+
+• gerekli olduğu ölçüde,
+
+• uygun teknik ve idari güvenlik tedbirleri alınarak,
+
+• yürürlükteki mevzuata uygun şekilde gerçekleştirilir.
+
+11. Kişisel Verilerin Saklanması
+
+Kişisel veriler, işlenme amaçlarının gerektirdiği süre boyunca ve ilgili mevzuatta öngörülen saklama süreleri dikkate alınarak muhafaza edilir.
+
+Saklama süresinin sona ermesi veya veri işleme amacının ortadan kalkması hâlinde kişisel veriler; 6698 sayılı Kanun ve İZSER Kişisel Veri Saklama ve İmha Politikası doğrultusunda silinir, yok edilir veya anonim hâle getirilir.
+
+12. Yurt Dışına Veri Aktarımı
+
+Kişisel verileriniz, kural olarak yurt içinde işlenmektedir.
+
+Bununla birlikte, uygulamanın teknik altyapısında kullanılan hizmetlerin niteliği gereği kişisel verilerin yurt dışında bulunan sunucular veya hizmet sağlayıcıları aracılığıyla işlenmesinin gerekli olduğu durumlarda, veri aktarımı 6698 sayılı Kanun’un ilgili hükümlerine uygun olarak ve gerekli güvenlik tedbirleri alınarak gerçekleştirilir.
+
+13. Bilgi Güvenliği
+
+İZSER, kişisel verilerin gizliliğini, bütünlüğünü ve erişilebilirliğini korumak amacıyla güncel teknolojiye uygun teknik ve idari tedbirleri uygular.
+
+Bu kapsamda;
+
+• erişim yetkilendirme süreçleri,
+
+• veri şifreleme yöntemleri,
+
+• düzenli yedekleme işlemleri,
+
+• güvenlik kayıtlarının tutulması,
+
+• sistem güncellemeleri,
+
+• sızma ve güvenlik kontrolleri,
+
+• personel yetkilendirme prosedürleri gibi önlemler uygulanmaktadır.
+
+Bununla birlikte, internet üzerinden gerçekleştirilen veri iletimlerinin mutlak güvenliğinin garanti edilemeyeceği kullanıcı tarafından bilinmektedir.
+
+14. Kullanıcı Hakları İlgili kişiler, 6698 sayılı Kanun’un 11 inci maddesi kapsamında;
+
+• kişisel verilerinin işlenip işlenmediğini öğrenme,
+
+• işlenmişse buna ilişkin bilgi talep etme,
+
+• işlenme amacını öğrenme,
+
+• verilerin aktarıldığı üçüncü kişileri öğrenme,
+
+• eksik veya yanlış işlenen verilerin düzeltilmesini isteme,
+
+• silinmesini veya yok edilmesini isteme,
+
+• yapılan işlemlerin üçüncü kişilere bildirilmesini isteme,
+
+• otomatik sistemler sonucu ortaya çıkan aleyhe sonuçlara itiraz etme,
+
+• kanuna aykırı işleme nedeniyle uğradıkları zararın giderilmesini talep etme haklarına sahiptir.
+
+Başvurular, İZSER tarafından yayımlanan “İlgili Kişi Başvuru Formu” kullanılarak veya yürürlükteki mevzuatta belirtilen diğer yöntemlerle yapılabilir.
+
+15. Politika Değişiklikleri
+
+İZSER, yürürlükteki mevzuat, teknolojik gelişmeler veya hizmet süreçlerinde meydana gelen değişiklikler doğrultusunda işbu Gizlilik Politikası’nı güncelleme hakkını saklı tutar.
+
+Güncellenen metin, mobil uygulama ve/veya internet sitesi üzerinden yayımlandığı tarihte yürürlüğe girer.
+
+Kullanıcıların güncel politikayı belirli aralıklarla incelemesi tavsiye edilir.
+
+16. İletişim
+
+Kişisel verilerinizin işlenmesine ilişkin her türlü soru, talep ve başvurularınızı İZSER’e, KVKK kapsamında belirlenen iletişim kanalları üzerinden iletebilirsiniz.
+
+Şirket, başvuruları yürürlükteki mevzuatta öngörülen süreler içerisinde sonuçlandıracaktır.
+
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+Doküman Kodu: GP-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026

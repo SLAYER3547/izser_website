@@ -1,0 +1,267 @@
+İZSER MOBİL UYGULAMASI KULLANIM KOŞULLARI VE ÜYELİK SÖZLEŞMESİ
+
+Doküman Kodu: UKS-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026
+
+MADDE 1 – TARAFLAR
+
+İşbu Kullanım Koşulları ve Üyelik Sözleşmesi (“Sözleşme”), İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi (bundan sonra “İZSER” veya “Platform” olarak anılacaktır) ile İZSER mobil uygulamasına üye olan gerçek veya tüzel kişi kullanıcı (bundan sonra “Kullanıcı” olarak anılacaktır) arasında elektronik ortamda akdedilmiştir.
+
+Kullanıcı, uygulamaya üye olmak, giriş yapmak veya uygulamayı kullanmaya devam etmekle işbu Sözleşme’nin tamamını okuduğunu, anladığını ve tüm hükümlerini kabul ettiğini beyan eder.
+
+MADDE 2 – KONU
+
+İşbu Sözleşme’nin konusu; İZSER mobil uygulamasının kullanım şartlarının, tarafların hak ve yükümlülüklerinin, üyelik esaslarının, uygulama kullanım kurallarının ve tarafların hukuki sorumluluklarının düzenlenmesidir.
+
+MADDE 3 – TANIMLAR
+
+Bu Sözleşme’de;
+
+Platform: İZSER mobil uygulamasını,
+
+Şirket: İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi’ni,
+
+Kullanıcı: Platforma üye olan gerçek veya tüzel kişiyi,
+
+Hizmet Alan: Platform üzerinden servis hizmeti talebinde bulunan kullanıcıyı,
+
+Hizmet Sağlayıcı: Platform üzerinden servis hizmeti sunan gerçek veya tüzel kişiyi,
+
+İlan: Hizmet talebine ilişkin oluşturulan duyuruyu,
+
+Teklif: Hizmet sağlayıcı tarafından ilan sahibine sunulan fiyat ve hizmet önerisini,
+
+Eşleşme: Hizmet alanın bir teklifi kabul etmesi sonucunda taraflar arasında iletişim kurulmasına imkân veren süreci, ifade eder.
+
+MADDE 4 – PLATFORMUN NİTELİĞİ
+
+İZSER, servis hizmeti talep eden kullanıcılar ile servis hizmeti sunan kullanıcıları dijital ortamda bir araya getiren bir aracılık platformudur.
+
+İZSER;
+
+• Taşıma hizmetinin tarafı değildir.
+
+• Taşıma sözleşmesinin tarafı değildir.
+
+• Kullanıcı adına hareket etmez.
+
+• Hizmet sağlayıcının işvereni değildir.
+
+• Kullanıcıların temsilcisi değildir. Platform, yalnızca tarafların birbirlerini bulmasına ve iletişim kurmasına aracılık eder.
+
+Hizmetin ifası, bedeli, kalitesi, zamanında yerine getirilmesi ve taraflar arasındaki diğer hukuki ilişkiler tamamen hizmet alan ile hizmet sağlayıcı arasındadır.
+
+MADDE 5 – ÜYELİK KOŞULLARI
+
+Platforma üye olabilmek için;
+
+a) Hukuken işlem yapma ehliyetine sahip olmak,
+
+b) Doğru, güncel ve eksiksiz bilgi vermek,
+
+c) İşbu Sözleşme ile KVKK dokümanlarını kabul etmek,
+
+d) Yürürlükteki mevzuata aykırı hareket etmemek,
+
+gerekmektedir.
+
+İZSER, gerekli gördüğü durumlarda üyelik başvurusunu reddetme veya mevcut üyeliği askıya alma ya da sonlandırma hakkını saklı tutar.
+
+MADDE 6 – HESAP GÜVENLİĞİ
+
+Kullanıcı;
+
+• kullanıcı adı ve şifresini gizli tutacağını,
+
+• hesabını üçüncü kişilere kullandırmayacağını,
+
+• hesabı üzerinden gerçekleştirilen işlemlerden sorumlu olduğunu,
+
+• yetkisiz kullanım şüphesi hâlinde İZSER’i derhal bilgilendireceğini kabul ve taahhüt eder.
+
+Şirket, kullanıcı kusurundan kaynaklanan hesap güvenliği ihlallerinden sorumlu değildir.
+
+MADDE 7 – KULLANIM KURALLARI
+
+Kullanıcı aşağıdaki fiillerde bulunmayacağını kabul eder:
+
+• Gerçeğe aykırı ilan oluşturmak,
+
+• Yanıltıcı bilgi paylaşmak,
+
+• Sahte hesap oluşturmak,
+
+• Başkasına ait hesap kullanmak,
+
+• Hukuka aykırı içerik paylaşmak,
+
+• Hakaret, tehdit veya taciz içeren mesajlar göndermek,
+
+• Platformun güvenliğini tehlikeye düşürecek faaliyetlerde bulunmak,
+
+• Virüs, zararlı yazılım veya benzeri teknolojiler kullanmak,
+
+• Platformun işleyişini bozacak işlemler gerçekleştirmek,
+
+• Mevzuata aykırı herhangi bir faaliyette bulunmak.
+
+İZSER, bu hükümlere aykırılık hâlinde gerekli gördüğü tedbirleri alma, hesabı askıya alma veya üyeliği sona erdirme hakkını saklı tutar.
+
+MADDE 8 – İLAN OLUŞTURMA KURALLARI
+
+8.1. Hizmet alan kullanıcılar, platform üzerinden servis hizmeti taleplerine ilişkin ilan oluşturabilir.
+
+8.2. Oluşturulan ilanlarda yer alan bilgilerin doğru, güncel ve gerçeğe uygun olması kullanıcının sorumluluğundadır.
+
+8.3. Kullanıcı aşağıdaki nitelikte ilan oluşturamaz:
+
+• Hukuka aykırı içerik taşıyan,
+
+• Gerçeğe aykırı bilgi içeren,
+
+• Hakaret, tehdit veya ayrımcılık içeren,
+
+• Üçüncü kişilerin haklarını ihlal eden,
+
+• Kamu düzenine veya genel ahlaka aykırı olan,
+
+• Suç teşkil eden faaliyetlere ilişkin ilanlar.
+
+8.4. İZSER, uygun görmediği ilanları önceden bildirim yapmaksızın yayından kaldırabilir, düzeltilmesini isteyebilir veya erişime kapatabilir.
+
+8.5. İlan içeriklerinden tamamen ilanı oluşturan kullanıcı sorumludur.
+
+MADDE 9 – TEKLİF VERME VE EŞLEŞME
+
+9.1. Hizmet sağlayıcı kullanıcılar, yayımlanan ilanlara teklif verebilir.
+
+9.2. Verilen teklifler, teklif sahibi kullanıcı açısından bağlayıcıdır ve teklif süresi boyunca geçerlidir.
+
+9.3. Hizmet alan kullanıcı, dilediği teklifi kabul etmekte veya reddetmekte serbesttir.
+
+9.4. Bir teklifin kabul edilmesiyle birlikte, tarafların iletişim kurabilmesine imkân sağlanır.
+
+9.5. İZSER, teklifin kabul edilmesiyle kurulan hukuki ilişkinin tarafı değildir.
+
+9.6. Hizmetin kapsamı, bedeli, ödeme şekli, ifa zamanı, iptal şartları ve diğer tüm hususlar hizmet alan ile hizmet sağlayıcı arasında belirlenir.
+
+MADDE 10 – MESAJLAŞMA SİSTEMİ
+
+10.1. Platform içerisinde sunulan mesajlaşma sistemi yalnızca hizmete ilişkin iletişim amacıyla kullanılabilir.
+
+10.2. Kullanıcılar; • hakaret, • tehdit, • küfür, • taciz, • ayrımcılık, • yasa dışı içerik, • reklam, • spam, niteliğinde mesaj gönderemez.
+
+10.3. Bilgi güvenliğinin sağlanması, uyuşmazlıkların çözümlenmesi ve yasal yükümlülüklerin yerine getirilmesi amacıyla mesajlaşma kayıtları mevzuata uygun şekilde saklanabilir.
+
+10.4. İZSER, kullanıcılar arasındaki özel hukuk ilişkisine taraf değildir ve mesaj içeriklerinden hukuken sorumlu tutulamaz. Ancak mevzuattan doğan yükümlülükleri kapsamında gerekli tedbirleri alma hakkını saklı tutar.
+
+MADDE 11 – ÜCRETLENDİRME VE KOMİSYON
+
+11.1. Platformun kullanımına ilişkin ücretlendirme modeli, İZSER tarafından belirlenir ve uygulama içerisinde kullanıcılara duyurulur.
+
+11.2. İZSER, ücretlendirme politikasını, komisyon oranlarını veya ücretli hizmetleri değiştirme hakkını saklı tutar.
+
+11.3. Kullanıcılar, ücretli hizmetlerden yararlanmadan önce ilgili ücret ve koşullar hakkında bilgilendirilir.
+
+11.4. Taraflar arasında kararlaştırılan taşıma veya servis hizmeti bedelinden, İZSER yalnızca duyurulan komisyon veya hizmet bedeli kadar hak sahibidir. Bunun dışındaki ödeme ilişkisi hizmet alan ile hizmet sağlayıcı arasındadır.
+
+MADDE 12 – TARAFLARIN SORUMLULUĞU
+
+12.1. İZSER, kullanıcılar arasında gerçekleştirilen taşıma veya servis hizmetinin tarafı değildir. 12.2. Hizmetin zamanında yerine getirilmemesi, ayıplı ifası, hiç ifa edilmemesi, ücret uyuşmazlıkları, zarar, ziyan veya üçüncü kişilere verilen zararlardan hizmetin tarafları sorumludur.
+
+12.3. İZSER; • hizmet sağlayıcının yeterliliğini, • kullanıcıların beyanlarının doğruluğunu, • hizmetin kalitesini, • tarafların ödeme yükümlülüklerini, • taşımanın güvenliğini, garanti etmez.
+
+12.4. Kullanıcılar, platformu kullanırken yürürlükteki tüm mevzuata uygun hareket etmekle yükümlüdür.
+
+MADDE 13 – FİKRÎ MÜLKİYET HAKLARI
+
+13.1. İZSER mobil uygulaması, yazılımı, tasarımı, veri tabanı, logo, ticaret unvanı, görselleri, metinleri ve diğer tüm içerikleri üzerindeki fikrî ve sınai mülkiyet hakları İZSER’e veya ilgili hak sahiplerine aittir.
+
+13.2. Kullanıcılar, bu içerikleri İZSER’in önceden yazılı izni olmaksızın; • kopyalayamaz, • çoğaltamaz, • değiştiremez, • dağıtamaz, • ticari amaçla kullanamaz, • üçüncü kişilere devredemez.
+
+13.3. Kullanıcı tarafından platforma yüklenen içeriklerin hukuka uygunluğundan kullanıcı sorumludur. Kullanıcı, yüklediği içerikler üzerinde gerekli haklara sahip olduğunu beyan eder.
+
+MADDE 14 – KİŞİSEL VERİLERİN KORUNMASI VE GİZLİLİK
+
+14.1. İZSER, kullanıcıların kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili mevzuata uygun olarak işler.
+
+14.2. Kişisel verilerin işlenmesine ilişkin usul ve esaslar; KVKK Aydınlatma Metni, Açık Rıza Metni ve Gizlilik Politikası’nda ayrıca düzenlenmiştir.
+
+14.3. Kullanıcı, uygulamayı kullanırken üçüncü kişilere ait kişisel verileri hukuka aykırı şekilde işlememeyi, paylaşmamayı ve ifşa etmemeyi kabul eder.
+
+MADDE 15 – ÜYELİĞİN ASKIYA ALINMASI VE SONA ERDİRİLMESİ
+
+15.1. İZSER, aşağıdaki hâllerde kullanıcı hesabını geçici olarak askıya alabilir veya tamamen sonlandırabilir:
+
+• İşbu Sözleşme hükümlerinin ihlali,
+
+• Mevzuata aykırı kullanım,
+
+• Sahte veya yanıltıcı bilgi verilmesi,
+
+• Başkalarının haklarının ihlal edilmesi,
+
+• Platform güvenliğini tehlikeye düşüren faaliyetlerde bulunulması,
+
+• Dolandırıcılık, kötüye kullanım veya hile şüphesi,
+
+• Yetkili makamların talebi veya mahkeme kararı.
+
+15.2. Kullanıcı dilediği zaman üyeliğini uygulama üzerinden veya İZSER’e başvurarak sonlandırabilir. Mevzuattan doğan saklama yükümlülükleri saklıdır.
+
+MADDE 16 – SORUMLULUĞUN SINIRLANDIRILMASI
+
+16.1. İZSER, hizmet alan ile hizmet sağlayıcı arasında kurulan hukuki ilişkinin tarafı değildir. 16.2. İZSER;
+
+• tarafların birbirlerine karşı edimlerini yerine getireceğini,
+
+• hizmetin belirli bir kalite standardında sunulacağını,
+
+• tarafların ödeme yükümlülüklerini eksiksiz yerine getireceğini,
+
+• kullanıcı beyanlarının doğru olduğunu garanti etmez.
+
+16.3. Kullanıcılar arasında doğabilecek uyuşmazlıklardan, hizmetin hiç veya gereği gibi ifa edilmemesinden, ayıplı ifadan, maddi veya manevi zararlardan İZSER sorumlu değildir.
+
+16.4. İZSER, yalnızca kendi ağır kusuru veya kastı ile doğrudan sebep olduğu zararlardan, emredici hukuk kuralları çerçevesinde sorumludur.
+
+16.5. İZSER; internet erişimindeki kesintiler, mobil işletim sistemi kaynaklı sorunlar, üçüncü taraf hizmet sağlayıcılarının kesintileri, doğal afetler veya benzeri nedenlerle hizmette meydana gelen aksaklıklardan sorumlu tutulamaz.
+
+MADDE 17 – FİKRÎ VE SINAÎ MÜLKİYET İHLALLERİ
+
+17.1. Kullanıcı, platforma yüklediği içeriklerin hukuka uygun olduğunu ve üçüncü kişilerin fikrî mülkiyet haklarını ihlal etmediğini beyan eder.
+
+17.2. Hak ihlali iddiası hâlinde İZSER, ilgili içeriği geçici veya kalıcı olarak yayından kaldırabilir ve gerekli gördüğü diğer tedbirleri alabilir.
+
+MADDE 18 – MÜCBİR SEBEP
+
+Doğal afet, savaş, terör olayları, salgın hastalık, grev, lokavt, elektrik veya internet kesintileri, siber saldırılar, kamu otoritelerinin işlemleri ve tarafların makul kontrolü dışında gelişen benzeri olaylar mücbir sebep olarak kabul edilir.
+
+Mücbir sebep süresince İZSER’in yükümlülüklerini yerine getirememesinden dolayı sorumluluğu doğmaz.
+
+MADDE 19 – DELİL SÖZLEŞMESİ
+
+Taraflar, işbu Sözleşme kapsamında doğabilecek uyuşmazlıklarda İZSER’e ait elektronik kayıtların, sistem loglarının, işlem kayıtlarının, elektronik yazışmaların ve ticari defterlerin, 6100 sayılı Hukuk Muhakemeleri Kanunu kapsamında hukuka uygun delil niteliğinde olduğunu kabul eder. Bu hüküm, emredici hukuk kurallarını bertaraf edecek şekilde yorumlanamaz.
+
+MADDE 20 – SÖZLEŞME DEĞİŞİKLİKLERİ
+
+İZSER, yürürlükteki mevzuat, teknolojik gelişmeler veya hizmet süreçlerinde meydana gelen değişiklikler doğrultusunda işbu Sözleşme’de değişiklik yapabilir. Esaslı değişiklikler, yürürlüğe girmeden önce uygulama veya internet sitesi üzerinden kullanıcılara duyurulur. Değişikliklerin yürürlüğe girmesinden sonra uygulamanın kullanılmaya devam edilmesi, güncel sözleşme hükümlerinin kabul edildiği anlamına gelir.
+
+MADDE 21 – UYGULANACAK HUKUK VE YETKİ
+
+İşbu Sözleşme’nin uygulanmasında Türkiye Cumhuriyeti hukuku uygulanır. Taraflar arasında doğabilecek uyuşmazlıklarda, emredici mevzuat hükümleri saklı kalmak kaydıyla, İzmir Mahkemeleri ve İcra Daireleri yetkilidir. Tüketici sıfatını haiz kullanıcılar bakımından, 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un görev ve yetkiye ilişkin emredici hükümleri saklıdır.
+
+MADDE 22 – YÜRÜRLÜK
+
+İşbu Sözleşme, kullanıcının elektronik ortamda onay vermesiyle yürürlüğe girer. Kullanıcı, “Kabul Ediyorum” seçeneğini işaretlemekle Sözleşme’nin tamamını okuduğunu, anladığını ve tüm hükümlerini kabul ettiğini beyan eder.
+
+İZSER TEKNOLOJİ ULAŞIM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ
+
+Doküman Kodu: UKS-001
+
+Sürüm: 1.0
+
+Yürürlük Tarihi: 12/08/2026

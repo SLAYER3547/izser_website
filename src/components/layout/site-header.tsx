@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const navigationItems = [
   {
     label: "Platform",
@@ -17,7 +19,7 @@ const navigationItems = [
   },
   {
     label: "İletişim",
-    href: "/#iletisim",
+    href: "/iletisim",
   },
 ];
 
@@ -25,7 +27,7 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-[#202020] bg-black/80 backdrop-blur-2xl">
       <div className="site-container flex h-[var(--header-height)] items-center justify-between gap-5">
-        <a
+        <Link
           href="/"
           className="group flex items-center gap-3"
           aria-label="İZSER ana sayfa"
@@ -39,21 +41,23 @@ export function SiteHeader() {
               Dijital Servis Platformu
             </span>
           </div>
-        </a>
+        </Link>
 
         <nav
           className="hidden items-center gap-7 lg:flex"
           aria-label="Ana navigasyon"
         >
-          {navigationItems.map((item) => (
-            <a
-              key={item.href}
-              href={item.href}
-              className="text-[12px] font-semibold text-[#a5a8ac] transition-colors duration-200 hover:text-white"
-            >
-              {item.label}
-            </a>
-          ))}
+          {navigationItems.map(
+            (item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="text-[12px] font-semibold text-[#a5a8ac] transition-colors duration-200 hover:text-white"
+              >
+                {item.label}
+              </Link>
+            ),
+          )}
         </nav>
 
         <div className="hidden items-center gap-3 lg:flex">
@@ -64,12 +68,12 @@ export function SiteHeader() {
             info@izser.com
           </a>
 
-          <a
-            href="#mobil-uygulama"
+          <Link
+            href="/#mobil-uygulama"
             className="rounded-xl bg-white px-5 py-2.5 text-[11px] font-black text-black transition-transform duration-200 hover:-translate-y-0.5"
           >
             Mobil Uygulama
-          </a>
+          </Link>
         </div>
 
         <details className="mobile-menu relative lg:hidden">
@@ -88,24 +92,26 @@ export function SiteHeader() {
               className="flex flex-col"
               aria-label="Mobil navigasyon"
             >
-              {navigationItems.map((item) => (
-                <a
-                  key={item.href}
-                  href={item.href}
-                  className="rounded-xl px-4 py-3 text-[13px] font-semibold text-[#c4c6c9] transition-colors hover:bg-[#181818] hover:text-white"
-                >
-                  {item.label}
-                </a>
-              ))}
+              {navigationItems.map(
+                (item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    className="rounded-xl px-4 py-3 text-[13px] font-semibold text-[#c4c6c9] transition-colors hover:bg-[#181818] hover:text-white"
+                  >
+                    {item.label}
+                  </Link>
+                ),
+              )}
 
               <div className="my-2 h-px bg-[#262626]" />
 
-              <a
-                href="#mobil-uygulama"
+              <Link
+                href="/#mobil-uygulama"
                 className="rounded-xl bg-white px-4 py-3 text-center text-[12px] font-black text-black"
               >
                 Mobil Uygulamayı Keşfet
-              </a>
+              </Link>
             </nav>
           </div>
         </details>

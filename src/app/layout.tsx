@@ -72,6 +72,20 @@ export const metadata: Metadata = {
 
     description:
       "Şoförleri, araç sahiplerini ve işverenleri dijital ortamda bir araya getiren servis taşımacılığı teknoloji platformu.",
+
+    images: [
+      {
+        url:
+          "/opengraph-image.png",
+
+        width: 1200,
+
+        height: 630,
+
+        alt:
+          "İZSER - Servis sektörünün dijital çalışma ağı",
+      },
+    ],
   },
 
   twitter: {
@@ -83,6 +97,10 @@ export const metadata: Metadata = {
 
     description:
       "Şoförleri, araç sahiplerini ve işverenleri dijital ortamda bir araya getiren servis taşımacılığı teknoloji platformu.",
+
+    images: [
+      "/twitter-image.png",
+    ],
   },
 
   robots: {
@@ -92,11 +110,31 @@ export const metadata: Metadata = {
     googleBot: {
       index: true,
       follow: true,
+
       "max-image-preview":
         "large",
-      "max-snippet": -1,
-      "max-video-preview": -1,
+
+      "max-snippet":
+        -1,
+
+      "max-video-preview":
+        -1,
     },
+  },
+
+  icons: {
+    icon: [
+      {
+        url: "/icon.png",
+        type: "image/png",
+      },
+    ],
+
+    shortcut:
+      "/favicon.ico",
+
+    apple:
+      "/apple-icon.png",
   },
 };
 
@@ -105,9 +143,11 @@ export const viewport: Viewport = {
 
   initialScale: 1,
 
-  themeColor: "#000000",
+  themeColor:
+    "#000000",
 
-  colorScheme: "dark",
+  colorScheme:
+    "dark",
 };
 
 export default function RootLayout({

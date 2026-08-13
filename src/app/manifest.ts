@@ -33,5 +33,34 @@ export default function manifest(): MetadataRoute.Manifest {
 
     orientation:
       "any",
+
+    icons: [
+      {
+        src:
+          "/brand/izser-site-icon.png",
+
+        sizes:
+          "512x512",
+
+        type:
+          "image/png",
+
+        purpose:
+          "any",
+      },
+      {
+        src:
+          "/brand/izser-site-icon.png",
+
+        sizes:
+          "512x512",
+
+        type:
+          "image/png",
+
+        purpose:
+          "maskable",
+      },
+    ],
   };
 }

@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { BrandLogo } from "@/components/brand/brand-logo";
+
 const navigationItems = [
   {
     label: "Platform",
@@ -29,23 +31,9 @@ const navigationItems = [
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-50 border-b border-[#202020] bg-black/80 backdrop-blur-2xl">
+    <header className="sticky top-0 z-50 border-b border-[#202020] bg-black/85 backdrop-blur-2xl">
       <div className="site-container flex h-[var(--header-height)] items-center justify-between gap-5">
-        <Link
-          href="/"
-          className="group flex items-center gap-3"
-          aria-label="İZSER ana sayfa"
-        >
-          <div className="flex flex-col">
-            <span className="text-[20px] font-black tracking-[-0.055em] text-white">
-              İZSER
-            </span>
-
-            <span className="mt-[-2px] hidden text-[8px] font-bold tracking-[0.17em] text-[#74787d] uppercase sm:block">
-              Dijital Servis Platformu
-            </span>
-          </div>
-        </Link>
+        <BrandLogo />
 
         <nav
           className="hidden items-center gap-6 lg:flex"

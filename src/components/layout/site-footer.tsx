@@ -1,24 +1,17 @@
 import Link from "next/link";
 
+import { BrandLogo } from "@/components/brand/brand-logo";
+
 export function SiteFooter() {
   return (
     <footer className="border-t border-[#202020] bg-[#050505]">
       <div className="site-container py-12">
         <div className="grid gap-10 lg:grid-cols-[1.2fr_0.75fr_0.85fr_0.9fr]">
           <div>
-            <Link
-              href="/"
-              className="inline-flex flex-col"
-              aria-label="İZSER ana sayfa"
-            >
-              <span className="text-[24px] font-black tracking-[-0.055em] text-white">
-                İZSER
-              </span>
-
-              <span className="text-[9px] font-bold tracking-[0.16em] text-[#6f7378] uppercase">
-                Dijital Servis Platformu
-              </span>
-            </Link>
+            <BrandLogo
+              size="footer"
+              showTagline
+            />
 
             <p className="mt-5 max-w-[430px] text-[12px] leading-6 font-medium text-[#888c91]">
               Servis taşımacılığı sektöründeki şoförleri,
@@ -27,7 +20,7 @@ export function SiteFooter() {
               platformu.
             </p>
 
-            <div className="mt-6 rounded-xl border border-[#292929] bg-[#0d0d0d] px-4 py-3">
+            <div className="mt-6 max-w-[440px] rounded-xl border border-[#292929] bg-[#0d0d0d] px-4 py-3">
               <p className="text-[10px] leading-5 font-medium text-[#777b80]">
                 İZSER taşıma hizmeti sağlayıcısı değildir.
                 Platform, sektör paydaşlarının dijital ortamda

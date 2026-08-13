@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const roles = [
   {
     title: "Şoför",
@@ -6,9 +8,9 @@ const roles = [
     description:
       "Servis sektöründeki iş fırsatlarını keşfet, iş arama ilanını oluştur ve başvurularını tek noktadan yönet.",
     items: [
-      "İş ilanlarını keşfet",
+      "İş fırsatlarını keşfet",
       "İş arama ilanı oluştur",
-      "Başvuru ve eşleşmeleri yönet",
+      "Başvurularını yönet",
       "Belgelerini dijital olarak takip et",
     ],
   },
@@ -57,7 +59,7 @@ const features = [
     number: "03",
     title: "Dijital Belge Merkezi",
     description:
-      "Kullanıcı ve araç belgeleri yüklenebilir, durumları takip edilebilir ve gerekli süreçlerde kontrollü şekilde paylaşılabilir.",
+      "Kullanıcı ve araç belgeleri yüklenebilir, durumları takip edilebilir ve gerekli iş akışlarında kontrollü olarak kullanılabilir.",
   },
   {
     number: "04",
@@ -69,32 +71,116 @@ const features = [
     number: "05",
     title: "Platform İçi Mesajlaşma",
     description:
-      "Eşleşen taraflar İzSer üzerinden iletişime geçebilir ve konuşmalarını tek noktadan yönetebilir.",
+      "Eşleşen taraflar İzSer üzerinden iletişime geçebilir ve görüşmelerini tek noktadan yönetebilir.",
   },
   {
     number: "06",
     title: "Anlık Bildirimler",
     description:
-      "Mesaj, başvuru, belge ve hesap süreçlerindeki önemli gelişmeler kullanıcıya bildirilir.",
+      "Mesaj, başvuru, belge, ilan ve hesap süreçlerindeki önemli gelişmeler kullanıcıya bildirilir.",
   },
   {
     number: "07",
     title: "Kurumsal Yönetim",
     description:
-      "Kurumsal hesaplar ekip üyelerini ve yetkilendirilmiş operasyonlarını daha düzenli şekilde yönetebilir.",
+      "Kurumsal hesaplar şirket araçlarını, personellerini ve yetkilendirilmiş operasyonlarını yönetebilir.",
   },
   {
     number: "08",
-    title: "Güvenli Süreç Takibi",
+    title: "Dijital Süreç Takibi",
     description:
-      "İlan, belge, başvuru, mesajlaşma ve eşleşme geçmişleri dijital süreç mantığıyla takip edilir.",
+      "İlan, belge, başvuru, mesajlaşma ve eşleşme süreçleri düzenli bir dijital iş akışı üzerinden takip edilir.",
+  },
+];
+
+const screenshots = [
+  {
+    src: "/app/listings-market.png",
+    eyebrow: "İLAN PAZARI",
+    title: "İlanları keşfet",
+    description:
+      "Araç ve şoför ilanlarını filtrele, sırala ve ihtiyacına göre incele.",
+    color: "#3B82F6",
+  },
+  {
+    src: "/app/listing-detail.png",
+    eyebrow: "İLAN DETAYI",
+    title: "Detaylı bilgiye ulaş",
+    description:
+      "Konum, kapasite, hizmet bilgileri ve ilan detaylarını tek ekranda görüntüle.",
+    color: "#8B5CF6",
+  },
+  {
+    src: "/app/company-vehicles.png",
+    eyebrow: "ARAÇ YÖNETİMİ",
+    title: "Araç havuzunu yönet",
+    description:
+      "Şirket veya kullanıcı araçlarını, durumlarını ve temel özelliklerini yönet.",
+    color: "#14B8A6",
+  },
+  {
+    src: "/app/documents.png",
+    eyebrow: "BELGE MERKEZİ",
+    title: "Belgelerini güvende tut",
+    description:
+      "Kullanıcı ve araç belgelerini ilgili iş akışları üzerinden görüntüle ve yönet.",
+    color: "#FFFFFF",
+  },
+  {
+    src: "/app/messages.png",
+    eyebrow: "MESAJLAŞMA",
+    title: "Eşleşmelerinle iletişim kur",
+    description:
+      "Kabul edilen eşleşmeler sonrasında görüşmelerini İzSer içinden yönet.",
+    color: "#3B82F6",
+  },
+  {
+    src: "/app/profile.png",
+    eyebrow: "HESAP YÖNETİMİ",
+    title: "Her şey tek profilde",
+    description:
+      "Profil, belgeler, araçlar, şirket ve belge talebi süreçlerine tek noktadan ulaş.",
+    color: "#8B5CF6",
+  },
+];
+
+const workingSteps = [
+  {
+    number: "01",
+    title: "Hesabını oluştur",
+    description:
+      "Şoför, araç sahibi veya işveren rolünü seçerek İzSer hesabını oluştur.",
+  },
+  {
+    number: "02",
+    title: "Bilgilerini tamamla",
+    description:
+      "Rolüne göre gerekli profil, belge ve araç bilgilerini sisteme ekle.",
+  },
+  {
+    number: "03",
+    title: "İlan oluştur veya keşfet",
+    description:
+      "İş arama, şoför arama veya araç ihtiyacına uygun ilan süreçlerini kullan.",
+  },
+  {
+    number: "04",
+    title: "Başvuru ve eşleşmeleri yönet",
+    description:
+      "Başvuruları değerlendir, uygun taraflarla eşleş ve sürecini takip et.",
+  },
+  {
+    number: "05",
+    title: "İletişime geç",
+    description:
+      "Kabul edilen eşleşmeler üzerinden platform içi mesajlaşmayı kullan.",
   },
 ];
 
 const platformDoes = [
   "Şoför, araç sahibi ve işverenleri dijital ortamda buluşturur.",
   "İlan, başvuru ve eşleşme süreçleri için teknoloji altyapısı sunar.",
-  "Dijital belge ve araç yönetimi süreçlerini kolaylaştırır.",
+  "Araç ve dijital belge yönetimi süreçlerini kolaylaştırır.",
   "Platform içi iletişim ve bildirim altyapısı sağlar.",
 ];
 
@@ -118,7 +204,7 @@ export default function Home() {
         <div className="hero-glow-purple top-[140px] right-[-180px]" />
         <div className="hero-glow-teal right-[20%] bottom-[-260px]" />
 
-        <div className="site-container relative z-10 grid min-h-[calc(100vh-var(--header-height))] items-center gap-16 py-20 lg:grid-cols-[1.08fr_0.92fr] lg:py-24">
+        <div className="site-container relative z-10 grid min-h-[calc(100vh-var(--header-height))] items-center gap-16 py-20 lg:grid-cols-[1.05fr_0.95fr] lg:py-24">
           <div>
             <div className="inline-flex items-center gap-2 rounded-full border border-[#2b2b2b] bg-[#101010]/85 px-3 py-2">
               <span className="h-1.5 w-1.5 rounded-full bg-[#22c55e] shadow-[0_0_12px_rgba(34,197,94,0.7)]" />
@@ -135,10 +221,9 @@ export default function Home() {
             </h1>
 
             <p className="mt-7 max-w-[660px] text-[15px] leading-7 font-medium text-[#9b9fa4] sm:text-[17px] sm:leading-8">
-              Şoförleri, araç sahiplerini ve işverenleri
-              ilan, başvuru, araç, belge ve iletişim
-              süreçlerinde tek bir dijital platformda bir
-              araya getiriyoruz.
+              Şoförleri, araç sahiplerini ve işverenleri ilan,
+              başvuru, araç, belge ve iletişim süreçlerinde tek
+              bir dijital platformda bir araya getiriyoruz.
             </p>
 
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
@@ -147,7 +232,10 @@ export default function Home() {
                 className="inline-flex min-h-13 items-center justify-center rounded-2xl bg-white px-6 text-[12px] font-black text-black transition-transform duration-200 hover:-translate-y-0.5"
               >
                 Mobil Uygulamayı Keşfet
-                <span className="ml-3 text-[16px]">→</span>
+
+                <span className="ml-3 text-[16px]">
+                  →
+                </span>
               </a>
 
               <a
@@ -180,27 +268,32 @@ export default function Home() {
             id="mobil-uygulama"
             className="relative flex items-center justify-center lg:justify-end"
           >
-            <div className="absolute top-[12%] left-[6%] hidden rounded-2xl border border-[#252525] bg-[#0d0d0d]/90 p-4 shadow-2xl backdrop-blur lg:block">
-              <p className="text-[8px] font-black tracking-[0.1em] text-[#6d7175] uppercase">
-                Dijital Süreç
+            <div className="absolute top-[15%] left-[-2%] z-10 hidden rounded-2xl border border-[#292929] bg-[#0d0d0d]/90 px-4 py-3 shadow-2xl backdrop-blur-xl lg:block"
+            >
+              <p className="text-[8px] font-black tracking-[0.12em] text-[#686c71] uppercase">
+                Gerçek İzSer
               </p>
 
-              <p className="mt-1 text-[11px] font-bold text-white">
-                İlan → Başvuru → Eşleşme
+              <p className="mt-1 text-[11px] font-extrabold text-white">
+                Mobil uygulama deneyimi
               </p>
             </div>
 
-            <div className="absolute right-[-2%] bottom-[18%] z-10 hidden rounded-2xl border border-[#252525] bg-[#0d0d0d]/90 p-4 shadow-2xl backdrop-blur xl:block">
+            <div className="absolute right-[-4%] bottom-[18%] z-20 hidden rounded-2xl border border-[#292929] bg-[#0d0d0d]/95 px-4 py-3 shadow-2xl backdrop-blur-xl xl:block">
               <div className="flex items-center gap-2">
-                <span className="h-2 w-2 rounded-full bg-[#22c55e]" />
+                <span className="h-2 w-2 rounded-full bg-[#14b8a6]" />
 
                 <span className="text-[10px] font-bold text-[#d3d5d7]">
-                  Belgeler takipte
+                  Araç • İlan • Belge
                 </span>
               </div>
             </div>
 
-            <PhonePreview />
+            <RealPhonePreview
+              src="/app/home.png"
+              alt="İzSer mobil uygulama ana sayfası"
+              priority
+            />
           </div>
         </div>
       </section>
@@ -213,7 +306,7 @@ export default function Home() {
           <SectionHeading
             eyebrow="KİMLER İÇİN?"
             title="Her rol için kendi çalışma alanı."
-            description="İzSer, servis taşımacılığı ekosistemindeki farklı kullanıcı tiplerine aynı ekranı dayatmak yerine, rolüne uygun dijital süreçler sunar."
+            description="İzSer, servis taşımacılığı ekosistemindeki farklı kullanıcı tiplerine aynı ekranı dayatmak yerine rolüne uygun dijital süreçler sunar."
           />
 
           <div className="mt-12 grid gap-4 lg:grid-cols-3">
@@ -283,35 +376,198 @@ export default function Home() {
       </section>
 
       <section
+        id="uygulama"
+        className="section-padding relative overflow-hidden border-b border-[#1d1d1d]"
+      >
+        <div className="hero-glow top-[20%] left-[-320px] opacity-40" />
+        <div className="hero-glow-purple right-[-320px] bottom-[10%] opacity-40" />
+
+        <div className="site-container relative z-10">
+          <SectionHeading
+            eyebrow="MOBİL UYGULAMA"
+            title="İzSer'i yalnızca anlatmıyoruz. Gösteriyoruz."
+            description="Gerçek İzSer mobil uygulamasından alınan ekranlarla ilan, araç, belge, mesajlaşma ve hesap yönetimi deneyimini incele."
+          />
+
+          <div className="mt-14 grid items-center gap-14 lg:grid-cols-[0.9fr_1.1fr]">
+            <div className="relative">
+              <div className="absolute top-[10%] left-[0%] hidden h-[380px] w-[380px] rounded-full bg-[#3b82f6]/5 blur-[90px] lg:block" />
+
+              <RealPhonePreview
+                src="/app/listings-market.png"
+                alt="İzSer ilan arama ekranı"
+              />
+            </div>
+
+            <div>
+              <p className="text-[9px] font-black tracking-[0.17em] text-[#3b82f6] uppercase">
+                İLAN VE EŞLEŞME
+              </p>
+
+              <h3 className="mt-4 max-w-[600px] text-[34px] leading-[1.03] font-black tracking-[-0.045em] text-white sm:text-[44px]">
+                Aradığın fırsata
+                <br />
+                daha hızlı ulaş.
+              </h3>
+
+              <p className="mt-6 max-w-[590px] text-[12px] leading-7 font-medium text-[#8e9297]">
+                İlan arama ekranında kullanıcılar kendilerine
+                uygun araç veya şoför fırsatlarını keşfedebilir,
+                ilan türüne göre filtreleme yapabilir ve detaylı
+                ilan bilgilerine ulaşabilir.
+              </p>
+
+              <div className="mt-8 grid gap-3 sm:grid-cols-2">
+                <ProductPoint
+                  title="Filtrele"
+                  text="Konum ve ilan türüne göre sonuçları daralt."
+                />
+
+                <ProductPoint
+                  title="Sırala"
+                  text="İlanları ihtiyacına göre görüntüle."
+                />
+
+                <ProductPoint
+                  title="Araç görselleri"
+                  text="Araçlı ilanlarda gerçek araç fotoğraflarını incele."
+                />
+
+                <ProductPoint
+                  title="Detaylı ilan"
+                  text="Konum, kapasite ve hizmet bilgilerine ulaş."
+                />
+              </div>
+            </div>
+          </div>
+
+          <div className="mt-24 grid items-center gap-14 lg:grid-cols-[1.1fr_0.9fr]">
+            <div className="order-2 lg:order-1">
+              <p className="text-[9px] font-black tracking-[0.17em] text-[#14b8a6] uppercase">
+                ARAÇ YÖNETİMİ
+              </p>
+
+              <h3 className="mt-4 max-w-[620px] text-[34px] leading-[1.03] font-black tracking-[-0.045em] text-white sm:text-[44px]">
+                Araç operasyonunu
+                <br />
+                tek merkezden yönet.
+              </h3>
+
+              <p className="mt-6 max-w-[590px] text-[12px] leading-7 font-medium text-[#8e9297]">
+                Araç sahipleri ve yetkili kurumsal kullanıcılar
+                araç havuzlarını, araç durumlarını, temel
+                özellikleri ve araçla ilişkili belge
+                süreçlerini dijital olarak yönetebilir.
+              </p>
+
+              <div className="mt-8 grid gap-3 sm:grid-cols-2">
+                <ProductPoint
+                  title="Araç havuzu"
+                  text="Tüm kayıtlı araçlarını tek ekranda görüntüle."
+                />
+
+                <ProductPoint
+                  title="Aktif / pasif"
+                  text="Araçların operasyon durumlarını takip et."
+                />
+
+                <ProductPoint
+                  title="Araç bilgileri"
+                  text="Model, yıl, kapasite ve teknik bilgileri yönet."
+                />
+
+                <ProductPoint
+                  title="Araç belgeleri"
+                  text="Ruhsat ve araç belgelerine ilgili araçtan ulaş."
+                />
+              </div>
+            </div>
+
+            <div className="order-1 relative lg:order-2">
+              <RealPhonePreview
+                src="/app/company-vehicles.png"
+                alt="İzSer şirket araç havuzu"
+              />
+            </div>
+          </div>
+
+          <div className="mt-24 grid items-center gap-14 lg:grid-cols-[0.9fr_1.1fr]">
+            <div>
+              <RealPhonePreview
+                src="/app/messages.png"
+                alt="İzSer mesajlar ekranı"
+              />
+            </div>
+
+            <div>
+              <p className="text-[9px] font-black tracking-[0.17em] text-[#8b5cf6] uppercase">
+                MESAJLAŞMA VE İLETİŞİM
+              </p>
+
+              <h3 className="mt-4 max-w-[620px] text-[34px] leading-[1.03] font-black tracking-[-0.045em] text-white sm:text-[44px]">
+                Eşleşmeden sonra
+                <br />
+                iletişim İzSer'de devam eder.
+              </h3>
+
+              <p className="mt-6 max-w-[590px] text-[12px] leading-7 font-medium text-[#8e9297]">
+                Kabul edilen eşleşmeler için konuşma alanı
+                oluşturulur. Taraflar ilan ve eşleşme
+                bağlamını kaybetmeden platform içinde
+                görüşmelerini sürdürebilir.
+              </p>
+
+              <div className="mt-8 grid gap-3 sm:grid-cols-2">
+                <ProductPoint
+                  title="Eşleşme bazlı"
+                  text="Mesajlaşma kabul edilen süreçlerle ilişkilidir."
+                />
+
+                <ProductPoint
+                  title="Anlık bildirim"
+                  text="Yeni mesajlardan uygulama bildirimiyle haberdar ol."
+                />
+
+                <ProductPoint
+                  title="Konuşma geçmişi"
+                  text="Aktif görüşmelerini düzenli şekilde takip et."
+                />
+
+                <ProductPoint
+                  title="Tek platform"
+                  text="İlan ve iletişim süreçlerini aynı uygulamada yönet."
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
         id="ozellikler"
-        className="section-padding border-b border-[#1d1d1d]"
+        className="section-padding border-b border-[#1d1d1d] bg-[#050505]"
       >
         <div className="site-container">
           <div className="grid gap-12 lg:grid-cols-[0.85fr_1.15fr] lg:gap-20">
             <div>
               <div className="lg:sticky lg:top-[120px]">
                 <SectionHeading
-                  eyebrow="İZSER MOBİL"
+                  eyebrow="İZSER ÖZELLİKLERİ"
                   title="Sektörün günlük işlerini tek uygulamada topla."
                   description="İlan oluşturmadan araç ve belge yönetimine, başvurulardan mesajlaşmaya kadar operasyonun temel dijital adımlarını aynı platform üzerinden yönet."
                   align="left"
                 />
 
-                <div className="mt-8 rounded-2xl border border-[#282828] bg-[#0b0b0b] p-5">
-                  <span className="text-[9px] font-black tracking-[0.12em] text-[#74787d] uppercase">
-                    Mobil Uygulama
-                  </span>
-
-                  <p className="mt-2 text-[13px] leading-6 font-bold text-white">
-                    Android ve iOS deneyimi için geliştirilen
-                    rol bazlı İzSer mobil platformu.
-                  </p>
-
-                  <p className="mt-3 text-[10px] leading-5 font-medium text-[#777b80]">
-                    Gerçek uygulama ekranları sonraki
-                    aşamada bu alana telefon mockup&apos;ları
-                    olarak yerleştirilecek.
-                  </p>
+                <div className="mt-8 overflow-hidden rounded-[22px] border border-[#292929] bg-[#0b0b0b]">
+                  <div className="relative aspect-[832/1840] max-h-[530px] w-full">
+                    <Image
+                      src="/app/profile.png"
+                      alt="İzSer profil ekranı"
+                      fill
+                      sizes="(max-width: 1024px) 100vw, 360px"
+                      className="object-cover object-top"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
@@ -340,9 +596,62 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="section-padding border-b border-[#1d1d1d]">
+        <div className="site-container">
+          <SectionHeading
+            eyebrow="ÜRÜN TURU"
+            title="İzSer'in temel ekranlarına yakından bak."
+            description="Uygulamanın gerçek ekranlarından ilan, belge, araç ve profil yönetiminin nasıl göründüğünü keşfet."
+          />
+
+          <div className="mt-12 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+            {screenshots.map((item) => (
+              <AppScreenshotCard
+                key={item.src}
+                {...item}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="nasil-calisir"
+        className="section-padding border-b border-[#1d1d1d] bg-[#050505]"
+      >
+        <div className="site-container">
+          <SectionHeading
+            eyebrow="NASIL ÇALIŞIR?"
+            title="İlk kayıttan eşleşmeye kadar sade bir süreç."
+            description="İzSer, farklı kullanıcı rollerinin servis taşımacılığı süreçlerini anlaşılır ve kontrollü dijital adımlara dönüştürür."
+          />
+
+          <div className="mt-14 grid gap-3 lg:grid-cols-5">
+            {workingSteps.map((step) => (
+              <article
+                key={step.number}
+                className="relative rounded-[22px] border border-[#292929] bg-[#0d0d0d] p-5"
+              >
+                <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
+                  {step.number}
+                </span>
+
+                <h3 className="mt-8 text-[15px] font-black tracking-[-0.025em] text-white">
+                  {step.title}
+                </h3>
+
+                <p className="mt-3 text-[10.5px] leading-5 font-medium text-[#85898e]">
+                  {step.description}
+                </p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section
         id="gelecek"
-        className="section-padding relative overflow-hidden border-b border-[#1d1d1d] bg-[#050505]"
+        className="section-padding relative overflow-hidden border-b border-[#1d1d1d]"
       >
         <div className="hero-glow-purple top-[-220px] right-[-220px] opacity-60" />
         <div className="hero-glow-teal bottom-[-260px] left-[-220px] opacity-70" />
@@ -358,7 +667,7 @@ export default function Home() {
             <article className="future-card rounded-[30px] border border-[#303030] bg-[#0d0d0d] p-7 sm:p-9">
               <div className="flex items-center justify-between gap-4">
                 <span className="rounded-full border border-[#3b82f6]/25 bg-[#3b82f6]/10 px-3 py-1.5 text-[9px] font-black tracking-[0.1em] text-[#60a5fa] uppercase">
-                  Yakında
+                  Gelecek Özellik
                 </span>
 
                 <span className="text-[11px] font-black text-[#474b4f]">
@@ -374,8 +683,8 @@ export default function Home() {
 
               <p className="mt-6 max-w-[570px] text-[12px] leading-6 font-medium text-[#92969b]">
                 Kurumsal kullanıcıların servis ihtiyaçlarını
-                dijital olarak tanımlayabileceği; uygun araç
-                sahiplerinin teklif sunabileceği ve tekliflerin
+                dijital olarak tanımlayabileceği, uygun hizmet
+                sağlayıcıların teklif sunabileceği ve tekliflerin
                 sistem üzerinden karşılaştırılıp
                 değerlendirilebileceği yeni nesil iş akışı.
               </p>
@@ -391,9 +700,9 @@ export default function Home() {
 
               <div className="mt-9 border-t border-[#262626] pt-6">
                 <p className="text-[9px] leading-5 font-semibold text-[#65696e]">
-                  Bu özellik geliştirme yol haritasındadır.
-                  Mevcut mobil uygulamada aktif bir ihale
-                  hizmeti olarak sunulmamaktadır.
+                  Bu özellik İzSer ürün yol haritasındadır.
+                  Mevcut mobil uygulamada aktif bir ihale hizmeti
+                  olarak sunulmamaktadır.
                 </p>
               </div>
             </article>
@@ -401,7 +710,7 @@ export default function Home() {
             <article className="future-card rounded-[30px] border border-[#303030] bg-[#0d0d0d] p-7 sm:p-9">
               <div className="flex items-center justify-between gap-4">
                 <span className="rounded-full border border-[#8b5cf6]/25 bg-[#8b5cf6]/10 px-3 py-1.5 text-[9px] font-black tracking-[0.1em] text-[#a78bfa] uppercase">
-                  Yol Haritası
+                  Gelecek Özellik
                 </span>
 
                 <span className="text-[11px] font-black text-[#474b4f]">
@@ -417,7 +726,7 @@ export default function Home() {
 
               <p className="mt-6 max-w-[570px] text-[12px] leading-6 font-medium text-[#92969b]">
                 Mobil uygulamadaki temel İzSer işlemlerinin
-                gelecekte masaüstü ve mobil tarayıcı
+                ilerleyen aşamalarda masaüstü ve mobil tarayıcı
                 üzerinden de yönetilebilmesi planlanıyor.
               </p>
 
@@ -434,9 +743,9 @@ export default function Home() {
 
               <div className="mt-9 border-t border-[#262626] pt-6">
                 <p className="text-[9px] leading-5 font-semibold text-[#65696e]">
-                  Tanıtım sitesi, ürün geliştirme aşamalarında
-                  İzSer&apos;in web tabanlı kullanıcı
-                  platformuna açılan kapısı olacak.
+                  Mobil uygulamada yapılabilen temel işlemlerin
+                  önemli bir bölümünün gelecekte İzSer Web
+                  üzerinden de kullanılabilmesi hedeflenmektedir.
                 </p>
               </div>
             </article>
@@ -444,7 +753,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section-padding border-b border-[#1d1d1d]">
+      <section className="section-padding border-b border-[#1d1d1d] bg-[#050505]">
         <div className="site-container">
           <SectionHeading
             eyebrow="PLATFORMUN ROLÜ"
@@ -501,10 +810,10 @@ export default function Home() {
           <div className="mt-5 rounded-2xl border border-[#292929] bg-[#0b0b0b] px-5 py-4">
             <p className="text-[10px] leading-5 font-medium text-[#74787d]">
               Hizmetin kapsamı, bedeli, kalitesi, zamanı ve
-              taraflar arasındaki hukuki ilişki; ilgili
-              hizmet alan ile hizmet sağlayıcı arasındadır.
-              Ayrıntılı hükümler İzSer Kullanım Koşulları ve
-              Üyelik Sözleşmesi&apos;nde yer alır.
+              taraflar arasındaki hukuki ilişki ilgili hizmet
+              alan ile hizmet sağlayıcı arasındadır. Ayrıntılı
+              hükümler İzSer Kullanım Koşulları ve Üyelik
+              Sözleşmesi&apos;nde yer alır.
             </p>
           </div>
         </div>
@@ -512,7 +821,7 @@ export default function Home() {
 
       <section
         id="iletisim"
-        className="section-padding bg-[#050505]"
+        className="section-padding"
       >
         <div className="site-container">
           <div className="relative overflow-hidden rounded-[34px] border border-[#303030] bg-[#0d0d0d] px-6 py-10 sm:px-10 sm:py-12 lg:px-14">
@@ -531,9 +840,8 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-5 max-w-[570px] text-[12px] leading-6 font-medium text-[#8b8f94]">
-                  Platform, iş birlikleri ve ürün hakkında
-                  bilgi almak için doğrudan bize
-                  ulaşabilirsin.
+                  Platform, iş birlikleri ve ürün hakkında bilgi
+                  almak için doğrudan bize ulaşabilirsin.
                 </p>
               </div>
 
@@ -585,181 +893,103 @@ export default function Home() {
   );
 }
 
-function PhonePreview() {
+function RealPhonePreview({
+  src,
+  alt,
+  priority = false,
+}: {
+  src: string;
+  alt: string;
+  priority?: boolean;
+}) {
   return (
-    <div className="phone-frame">
-      <div className="phone-screen">
-        <div className="phone-island" />
+    <div className="relative mx-auto w-full max-w-[330px]">
+      <div className="absolute inset-x-[8%] bottom-[-20px] h-[80px] rounded-full bg-white/10 blur-[45px]" />
 
-        <div className="px-5 pt-14">
-          <div className="flex items-center justify-between">
-            <div>
-              <p className="text-[8px] font-black tracking-[0.12em] text-[#63676b] uppercase">
-                İZSER
-              </p>
-
-              <p className="mt-1 text-[20px] font-black tracking-[-0.035em] text-white">
-                Ana Sayfa
-              </p>
-            </div>
-
-            <div className="flex h-9 w-9 items-center justify-center rounded-full border border-[#303030] bg-[#121212]">
-              <span className="h-2 w-2 rounded-full bg-white" />
-            </div>
-          </div>
-
-          <div className="mt-6 rounded-[21px] border border-[#2b2b2b] bg-[#111111] p-4">
-            <div className="flex items-center gap-3">
-              <div className="flex h-11 w-11 items-center justify-center rounded-[13px] bg-[#3b82f6]/10 text-[12px] font-black text-[#60a5fa]">
-                Ş
-              </div>
-
-              <div>
-                <p className="text-[9px] font-bold text-[#71757a]">
-                  Şoför hesabı
-                </p>
-
-                <p className="mt-1 text-[11px] font-black text-white">
-                  İş fırsatlarını keşfet
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="mt-4 grid grid-cols-3 gap-2">
-            <PhoneStat
-              value="4"
-              label="İlan"
-            />
-
-            <PhoneStat
-              value="2"
-              label="Başvuru"
-            />
-
-            <PhoneStat
-              value="1"
-              label="Mesaj"
-            />
-          </div>
-
-          <p className="mt-6 text-[10px] font-black text-white">
-            Hızlı İşlemler
-          </p>
-
-          <div className="mt-3 grid grid-cols-2 gap-2">
-            <PhoneAction
-              title="İlan Ara"
-              color="#3B82F6"
-            />
-
-            <PhoneAction
-              title="İlan Ver"
-              color="#FFFFFF"
-            />
-
-            <PhoneAction
-              title="Belgelerim"
-              color="#14B8A6"
-            />
-
-            <PhoneAction
-              title="Mesajlar"
-              color="#8B5CF6"
-            />
-          </div>
-
-          <div className="mt-5 rounded-[18px] border border-[#292929] bg-[#101010] p-4">
-            <div className="flex items-center justify-between">
-              <p className="text-[10px] font-black text-white">
-                Son Gelişmeler
-              </p>
-
-              <span className="text-[8px] font-bold text-[#65696d]">
-                Şimdi
-              </span>
-            </div>
-
-            <div className="mt-4 flex items-center gap-3">
-              <span className="h-2 w-2 shrink-0 rounded-full bg-[#22c55e]" />
-
-              <p className="text-[9px] leading-4 font-semibold text-[#aeb1b4]">
-                İlan ve başvuru süreçlerin tek
-                ekranda.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="absolute right-4 bottom-4 left-4">
-          <div className="grid grid-cols-5 rounded-[18px] border border-[#292929] bg-[#0c0c0c] px-2 py-3">
-            {[
-              "Ana",
-              "İlanlar",
-              "+",
-              "Mesaj",
-              "Profil",
-            ].map((item) => (
-              <div
-                key={item}
-                className="flex items-center justify-center"
-              >
-                <span
-                  className={
-                    item === "+"
-                      ? "flex h-8 w-8 items-center justify-center rounded-full bg-white text-[15px] font-black text-black"
-                      : "text-[7px] font-bold text-[#767a7e]"
-                  }
-                >
-                  {item}
-                </span>
-              </div>
-            ))}
-          </div>
+      <div className="relative rounded-[50px] border border-[#3a3a3a] bg-[linear-gradient(145deg,#363636,#070707_15%,#000_70%,#333)] p-[9px] shadow-[0_45px_100px_rgba(0,0,0,0.7),0_0_0_1px_rgba(255,255,255,0.05)]">
+        <div className="relative aspect-[832/1840] overflow-hidden rounded-[41px] border border-[#252525] bg-black">
+          <Image
+            src={src}
+            alt={alt}
+            fill
+            priority={priority}
+            sizes="(max-width: 768px) 88vw, 330px"
+            className="object-cover"
+          />
         </div>
       </div>
     </div>
   );
 }
 
-function PhoneStat({
-  value,
-  label,
-}: {
-  value: string;
-  label: string;
-}) {
-  return (
-    <div className="rounded-[14px] border border-[#292929] bg-[#0e0e0e] px-2 py-3 text-center">
-      <p className="text-[15px] font-black text-white">
-        {value}
-      </p>
-
-      <p className="mt-1 text-[7px] font-bold text-[#64686c]">
-        {label}
-      </p>
-    </div>
-  );
-}
-
-function PhoneAction({
+function AppScreenshotCard({
+  src,
+  eyebrow,
   title,
+  description,
   color,
 }: {
+  src: string;
+  eyebrow: string;
   title: string;
+  description: string;
   color: string;
 }) {
   return (
-    <div className="rounded-[15px] border border-[#292929] bg-[#0e0e0e] p-3">
-      <span
-        className="block h-2 w-2 rounded-full"
-        style={{
-          backgroundColor: color,
-        }}
-      />
+    <article className="group overflow-hidden rounded-[26px] border border-[#292929] bg-[#0d0d0d] transition duration-300 hover:-translate-y-1 hover:border-[#404040]">
+      <div className="relative h-[440px] overflow-hidden border-b border-[#292929] bg-[#080808]">
+        <Image
+          src={src}
+          alt={title}
+          fill
+          sizes="(max-width: 768px) 100vw, 33vw"
+          className="object-cover object-top transition-transform duration-500 group-hover:scale-[1.025]"
+        />
 
-      <p className="mt-4 text-[9px] font-extrabold text-[#d4d6d8]">
-        {title}
+        <div className="absolute inset-x-0 bottom-0 h-[110px] bg-gradient-to-t from-[#0d0d0d] to-transparent" />
+      </div>
+
+      <div className="p-6">
+        <p
+          className="text-[8.5px] font-black tracking-[0.14em] uppercase"
+          style={{
+            color,
+          }}
+        >
+          {eyebrow}
+        </p>
+
+        <h3 className="mt-3 text-[17px] font-black tracking-[-0.025em] text-white">
+          {title}
+        </h3>
+
+        <p className="mt-3 text-[10.5px] leading-5 font-medium text-[#84888d]">
+          {description}
+        </p>
+      </div>
+    </article>
+  );
+}
+
+function ProductPoint({
+  title,
+  text,
+}: {
+  title: string;
+  text: string;
+}) {
+  return (
+    <div className="rounded-[16px] border border-[#282828] bg-[#0d0d0d] p-4">
+      <div className="flex items-center gap-2">
+        <span className="h-1.5 w-1.5 rounded-full bg-white" />
+
+        <p className="text-[11px] font-black text-white">
+          {title}
+        </p>
+      </div>
+
+      <p className="mt-2 text-[9.5px] leading-5 font-medium text-[#777b80]">
+        {text}
       </p>
     </div>
   );
@@ -800,7 +1030,8 @@ function SectionHeading({
   description: string;
   align?: "left" | "center";
 }) {
-  const centered = align === "center";
+  const centered =
+    align === "center";
 
   return (
     <div

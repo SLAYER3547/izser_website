@@ -65,6 +65,7 @@ export default function AboutPage() {
         <div className="hero-grid" />
 
         <div className="hero-glow top-[-260px] left-[-240px] opacity-55" />
+
         <div className="hero-glow-purple right-[-260px] bottom-[-280px] opacity-45" />
 
         <div className="site-container relative z-10 py-20 sm:py-28 lg:py-32">
@@ -172,19 +173,27 @@ export default function AboutPage() {
             {principles.map(
               (principle) => (
                 <article
-                  key={principle.number}
+                  key={
+                    principle.number
+                  }
                   className="rounded-[24px] border border-[#292929] bg-[#0d0d0d] p-6"
                 >
                   <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
-                    {principle.number}
+                    {
+                      principle.number
+                    }
                   </span>
 
                   <h3 className="mt-7 text-[18px] font-black tracking-[-0.025em] text-white">
-                    {principle.title}
+                    {
+                      principle.title
+                    }
                   </h3>
 
                   <p className="mt-4 text-[11px] leading-6 font-medium text-[#898d92]">
-                    {principle.description}
+                    {
+                      principle.description
+                    }
                   </p>
                 </article>
               ),
@@ -209,7 +218,9 @@ export default function AboutPage() {
             {audiences.map(
               (audience) => (
                 <article
-                  key={audience.title}
+                  key={
+                    audience.title
+                  }
                   className="relative overflow-hidden rounded-[25px] border border-[#292929] bg-[#0d0d0d] p-6"
                 >
                   <div
@@ -222,17 +233,24 @@ export default function AboutPage() {
                   <span
                     className="block h-2 w-2 rounded-full"
                     style={{
-                      backgroundColor: audience.color,
-                      boxShadow: `0 0 15px ${audience.color}70`,
+                      backgroundColor:
+                        audience.color,
+
+                      boxShadow:
+                        `0 0 15px ${audience.color}70`,
                     }}
                   />
 
                   <h3 className="mt-7 text-[21px] font-black tracking-[-0.03em] text-white">
-                    {audience.title}
+                    {
+                      audience.title
+                    }
                   </h3>
 
                   <p className="mt-4 text-[11px] leading-6 font-medium text-[#8c9095]">
-                    {audience.text}
+                    {
+                      audience.text
+                    }
                   </p>
                 </article>
               ),
@@ -253,7 +271,7 @@ export default function AboutPage() {
                 </p>
 
                 <h2 className="mt-5 max-w-[700px] text-[34px] leading-[1.03] font-black tracking-[-0.045em] text-white sm:text-[46px]">
-                  İzSer'in sonraki adımlarını keşfet.
+                  İzSer&apos;in sonraki adımlarını keşfet.
                 </h2>
 
                 <p className="mt-5 max-w-[650px] text-[12px] leading-6 font-medium text-[#8d9196]">

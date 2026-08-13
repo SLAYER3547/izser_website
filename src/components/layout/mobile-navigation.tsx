@@ -32,22 +32,18 @@ export function MobileNavigation() {
     );
 
   useEffect(() => {
-    setOpen(false);
-  }, [pathname]);
-
-  useEffect(() => {
     const mediaQuery =
       window.matchMedia(
         "(min-width: 1280px)",
       );
 
     const handleChange = () => {
-      if (mediaQuery.matches) {
+      if (
+        mediaQuery.matches
+      ) {
         setOpen(false);
       }
     };
-
-    handleChange();
 
     mediaQuery.addEventListener(
       "change",
@@ -155,7 +151,8 @@ export function MobileNavigation() {
 
       const lastElement =
         focusableElements[
-          focusableElements.length - 1
+          focusableElements.length -
+            1
         ];
 
       const activeElement =
@@ -196,8 +193,6 @@ export function MobileNavigation() {
       );
     };
   }, [open]);
-
-  void pathname;
 
   const closeMenu = () => {
     setOpen(false);

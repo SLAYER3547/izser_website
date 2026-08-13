@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 export default function GlobalError({
   reset,
 }: {
@@ -46,10 +48,8 @@ export default function GlobalError({
                 alignItems: "center",
                 justifyContent: "center",
                 borderRadius: "22px",
-                border:
-                  "1px solid #303030",
-                background:
-                  "#101010",
+                border: "1px solid #303030",
+                background: "#101010",
                 fontSize: "26px",
                 fontWeight: 900,
               }}
@@ -63,8 +63,7 @@ export default function GlobalError({
                 marginBottom: 0,
                 fontSize: "10px",
                 fontWeight: 900,
-                letterSpacing:
-                  "0.15em",
+                letterSpacing: "0.15em",
                 color: "#74787d",
               }}
             >
@@ -75,12 +74,10 @@ export default function GlobalError({
               style={{
                 marginTop: "16px",
                 marginBottom: 0,
-                fontSize:
-                  "clamp(34px, 6vw, 52px)",
+                fontSize: "clamp(34px, 6vw, 52px)",
                 lineHeight: 1.05,
                 fontWeight: 900,
-                letterSpacing:
-                  "-0.045em",
+                letterSpacing: "-0.045em",
               }}
             >
               Bir şeyler
@@ -91,15 +88,13 @@ export default function GlobalError({
             <p
               style={{
                 maxWidth: "500px",
-                margin:
-                  "22px auto 0",
+                margin: "22px auto 0",
                 color: "#969a9f",
                 fontSize: "13px",
                 lineHeight: 1.7,
               }}
             >
-              Sayfayı tekrar yükleyebilir
-              veya İzSer ana sayfasına
+              Sayfayı tekrar yükleyebilir veya İzSer ana sayfasına
               dönebilirsin.
             </p>
 
@@ -109,8 +104,7 @@ export default function GlobalError({
                 display: "flex",
                 gap: "12px",
                 flexWrap: "wrap",
-                justifyContent:
-                  "center",
+                justifyContent: "center",
               }}
             >
               <button
@@ -118,55 +112,38 @@ export default function GlobalError({
                 onClick={reset}
                 style={{
                   minHeight: "50px",
-                  padding:
-                    "0 24px",
-                  borderRadius:
-                    "15px",
-                  border:
-                    "1px solid #ffffff",
-                  background:
-                    "#ffffff",
-                  color:
-                    "#000000",
-                  fontSize:
-                    "12px",
+                  padding: "0 24px",
+                  borderRadius: "15px",
+                  border: "1px solid #ffffff",
+                  background: "#ffffff",
+                  color: "#000000",
+                  fontSize: "12px",
                   fontWeight: 900,
-                  cursor:
-                    "pointer",
+                  cursor: "pointer",
                 }}
               >
                 Tekrar Dene
               </button>
 
-              <a
+              <Link
                 href="/"
                 style={{
                   minHeight: "50px",
-                  padding:
-                    "0 24px",
-                  display:
-                    "inline-flex",
-                  alignItems:
-                    "center",
-                  justifyContent:
-                    "center",
-                  borderRadius:
-                    "15px",
-                  border:
-                    "1px solid #343434",
-                  background:
-                    "#101010",
-                  color:
-                    "#ffffff",
-                  textDecoration:
-                    "none",
-                  fontSize:
-                    "12px",
+                  padding: "0 24px",
+                  display: "inline-flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  borderRadius: "15px",
+                  border: "1px solid #343434",
+                  background: "#101010",
+                  color: "#ffffff",
+                  textDecoration: "none",
+                  fontSize: "12px",
                   fontWeight: 900,
                 }}
               >
                 Ana Sayfa
-              </a>
+              </Link>
             </div>
           </div>
         </main>

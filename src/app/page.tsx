@@ -201,7 +201,9 @@ export default function Home() {
         <div className="hero-grid" />
 
         <div className="hero-glow top-[-180px] left-[-180px]" />
+
         <div className="hero-glow-purple top-[140px] right-[-180px]" />
+
         <div className="hero-glow-teal right-[20%] bottom-[-260px]" />
 
         <div className="site-container relative z-10 grid min-h-[calc(100vh-var(--header-height))] items-center gap-16 py-20 lg:grid-cols-[1.05fr_0.95fr] lg:py-24">
@@ -270,8 +272,7 @@ export default function Home() {
             id="mobil-uygulama"
             className="relative flex items-center justify-center lg:justify-end"
           >
-            <div className="absolute top-[15%] left-[-2%] z-10 hidden rounded-2xl border border-[#292929] bg-[#0d0d0d]/90 px-4 py-3 shadow-2xl backdrop-blur-xl lg:block"
-            >
+            <div className="absolute top-[15%] left-[-2%] z-10 hidden rounded-2xl border border-[#292929] bg-[#0d0d0d]/90 px-4 py-3 shadow-2xl backdrop-blur-xl lg:block">
               <p className="text-[8px] font-black tracking-[0.12em] text-[#686c71] uppercase">
                 Gerçek İzSer
               </p>
@@ -320,25 +321,34 @@ export default function Home() {
                 <div
                   className="absolute top-0 left-0 h-[2px] w-full opacity-90"
                   style={{
-                    background: `linear-gradient(90deg, ${role.color}, transparent 70%)`,
+                    background:
+                      `linear-gradient(90deg, ${role.color}, transparent 70%)`,
                   }}
                 />
 
                 <div
                   className="flex h-11 w-11 items-center justify-center rounded-[14px] text-[13px] font-black"
                   style={{
-                    color: role.color,
-                    backgroundColor: `${role.color}17`,
-                    border: `1px solid ${role.color}28`,
+                    color:
+                      role.color,
+
+                    backgroundColor:
+                      `${role.color}17`,
+
+                    border:
+                      `1px solid ${role.color}28`,
                   }}
                 >
-                  {role.title.charAt(0)}
+                  {role.title.charAt(
+                    0,
+                  )}
                 </div>
 
                 <p
                   className="mt-6 text-[9px] font-black tracking-[0.14em] uppercase"
                   style={{
-                    color: role.color,
+                    color:
+                      role.color,
                   }}
                 >
                   {role.eyebrow}
@@ -353,23 +363,28 @@ export default function Home() {
                 </p>
 
                 <div className="mt-6 space-y-3 border-t border-[#222222] pt-5">
-                  {role.items.map((item) => (
-                    <div
-                      key={item}
-                      className="flex items-center gap-3"
-                    >
-                      <span
-                        className="h-1.5 w-1.5 shrink-0 rounded-full"
-                        style={{
-                          backgroundColor: role.color,
-                        }}
-                      />
+                  {role.items.map(
+                    (item) => (
+                      <div
+                        key={
+                          item
+                        }
+                        className="flex items-center gap-3"
+                      >
+                        <span
+                          className="h-1.5 w-1.5 shrink-0 rounded-full"
+                          style={{
+                            backgroundColor:
+                              role.color,
+                          }}
+                        />
 
-                      <span className="text-[11px] font-semibold text-[#b5b8bb]">
-                        {item}
-                      </span>
-                    </div>
-                  ))}
+                        <span className="text-[11px] font-semibold text-[#b5b8bb]">
+                          {item}
+                        </span>
+                      </div>
+                    ),
+                  )}
                 </div>
               </article>
             ))}
@@ -382,6 +397,7 @@ export default function Home() {
         className="section-padding relative overflow-hidden border-b border-[#1d1d1d]"
       >
         <div className="hero-glow top-[20%] left-[-320px] opacity-40" />
+
         <div className="hero-glow-purple right-[-320px] bottom-[10%] opacity-40" />
 
         <div className="site-container relative z-10">
@@ -509,7 +525,7 @@ export default function Home() {
               <h3 className="mt-4 max-w-[620px] text-[34px] leading-[1.03] font-black tracking-[-0.045em] text-white sm:text-[44px]">
                 Eşleşmeden sonra
                 <br />
-                iletişim İzSer'de devam eder.
+                iletişim İzSer&apos;de devam eder.
               </h3>
 
               <p className="mt-6 max-w-[590px] text-[12px] leading-7 font-medium text-[#8e9297]">
@@ -575,24 +591,34 @@ export default function Home() {
             </div>
 
             <div className="grid gap-3 sm:grid-cols-2">
-              {features.map((feature) => (
-                <article
-                  key={feature.number}
-                  className="feature-card rounded-[22px] border border-[#292929] bg-[#0c0c0c] p-6"
-                >
-                  <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
-                    {feature.number}
-                  </span>
+              {features.map(
+                (feature) => (
+                  <article
+                    key={
+                      feature.number
+                    }
+                    className="feature-card rounded-[22px] border border-[#292929] bg-[#0c0c0c] p-6"
+                  >
+                    <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
+                      {
+                        feature.number
+                      }
+                    </span>
 
-                  <h3 className="mt-7 text-[16px] font-black tracking-[-0.02em] text-white">
-                    {feature.title}
-                  </h3>
+                    <h3 className="mt-7 text-[16px] font-black tracking-[-0.02em] text-white">
+                      {
+                        feature.title
+                      }
+                    </h3>
 
-                  <p className="mt-3 text-[11px] leading-6 font-medium text-[#85898e]">
-                    {feature.description}
-                  </p>
-                </article>
-              ))}
+                    <p className="mt-3 text-[11px] leading-6 font-medium text-[#85898e]">
+                      {
+                        feature.description
+                      }
+                    </p>
+                  </article>
+                ),
+              )}
             </div>
           </div>
         </div>
@@ -607,12 +633,16 @@ export default function Home() {
           />
 
           <div className="mt-12 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-            {screenshots.map((item) => (
-              <AppScreenshotCard
-                key={item.src}
-                {...item}
-              />
-            ))}
+            {screenshots.map(
+              (item) => (
+                <AppScreenshotCard
+                  key={
+                    item.src
+                  }
+                  {...item}
+                />
+              ),
+            )}
           </div>
         </div>
       </section>
@@ -629,24 +659,34 @@ export default function Home() {
           />
 
           <div className="mt-14 grid gap-3 lg:grid-cols-5">
-            {workingSteps.map((step) => (
-              <article
-                key={step.number}
-                className="relative rounded-[22px] border border-[#292929] bg-[#0d0d0d] p-5"
-              >
-                <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
-                  {step.number}
-                </span>
+            {workingSteps.map(
+              (step) => (
+                <article
+                  key={
+                    step.number
+                  }
+                  className="relative rounded-[22px] border border-[#292929] bg-[#0d0d0d] p-5"
+                >
+                  <span className="text-[10px] font-black tracking-[0.12em] text-[#55595d]">
+                    {
+                      step.number
+                    }
+                  </span>
 
-                <h3 className="mt-8 text-[15px] font-black tracking-[-0.025em] text-white">
-                  {step.title}
-                </h3>
+                  <h3 className="mt-8 text-[15px] font-black tracking-[-0.025em] text-white">
+                    {
+                      step.title
+                    }
+                  </h3>
 
-                <p className="mt-3 text-[10.5px] leading-5 font-medium text-[#85898e]">
-                  {step.description}
-                </p>
-              </article>
-            ))}
+                  <p className="mt-3 text-[10.5px] leading-5 font-medium text-[#85898e]">
+                    {
+                      step.description
+                    }
+                  </p>
+                </article>
+              ),
+            )}
           </div>
         </div>
       </section>
@@ -656,6 +696,7 @@ export default function Home() {
         className="section-padding relative overflow-hidden border-b border-[#1d1d1d]"
       >
         <div className="hero-glow-purple top-[-220px] right-[-220px] opacity-60" />
+
         <div className="hero-glow-teal bottom-[-260px] left-[-220px] opacity-70" />
 
         <div className="site-container relative z-10">
@@ -776,13 +817,19 @@ export default function Home() {
               </div>
 
               <div className="mt-7 space-y-4">
-                {platformDoes.map((item) => (
-                  <PlatformItem
-                    key={item}
-                    text={item}
-                    positive
-                  />
-                ))}
+                {platformDoes.map(
+                  (item) => (
+                    <PlatformItem
+                      key={
+                        item
+                      }
+                      text={
+                        item
+                      }
+                      positive
+                    />
+                  ),
+                )}
               </div>
             </div>
 
@@ -798,13 +845,21 @@ export default function Home() {
               </div>
 
               <div className="mt-7 space-y-4">
-                {platformDoesNot.map((item) => (
-                  <PlatformItem
-                    key={item}
-                    text={item}
-                    positive={false}
-                  />
-                ))}
+                {platformDoesNot.map(
+                  (item) => (
+                    <PlatformItem
+                      key={
+                        item
+                      }
+                      text={
+                        item
+                      }
+                      positive={
+                        false
+                      }
+                    />
+                  ),
+                )}
               </div>
             </div>
           </div>
@@ -1009,8 +1064,11 @@ function RoleMiniLabel({
       <span
         className="h-2 w-2 rounded-full"
         style={{
-          backgroundColor: color,
-          boxShadow: `0 0 14px ${color}70`,
+          backgroundColor:
+            color,
+
+          boxShadow:
+            `0 0 14px ${color}70`,
         }}
       />
 

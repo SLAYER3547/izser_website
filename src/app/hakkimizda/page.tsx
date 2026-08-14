@@ -90,14 +90,14 @@ export default function AboutPage() {
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/#mobil-uygulama"
+              href="/#mobil-uygulama/"
               className="button-primary"
             >
               Mobil Uygulamayı İncele
             </Link>
 
             <Link
-              href="/gelecek"
+              href="/gelecek/"
               className="button-secondary"
             >
               Gelecek Vizyonu
@@ -282,7 +282,7 @@ export default function AboutPage() {
               </div>
 
               <Link
-                href="/gelecek"
+                href="/gelecek/"
                 className="button-primary"
               >
                 Gelecek Özellikleri Gör

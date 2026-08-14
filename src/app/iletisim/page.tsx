@@ -112,7 +112,7 @@ export default function ContactPage() {
                 </p>
 
                 <a
-                  href="/kullanim-kosullari"
+                  href="/kullanim-kosullari/"
                   className="mt-5 inline-flex items-center gap-2 text-[10px] font-black text-white"
                 >
                   Kullanım Koşullarını İncele

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: document.description,
   alternates: {
     canonical:
-      "/kullanim-kosullari",
+      "/kullanim-kosullari/",
   },
 };
 

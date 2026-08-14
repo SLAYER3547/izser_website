@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: document.description,
   alternates: {
     canonical:
-      "/cerez-politikasi",
+      "/cerez-politikasi/",
   },
 };
 

@@ -15,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
       url:
-        baseUrl,
+        `${baseUrl}/`,
 
       lastModified:
         buildDate,
@@ -28,7 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/hakkimizda`,
+        `${baseUrl}/hakkimizda/`,
 
       lastModified:
         buildDate,
@@ -41,7 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/gelecek`,
+        `${baseUrl}/gelecek/`,
 
       lastModified:
         buildDate,
@@ -54,7 +54,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/iletisim`,
+        `${baseUrl}/iletisim/`,
 
       lastModified:
         buildDate,
@@ -67,7 +67,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/kullanim-kosullari`,
+        `${baseUrl}/kullanim-kosullari/`,
 
       lastModified:
         buildDate,
@@ -80,7 +80,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/kvkk`,
+        `${baseUrl}/kvkk/`,
 
       lastModified:
         buildDate,
@@ -93,7 +93,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/gizlilik`,
+        `${baseUrl}/gizlilik/`,
 
       lastModified:
         buildDate,
@@ -106,7 +106,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/cerez-politikasi`,
+        `${baseUrl}/cerez-politikasi/`,
 
       lastModified:
         buildDate,
@@ -119,7 +119,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url:
-        `${baseUrl}/acik-riza`,
+        `${baseUrl}/acik-riza/`,
 
       lastModified:
         buildDate,

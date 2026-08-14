@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: document.shortTitle,
   description: document.description,
   alternates: {
-    canonical: "/gizlilik",
+    canonical: "/gizlilik/",
   },
 };
 

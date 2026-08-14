@@ -68,14 +68,14 @@ export default function FuturePage() {
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/#mobil-uygulama"
+              href="/#mobil-uygulama/"
               className="button-primary"
             >
               Mevcut Mobil Uygulama
             </Link>
 
             <Link
-              href="/iletisim"
+              href="/iletisim/"
               className="button-secondary"
             >
               Bizimle İletişime Geç
@@ -244,7 +244,7 @@ export default function FuturePage() {
               </div>
 
               <Link
-                href="/iletisim"
+                href="/iletisim/"
                 className="button-primary"
               >
                 İletişime Geç

@@ -1,4 +1,9 @@
 import Image from "next/image";
+import {
+  FacebookIcon,
+  InstagramIcon,
+} from "@/components/icons/social-icons";
+import { siteContact } from "@/lib/site-contact";
 
 const roles = [
   {
@@ -898,47 +903,57 @@ export default function Home() {
 
                 <p className="mt-5 max-w-[570px] text-[12px] leading-6 font-medium text-[#8b8f94]">
                   Platform, iş birlikleri ve ürün hakkında bilgi
-                  almak için doğrudan bize ulaşabilirsin.
+                  almak için doğrudan bize ulaşabilir veya sosyal
+                  medya hesaplarımızı takip edebilirsin.
                 </p>
+
+                <div className="mt-7 flex items-center gap-3">
+                  <a
+                    href={siteContact.social.instagram.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="İZSER Instagram hesabı"
+                    className="flex h-11 w-11 items-center justify-center rounded-[14px] border border-[#303030] bg-[#101010] text-[#babdc1] transition-all hover:-translate-y-1 hover:border-[#505050] hover:bg-[#171717] hover:text-white"
+                  >
+                    <InstagramIcon className="h-5 w-5" />
+                  </a>
+
+                  <a
+                    href={siteContact.social.facebook.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="İZSER Facebook hesabı"
+                    className="flex h-11 w-11 items-center justify-center rounded-[14px] border border-[#303030] bg-[#101010] text-[#babdc1] transition-all hover:-translate-y-1 hover:border-[#505050] hover:bg-[#171717] hover:text-white"
+                  >
+                    <FacebookIcon className="h-5 w-5" />
+                  </a>
+                </div>
               </div>
 
-              <div className="grid w-full gap-3 sm:grid-cols-3 lg:w-auto lg:grid-cols-1">
+              <div className="grid w-full gap-3 sm:grid-cols-2 lg:w-auto lg:grid-cols-1">
                 <a
-                  href="tel:+905331341435"
-                  className="contact-link min-w-[210px] rounded-2xl border border-[#2c2c2c] bg-[#101010] px-5 py-4"
+                  href={siteContact.phone.href}
+                  className="contact-link min-w-[230px] rounded-2xl border border-[#2c2c2c] bg-[#101010] px-5 py-4"
                 >
                   <p className="text-[8px] font-black tracking-[0.12em] text-[#61656a] uppercase">
                     Telefon
                   </p>
 
                   <p className="mt-1 text-[12px] font-extrabold text-white">
-                    0533 134 14 35
+                    {siteContact.phone.display}
                   </p>
                 </a>
 
                 <a
-                  href="tel:+905332501435"
-                  className="contact-link min-w-[210px] rounded-2xl border border-[#2c2c2c] bg-[#101010] px-5 py-4"
-                >
-                  <p className="text-[8px] font-black tracking-[0.12em] text-[#61656a] uppercase">
-                    Telefon
-                  </p>
-
-                  <p className="mt-1 text-[12px] font-extrabold text-white">
-                    0533 250 14 35
-                  </p>
-                </a>
-
-                <a
-                  href="mailto:info@izser.com"
-                  className="contact-link min-w-[210px] rounded-2xl border border-[#2c2c2c] bg-[#101010] px-5 py-4"
+                  href={siteContact.email.href}
+                  className="contact-link min-w-[230px] rounded-2xl border border-[#2c2c2c] bg-[#101010] px-5 py-4"
                 >
                   <p className="text-[8px] font-black tracking-[0.12em] text-[#61656a] uppercase">
                     E-posta
                   </p>
 
                   <p className="mt-1 text-[12px] font-extrabold text-white">
-                    info@izser.com
+                    {siteContact.email.display}
                   </p>
                 </a>
               </div>

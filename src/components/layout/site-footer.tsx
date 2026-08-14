@@ -1,12 +1,17 @@
 import Link from "next/link";
 
 import { BrandLogo } from "@/components/brand/brand-logo";
+import {
+  FacebookIcon,
+  InstagramIcon,
+} from "@/components/icons/social-icons";
+import { siteContact } from "@/lib/site-contact";
 
 export function SiteFooter() {
   return (
     <footer className="border-t border-[#202020] bg-[#050505]">
       <div className="site-container py-12">
-        <div className="grid gap-10 lg:grid-cols-[1.2fr_0.75fr_0.85fr_0.9fr]">
+        <div className="grid gap-10 lg:grid-cols-[1.2fr_0.75fr_0.9fr_0.9fr]">
           <div>
             <BrandLogo
               size="footer"
@@ -27,6 +32,24 @@ export function SiteFooter() {
                 birbirlerini bulmasına ve süreçlerini
                 yönetmesine yardımcı olur.
               </p>
+            </div>
+
+            <div className="mt-5 flex items-center gap-2">
+              <SocialLink
+                href={siteContact.social.instagram.href}
+                label="İZSER Instagram hesabı"
+                icon={
+                  <InstagramIcon className="h-[18px] w-[18px]" />
+                }
+              />
+
+              <SocialLink
+                href={siteContact.social.facebook.href}
+                label="İZSER Facebook hesabı"
+                icon={
+                  <FacebookIcon className="h-[18px] w-[18px]" />
+                }
+              />
             </div>
           </div>
 
@@ -69,24 +92,39 @@ export function SiteFooter() {
 
             <div className="mt-5 flex flex-col items-start gap-3">
               <a
-                href="tel:+905331341435"
+                href={siteContact.phone.href}
                 className="text-[11px] font-semibold text-[#8c9095] transition-colors hover:text-white"
               >
-                0533 134 14 35
+                {siteContact.phone.display}
               </a>
 
               <a
-                href="tel:+905332501435"
+                href={siteContact.email.href}
                 className="text-[11px] font-semibold text-[#8c9095] transition-colors hover:text-white"
               >
-                0533 250 14 35
+                {siteContact.email.display}
               </a>
 
               <a
-                href="mailto:info@izser.com"
-                className="text-[11px] font-semibold text-[#8c9095] transition-colors hover:text-white"
+                href={siteContact.social.instagram.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-[11px] font-semibold text-[#8c9095] transition-colors hover:text-white"
               >
-                info@izser.com
+                <InstagramIcon className="h-[15px] w-[15px]" />
+
+                {siteContact.social.instagram.username}
+              </a>
+
+              <a
+                href={siteContact.social.facebook.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-[11px] font-semibold text-[#8c9095] transition-colors hover:text-white"
+              >
+                <FacebookIcon className="h-[15px] w-[15px]" />
+
+                Facebook
               </a>
             </div>
           </div>
@@ -161,5 +199,27 @@ function FooterLink({
     >
       {children}
     </Link>
+  );
+}
+
+function SocialLink({
+  href,
+  label,
+  icon,
+}: {
+  href: string;
+  label: string;
+  icon: React.ReactNode;
+}) {
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label={label}
+      className="flex h-10 w-10 items-center justify-center rounded-xl border border-[#2b2b2b] bg-[#101010] text-[#a7aaae] transition-all duration-200 hover:-translate-y-0.5 hover:border-[#4b4b4b] hover:bg-[#171717] hover:text-white"
+    >
+      {icon}
+    </a>
   );
 }

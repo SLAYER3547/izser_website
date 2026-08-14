@@ -1,3 +1,5 @@
+import { siteContact } from "@/lib/site-contact";
+
 const organizationJsonLd = {
   "@context":
     "https://schema.org",
@@ -35,11 +37,14 @@ const organizationJsonLd = {
     "https://izser.com.tr/opengraph-image.png",
 
   email:
-    "info@izser.com",
+    siteContact.email.display,
 
-  telephone: [
-    "+905331341435",
-    "+905332501435",
+  telephone:
+    siteContact.phone.international,
+
+  sameAs: [
+    siteContact.social.instagram.href,
+    siteContact.social.facebook.href,
   ],
 
   description:
@@ -51,27 +56,10 @@ const organizationJsonLd = {
         "ContactPoint",
 
       telephone:
-        "+905331341435",
+        siteContact.phone.international,
 
       email:
-        "info@izser.com",
-
-      contactType:
-        "customer support",
-
-      availableLanguage: [
-        "Turkish",
-      ],
-    },
-    {
-      "@type":
-        "ContactPoint",
-
-      telephone:
-        "+905332501435",
-
-      email:
-        "info@izser.com",
+        siteContact.email.display,
 
       contactType:
         "customer support",

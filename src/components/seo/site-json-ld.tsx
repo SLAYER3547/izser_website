@@ -8,7 +8,7 @@ const organizationJsonLd = {
     "Organization",
 
   "@id":
-    "https://izser.com.tr/#organization",
+    "https://izser.com/#organization",
 
   name:
     "İZSER Teknoloji Ulaşım Hizmetleri Ticaret Limited Şirketi",
@@ -17,14 +17,14 @@ const organizationJsonLd = {
     "İZSER",
 
   url:
-    "https://izser.com.tr",
+    "https://izser.com",
 
   logo: {
     "@type":
       "ImageObject",
 
     url:
-      "https://izser.com.tr/brand/izser-site-icon.png",
+      "https://izser.com/brand/izser-site-icon.png",
 
     width:
       512,
@@ -34,7 +34,7 @@ const organizationJsonLd = {
   },
 
   image:
-    "https://izser.com.tr/opengraph-image.png",
+    "https://izser.com/opengraph-image.png",
 
   email:
     siteContact.email.display,
@@ -79,10 +79,10 @@ const websiteJsonLd = {
     "WebSite",
 
   "@id":
-    "https://izser.com.tr/#website",
+    "https://izser.com/#website",
 
   url:
-    "https://izser.com.tr",
+    "https://izser.com",
 
   name:
     "İZSER",
@@ -95,7 +95,7 @@ const websiteJsonLd = {
 
   publisher: {
     "@id":
-      "https://izser.com.tr/#organization",
+      "https://izser.com/#organization",
   },
 
   inLanguage:

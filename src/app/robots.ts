@@ -2,19 +2,25 @@ import type {
   MetadataRoute,
 } from "next";
 
+export const dynamic =
+  "force-static";
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
-        userAgent: "*",
-        allow: "/",
+        userAgent:
+          "*",
+
+        allow:
+          "/",
       },
     ],
 
     sitemap:
-      "https://izser.com.tr/sitemap.xml",
+      "https://izser.com/sitemap.xml",
 
     host:
-      "https://izser.com.tr",
+      "https://izser.com",
   };
 }

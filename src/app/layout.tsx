@@ -11,7 +11,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://izser.com.tr",
+    "https://izser.com",
   ),
 
   title: {
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
 
     url:
-      "https://izser.com.tr",
+      "https://izser.com",
 
     siteName:
       "İZSER",
